@@ -1,0 +1,381 @@
+Date	Time	HTID	HomeTeam	ATID	AwayTeam	HTHG	HTAG	FTHG	FTAG	Goals	Winner
+2018-08-10	19:00:00	66	Manchester United FC	338	Leicester City FC	1	0	2	1	3	HOME_TEAM
+2018-08-11	11:30:00	67	Newcastle United FC	73	Tottenham Hotspur FC	1	2	1	2	3	AWAY_TEAM
+2018-08-11	14:00:00	63	Fulham FC	354	Crystal Palace FC	0	1	0	2	2	AWAY_TEAM
+2018-08-11	14:00:00	394	Huddersfield Town AFC	61	Chelsea FC	0	2	0	3	3	AWAY_TEAM
+2018-08-11	14:00:00	346	Watford FC	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
+2018-08-11	14:00:00	1044	AFC Bournemouth	715	Cardiff City FC	1	0	2	0	2	HOME_TEAM
+2018-08-11	16:30:00	76	Wolverhampton Wanderers FC	62	Everton FC	1	1	2	2	4	DRAW
+2018-08-12	12:30:00	64	Liverpool FC	563	West Ham United FC	2	0	4	0	4	HOME_TEAM
+2018-08-12	12:30:00	340	Southampton FC	328	Burnley FC	0	0	0	0	0	DRAW
+2018-08-12	15:00:00	57	Arsenal FC	65	Manchester City FC	0	1	0	2	2	AWAY_TEAM
+2018-08-18	11:30:00	715	Cardiff City FC	67	Newcastle United FC	0	0	0	0	0	DRAW
+2018-08-18	14:00:00	73	Tottenham Hotspur FC	63	Fulham FC	1	0	3	1	4	HOME_TEAM
+2018-08-18	14:00:00	62	Everton FC	340	Southampton FC	2	0	2	1	3	HOME_TEAM
+2018-08-18	14:00:00	338	Leicester City FC	76	Wolverhampton Wanderers FC	2	0	2	0	2	HOME_TEAM
+2018-08-18	14:00:00	563	West Ham United FC	1044	AFC Bournemouth	1	0	1	2	3	AWAY_TEAM
+2018-08-18	16:30:00	61	Chelsea FC	57	Arsenal FC	2	2	3	2	5	HOME_TEAM
+2018-08-19	12:30:00	65	Manchester City FC	394	Huddersfield Town AFC	3	1	6	1	7	HOME_TEAM
+2018-08-19	12:30:00	328	Burnley FC	346	Watford FC	1	1	1	3	4	AWAY_TEAM
+2018-08-19	15:00:00	397	Brighton & Hove Albion FC	66	Manchester United FC	3	1	3	2	5	HOME_TEAM
+2018-08-20	19:00:00	354	Crystal Palace FC	64	Liverpool FC	0	1	0	2	2	AWAY_TEAM
+2018-08-25	11:30:00	76	Wolverhampton Wanderers FC	65	Manchester City FC	0	0	1	1	2	DRAW
+2018-08-25	14:00:00	57	Arsenal FC	563	West Ham United FC	1	1	3	1	4	HOME_TEAM
+2018-08-25	14:00:00	394	Huddersfield Town AFC	715	Cardiff City FC	0	0	0	0	0	DRAW
+2018-08-25	14:00:00	340	Southampton FC	338	Leicester City FC	0	0	1	2	3	AWAY_TEAM
+2018-08-25	14:00:00	1044	AFC Bournemouth	62	Everton FC	0	0	2	2	4	DRAW
+2018-08-25	16:30:00	64	Liverpool FC	397	Brighton & Hove Albion FC	1	0	1	0	1	HOME_TEAM
+2018-08-26	12:30:00	346	Watford FC	354	Crystal Palace FC	0	0	2	1	3	HOME_TEAM
+2018-08-26	15:00:00	63	Fulham FC	328	Burnley FC	3	2	4	2	6	HOME_TEAM
+2018-08-26	15:00:00	67	Newcastle United FC	61	Chelsea FC	0	0	1	2	3	AWAY_TEAM
+2018-08-27	19:00:00	66	Manchester United FC	73	Tottenham Hotspur FC	0	0	0	3	3	AWAY_TEAM
+2018-09-01	11:30:00	338	Leicester City FC	64	Liverpool FC	0	2	1	2	3	AWAY_TEAM
+2018-09-01	14:00:00	61	Chelsea FC	1044	AFC Bournemouth	0	0	2	0	2	HOME_TEAM
+2018-09-01	14:00:00	62	Everton FC	394	Huddersfield Town AFC	1	1	1	1	2	DRAW
+2018-09-01	14:00:00	563	West Ham United FC	76	Wolverhampton Wanderers FC	0	0	0	1	1	AWAY_TEAM
+2018-09-01	14:00:00	354	Crystal Palace FC	340	Southampton FC	0	0	0	2	2	AWAY_TEAM
+2018-09-01	14:00:00	397	Brighton & Hove Albion FC	63	Fulham FC	0	1	2	2	4	DRAW
+2018-09-01	16:30:00	65	Manchester City FC	67	Newcastle United FC	1	1	2	1	3	HOME_TEAM
+2018-09-02	12:30:00	715	Cardiff City FC	57	Arsenal FC	1	1	2	3	5	AWAY_TEAM
+2018-09-02	15:00:00	328	Burnley FC	66	Manchester United FC	0	2	0	2	2	AWAY_TEAM
+2018-09-02	15:00:00	346	Watford FC	73	Tottenham Hotspur FC	0	0	2	1	3	HOME_TEAM
+2018-09-15	11:30:00	73	Tottenham Hotspur FC	64	Liverpool FC	0	1	1	2	3	AWAY_TEAM
+2018-09-15	14:00:00	65	Manchester City FC	63	Fulham FC	2	0	3	0	3	HOME_TEAM
+2018-09-15	14:00:00	67	Newcastle United FC	57	Arsenal FC	0	0	1	2	3	AWAY_TEAM
+2018-09-15	14:00:00	61	Chelsea FC	715	Cardiff City FC	2	1	4	1	5	HOME_TEAM
+2018-09-15	14:00:00	394	Huddersfield Town AFC	354	Crystal Palace FC	0	1	0	1	1	AWAY_TEAM
+2018-09-15	14:00:00	1044	AFC Bournemouth	338	Leicester City FC	3	0	4	2	6	HOME_TEAM
+2018-09-15	16:30:00	346	Watford FC	66	Manchester United FC	0	2	1	2	3	AWAY_TEAM
+2018-09-16	12:30:00	76	Wolverhampton Wanderers FC	328	Burnley FC	0	0	1	0	1	HOME_TEAM
+2018-09-16	15:00:00	62	Everton FC	563	West Ham United FC	1	2	1	3	4	AWAY_TEAM
+2018-09-17	19:00:00	340	Southampton FC	397	Brighton & Hove Albion FC	1	0	2	2	4	DRAW
+2018-09-22	11:30:00	63	Fulham FC	346	Watford FC	0	1	1	1	2	DRAW
+2018-09-22	14:00:00	64	Liverpool FC	340	Southampton FC	3	0	3	0	3	HOME_TEAM
+2018-09-22	14:00:00	66	Manchester United FC	76	Wolverhampton Wanderers FC	1	0	1	1	2	DRAW
+2018-09-22	14:00:00	338	Leicester City FC	394	Huddersfield Town AFC	1	1	3	1	4	HOME_TEAM
+2018-09-22	14:00:00	328	Burnley FC	1044	AFC Bournemouth	2	0	4	0	4	HOME_TEAM
+2018-09-22	14:00:00	715	Cardiff City FC	65	Manchester City FC	0	3	0	5	5	AWAY_TEAM
+2018-09-22	14:00:00	354	Crystal Palace FC	67	Newcastle United FC	0	0	0	0	0	DRAW
+2018-09-22	16:30:00	397	Brighton & Hove Albion FC	73	Tottenham Hotspur FC	0	1	1	2	3	AWAY_TEAM
+2018-09-23	12:30:00	563	West Ham United FC	61	Chelsea FC	0	0	0	0	0	DRAW
+2018-09-23	15:00:00	57	Arsenal FC	62	Everton FC	0	0	2	0	2	HOME_TEAM
+2018-09-29	11:30:00	563	West Ham United FC	66	Manchester United FC	2	0	3	1	4	HOME_TEAM
+2018-09-29	14:00:00	76	Wolverhampton Wanderers FC	340	Southampton FC	0	0	2	0	2	HOME_TEAM
+2018-09-29	14:00:00	65	Manchester City FC	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
+2018-09-29	14:00:00	67	Newcastle United FC	338	Leicester City FC	0	1	0	2	2	AWAY_TEAM
+2018-09-29	14:00:00	57	Arsenal FC	346	Watford FC	0	0	2	0	2	HOME_TEAM
+2018-09-29	14:00:00	62	Everton FC	63	Fulham FC	0	0	3	0	3	HOME_TEAM
+2018-09-29	14:00:00	394	Huddersfield Town AFC	73	Tottenham Hotspur FC	0	2	0	2	2	AWAY_TEAM
+2018-09-29	16:30:00	61	Chelsea FC	64	Liverpool FC	1	0	1	1	2	DRAW
+2018-09-30	15:00:00	715	Cardiff City FC	328	Burnley FC	0	0	1	2	3	AWAY_TEAM
+2018-10-01	19:00:00	1044	AFC Bournemouth	354	Crystal Palace FC	1	0	2	1	3	HOME_TEAM
+2018-10-05	19:00:00	397	Brighton & Hove Albion FC	563	West Ham United FC	1	0	1	0	1	HOME_TEAM
+2018-10-06	14:00:00	73	Tottenham Hotspur FC	715	Cardiff City FC	1	0	1	0	1	HOME_TEAM
+2018-10-06	14:00:00	338	Leicester City FC	62	Everton FC	1	1	1	2	3	AWAY_TEAM
+2018-10-06	14:00:00	328	Burnley FC	394	Huddersfield Town AFC	1	0	1	1	2	DRAW
+2018-10-06	14:00:00	354	Crystal Palace FC	76	Wolverhampton Wanderers FC	0	0	0	1	1	AWAY_TEAM
+2018-10-06	14:00:00	346	Watford FC	1044	AFC Bournemouth	0	3	0	4	4	AWAY_TEAM
+2018-10-06	16:30:00	66	Manchester United FC	67	Newcastle United FC	0	2	3	2	5	HOME_TEAM
+2018-10-07	11:00:00	63	Fulham FC	57	Arsenal FC	1	1	1	5	6	AWAY_TEAM
+2018-10-07	13:15:00	340	Southampton FC	61	Chelsea FC	0	1	0	3	3	AWAY_TEAM
+2018-10-07	15:30:00	64	Liverpool FC	65	Manchester City FC	0	0	0	0	0	DRAW
+2018-10-20	11:30:00	61	Chelsea FC	66	Manchester United FC	1	0	2	2	4	DRAW
+2018-10-20	14:00:00	76	Wolverhampton Wanderers FC	346	Watford FC	0	2	0	2	2	AWAY_TEAM
+2018-10-20	14:00:00	65	Manchester City FC	328	Burnley FC	1	0	5	0	5	HOME_TEAM
+2018-10-20	14:00:00	67	Newcastle United FC	397	Brighton & Hove Albion FC	0	1	0	1	1	AWAY_TEAM
+2018-10-20	14:00:00	715	Cardiff City FC	63	Fulham FC	2	2	4	2	6	HOME_TEAM
+2018-10-20	14:00:00	563	West Ham United FC	73	Tottenham Hotspur FC	0	1	0	1	1	AWAY_TEAM
+2018-10-20	14:00:00	1044	AFC Bournemouth	340	Southampton FC	0	0	0	0	0	DRAW
+2018-10-20	16:30:00	394	Huddersfield Town AFC	64	Liverpool FC	0	1	0	1	1	AWAY_TEAM
+2018-10-21	15:00:00	62	Everton FC	354	Crystal Palace FC	0	0	2	0	2	HOME_TEAM
+2018-10-22	19:00:00	57	Arsenal FC	338	Leicester City FC	1	1	3	1	4	HOME_TEAM
+2018-10-27	14:00:00	63	Fulham FC	1044	AFC Bournemouth	0	1	0	3	3	AWAY_TEAM
+2018-10-27	14:00:00	64	Liverpool FC	715	Cardiff City FC	1	0	4	1	5	HOME_TEAM
+2018-10-27	14:00:00	340	Southampton FC	67	Newcastle United FC	0	0	0	0	0	DRAW
+2018-10-27	14:00:00	397	Brighton & Hove Albion FC	76	Wolverhampton Wanderers FC	0	0	1	0	1	HOME_TEAM
+2018-10-27	14:00:00	346	Watford FC	394	Huddersfield Town AFC	2	0	3	0	3	HOME_TEAM
+2018-10-27	16:30:00	338	Leicester City FC	563	West Ham United FC	0	1	1	1	2	DRAW
+2018-10-28	13:30:00	328	Burnley FC	61	Chelsea FC	0	1	0	4	4	AWAY_TEAM
+2018-10-28	13:30:00	354	Crystal Palace FC	57	Arsenal FC	1	0	2	2	4	DRAW
+2018-10-28	16:00:00	66	Manchester United FC	62	Everton FC	1	0	2	1	3	HOME_TEAM
+2018-10-29	20:00:00	73	Tottenham Hotspur FC	65	Manchester City FC	0	1	0	1	1	AWAY_TEAM
+2018-11-03	12:30:00	1044	AFC Bournemouth	66	Manchester United FC	1	1	1	2	3	AWAY_TEAM
+2018-11-03	15:00:00	67	Newcastle United FC	346	Watford FC	0	0	1	0	1	HOME_TEAM
+2018-11-03	15:00:00	62	Everton FC	397	Brighton & Hove Albion FC	1	1	3	1	4	HOME_TEAM
+2018-11-03	15:00:00	715	Cardiff City FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
+2018-11-03	15:00:00	563	West Ham United FC	328	Burnley FC	1	1	4	2	6	HOME_TEAM
+2018-11-03	17:30:00	57	Arsenal FC	64	Liverpool FC	0	0	1	1	2	DRAW
+2018-11-03	19:45:00	76	Wolverhampton Wanderers FC	73	Tottenham Hotspur FC	0	2	2	3	5	AWAY_TEAM
+2018-11-04	15:00:00	65	Manchester City FC	340	Southampton FC	4	1	6	1	7	HOME_TEAM
+2018-11-04	16:00:00	61	Chelsea FC	354	Crystal Palace FC	1	0	3	1	4	HOME_TEAM
+2018-11-05	20:00:00	394	Huddersfield Town AFC	63	Fulham FC	1	0	1	0	1	HOME_TEAM
+2018-11-10	12:30:00	715	Cardiff City FC	397	Brighton & Hove Albion FC	1	1	2	1	3	HOME_TEAM
+2018-11-10	15:00:00	67	Newcastle United FC	1044	AFC Bournemouth	2	1	2	1	3	HOME_TEAM
+2018-11-10	15:00:00	338	Leicester City FC	328	Burnley FC	0	0	0	0	0	DRAW
+2018-11-10	15:00:00	394	Huddersfield Town AFC	563	West Ham United FC	1	0	1	1	2	DRAW
+2018-11-10	15:00:00	340	Southampton FC	346	Watford FC	1	0	1	1	2	DRAW
+2018-11-10	17:30:00	354	Crystal Palace FC	73	Tottenham Hotspur FC	0	0	0	1	1	AWAY_TEAM
+2018-11-11	12:00:00	64	Liverpool FC	63	Fulham FC	1	0	2	0	2	HOME_TEAM
+2018-11-11	14:15:00	61	Chelsea FC	62	Everton FC	0	0	0	0	0	DRAW
+2018-11-11	16:30:00	65	Manchester City FC	66	Manchester United FC	1	0	3	1	4	HOME_TEAM
+2018-11-11	16:30:00	57	Arsenal FC	76	Wolverhampton Wanderers FC	0	1	1	1	2	DRAW
+2018-11-24	15:00:00	63	Fulham FC	340	Southampton FC	2	1	3	2	5	HOME_TEAM
+2018-11-24	15:00:00	62	Everton FC	715	Cardiff City FC	0	0	1	0	1	HOME_TEAM
+2018-11-24	15:00:00	66	Manchester United FC	354	Crystal Palace FC	0	0	0	0	0	DRAW
+2018-11-24	15:00:00	563	West Ham United FC	65	Manchester City FC	0	3	0	4	4	AWAY_TEAM
+2018-11-24	15:00:00	397	Brighton & Hove Albion FC	338	Leicester City FC	1	0	1	1	2	DRAW
+2018-11-24	15:00:00	346	Watford FC	64	Liverpool FC	0	0	0	3	3	AWAY_TEAM
+2018-11-24	17:30:00	73	Tottenham Hotspur FC	61	Chelsea FC	2	0	3	1	4	HOME_TEAM
+2018-11-25	13:30:00	1044	AFC Bournemouth	57	Arsenal FC	1	1	1	2	3	AWAY_TEAM
+2018-11-25	16:00:00	76	Wolverhampton Wanderers FC	394	Huddersfield Town AFC	0	1	0	2	2	AWAY_TEAM
+2018-11-26	20:30:00	328	Burnley FC	67	Newcastle United FC	1	2	1	2	3	AWAY_TEAM
+2018-11-30	20:00:00	715	Cardiff City FC	76	Wolverhampton Wanderers FC	0	1	2	1	3	HOME_TEAM
+2018-12-01	15:00:00	65	Manchester City FC	1044	AFC Bournemouth	1	1	3	1	4	HOME_TEAM
+2018-12-01	15:00:00	67	Newcastle United FC	563	West Ham United FC	0	1	0	3	3	AWAY_TEAM
+2018-12-01	15:00:00	338	Leicester City FC	346	Watford FC	2	0	2	0	2	HOME_TEAM
+2018-12-01	15:00:00	394	Huddersfield Town AFC	397	Brighton & Hove Albion FC	1	1	1	2	3	AWAY_TEAM
+2018-12-01	15:00:00	354	Crystal Palace FC	328	Burnley FC	1	0	2	0	2	HOME_TEAM
+2018-12-01	17:30:00	340	Southampton FC	66	Manchester United FC	2	2	2	2	4	DRAW
+2018-12-02	12:00:00	61	Chelsea FC	63	Fulham FC	1	0	2	0	2	HOME_TEAM
+2018-12-02	14:05:00	57	Arsenal FC	73	Tottenham Hotspur FC	1	2	4	2	6	HOME_TEAM
+2018-12-02	16:15:00	64	Liverpool FC	62	Everton FC	0	0	1	0	1	HOME_TEAM
+2018-12-04	19:45:00	563	West Ham United FC	715	Cardiff City FC	0	0	3	1	4	HOME_TEAM
+2018-12-04	19:45:00	397	Brighton & Hove Albion FC	354	Crystal Palace FC	3	0	3	1	4	HOME_TEAM
+2018-12-04	19:45:00	1044	AFC Bournemouth	394	Huddersfield Town AFC	2	1	2	1	3	HOME_TEAM
+2018-12-04	20:00:00	346	Watford FC	65	Manchester City FC	0	1	1	2	3	AWAY_TEAM
+2018-12-05	19:45:00	76	Wolverhampton Wanderers FC	61	Chelsea FC	0	1	2	1	3	HOME_TEAM
+2018-12-05	19:45:00	63	Fulham FC	338	Leicester City FC	1	0	1	1	2	DRAW
+2018-12-05	19:45:00	328	Burnley FC	64	Liverpool FC	0	0	1	3	4	AWAY_TEAM
+2018-12-05	19:45:00	62	Everton FC	67	Newcastle United FC	1	1	1	1	2	DRAW
+2018-12-05	20:00:00	66	Manchester United FC	57	Arsenal FC	1	1	2	2	4	DRAW
+2018-12-05	20:00:00	73	Tottenham Hotspur FC	340	Southampton FC	1	0	3	1	4	HOME_TEAM
+2018-12-08	12:30:00	1044	AFC Bournemouth	64	Liverpool FC	0	1	0	4	4	AWAY_TEAM
+2018-12-08	15:00:00	57	Arsenal FC	394	Huddersfield Town AFC	0	0	1	0	1	HOME_TEAM
+2018-12-08	15:00:00	66	Manchester United FC	63	Fulham FC	3	0	4	1	5	HOME_TEAM
+2018-12-08	15:00:00	328	Burnley FC	397	Brighton & Hove Albion FC	1	0	1	0	1	HOME_TEAM
+2018-12-08	15:00:00	715	Cardiff City FC	340	Southampton FC	0	0	1	0	1	HOME_TEAM
+2018-12-08	15:00:00	563	West Ham United FC	354	Crystal Palace FC	0	1	3	2	5	HOME_TEAM
+2018-12-08	17:30:00	61	Chelsea FC	65	Manchester City FC	1	0	2	0	2	HOME_TEAM
+2018-12-08	19:45:00	338	Leicester City FC	73	Tottenham Hotspur FC	0	1	0	2	2	AWAY_TEAM
+2018-12-09	16:00:00	67	Newcastle United FC	76	Wolverhampton Wanderers FC	1	1	1	2	3	AWAY_TEAM
+2018-12-10	20:00:00	62	Everton FC	346	Watford FC	1	0	2	2	4	DRAW
+2018-12-15	12:30:00	65	Manchester City FC	62	Everton FC	1	0	3	1	4	HOME_TEAM
+2018-12-15	15:00:00	76	Wolverhampton Wanderers FC	1044	AFC Bournemouth	1	0	2	0	2	HOME_TEAM
+2018-12-15	15:00:00	73	Tottenham Hotspur FC	328	Burnley FC	0	0	1	0	1	HOME_TEAM
+2018-12-15	15:00:00	394	Huddersfield Town AFC	67	Newcastle United FC	0	0	0	1	1	AWAY_TEAM
+2018-12-15	15:00:00	354	Crystal Palace FC	338	Leicester City FC	1	0	1	0	1	HOME_TEAM
+2018-12-15	15:00:00	346	Watford FC	715	Cardiff City FC	1	0	3	2	5	HOME_TEAM
+2018-12-15	17:30:00	63	Fulham FC	563	West Ham United FC	0	2	0	2	2	AWAY_TEAM
+2018-12-16	13:30:00	340	Southampton FC	57	Arsenal FC	2	1	3	2	5	HOME_TEAM
+2018-12-16	13:30:00	397	Brighton & Hove Albion FC	61	Chelsea FC	0	2	1	2	3	AWAY_TEAM
+2018-12-16	16:00:00	64	Liverpool FC	66	Manchester United FC	1	1	3	1	4	HOME_TEAM
+2018-12-21	20:00:00	76	Wolverhampton Wanderers FC	64	Liverpool FC	0	1	0	2	2	AWAY_TEAM
+2018-12-22	12:30:00	57	Arsenal FC	328	Burnley FC	1	0	3	1	4	HOME_TEAM
+2018-12-22	15:00:00	65	Manchester City FC	354	Crystal Palace FC	1	2	2	3	5	AWAY_TEAM
+2018-12-22	15:00:00	67	Newcastle United FC	63	Fulham FC	0	0	0	0	0	DRAW
+2018-12-22	15:00:00	61	Chelsea FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
+2018-12-22	15:00:00	394	Huddersfield Town AFC	340	Southampton FC	0	2	1	3	4	AWAY_TEAM
+2018-12-22	15:00:00	563	West Ham United FC	346	Watford FC	0	1	0	2	2	AWAY_TEAM
+2018-12-22	15:00:00	1044	AFC Bournemouth	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
+2018-12-22	17:30:00	715	Cardiff City FC	66	Manchester United FC	1	3	1	5	6	AWAY_TEAM
+2018-12-23	16:00:00	62	Everton FC	73	Tottenham Hotspur FC	1	3	2	6	8	AWAY_TEAM
+2018-12-26	12:30:00	63	Fulham FC	76	Wolverhampton Wanderers FC	0	0	1	1	2	DRAW
+2018-12-26	15:00:00	64	Liverpool FC	67	Newcastle United FC	1	0	4	0	4	HOME_TEAM
+2018-12-26	15:00:00	73	Tottenham Hotspur FC	1044	AFC Bournemouth	3	0	5	0	5	HOME_TEAM
+2018-12-26	15:00:00	66	Manchester United FC	394	Huddersfield Town AFC	1	0	3	1	4	HOME_TEAM
+2018-12-26	15:00:00	338	Leicester City FC	65	Manchester City FC	1	1	2	1	3	HOME_TEAM
+2018-12-26	15:00:00	328	Burnley FC	62	Everton FC	1	3	1	5	6	AWAY_TEAM
+2018-12-26	15:00:00	354	Crystal Palace FC	715	Cardiff City FC	0	0	0	0	0	DRAW
+2018-12-26	17:15:00	397	Brighton & Hove Albion FC	57	Arsenal FC	1	1	1	1	2	DRAW
+2018-12-26	19:30:00	346	Watford FC	61	Chelsea FC	1	1	1	2	3	AWAY_TEAM
+2018-12-27	19:45:00	340	Southampton FC	563	West Ham United FC	0	0	1	2	3	AWAY_TEAM
+2018-12-29	15:00:00	338	Leicester City FC	715	Cardiff City FC	0	0	0	1	1	AWAY_TEAM
+2018-12-29	15:00:00	397	Brighton & Hove Albion FC	62	Everton FC	0	0	1	0	1	HOME_TEAM
+2018-12-29	15:00:00	346	Watford FC	67	Newcastle United FC	0	1	1	1	2	DRAW
+2018-12-29	15:00:00	63	Fulham FC	394	Huddersfield Town AFC	0	0	1	0	1	HOME_TEAM
+2018-12-29	15:00:00	73	Tottenham Hotspur FC	76	Wolverhampton Wanderers FC	1	0	1	3	4	AWAY_TEAM
+2018-12-29	17:30:00	64	Liverpool FC	57	Arsenal FC	4	1	5	1	6	HOME_TEAM
+2018-12-30	12:00:00	354	Crystal Palace FC	61	Chelsea FC	0	0	0	1	1	AWAY_TEAM
+2018-12-30	14:15:00	328	Burnley FC	563	West Ham United FC	2	0	2	0	2	HOME_TEAM
+2018-12-30	14:15:00	340	Southampton FC	65	Manchester City FC	1	3	1	3	4	AWAY_TEAM
+2018-12-30	16:30:00	66	Manchester United FC	1044	AFC Bournemouth	3	1	4	1	5	HOME_TEAM
+2019-01-01	12:30:00	62	Everton FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
+2019-01-01	15:00:00	57	Arsenal FC	63	Fulham FC	1	0	4	1	5	HOME_TEAM
+2019-01-01	17:30:00	715	Cardiff City FC	73	Tottenham Hotspur FC	0	3	0	3	3	AWAY_TEAM
+2019-01-02	19:45:00	76	Wolverhampton Wanderers FC	354	Crystal Palace FC	0	0	0	2	2	AWAY_TEAM
+2019-01-02	19:45:00	61	Chelsea FC	340	Southampton FC	0	0	0	0	0	DRAW
+2019-01-02	19:45:00	394	Huddersfield Town AFC	328	Burnley FC	1	1	1	2	3	AWAY_TEAM
+2019-01-02	19:45:00	563	West Ham United FC	397	Brighton & Hove Albion FC	0	0	2	2	4	DRAW
+2019-01-02	19:45:00	1044	AFC Bournemouth	346	Watford FC	3	3	3	3	6	DRAW
+2019-01-02	20:00:00	67	Newcastle United FC	66	Manchester United FC	0	0	0	2	2	AWAY_TEAM
+2019-01-03	20:00:00	65	Manchester City FC	64	Liverpool FC	1	0	2	1	3	HOME_TEAM
+2019-01-12	12:30:00	563	West Ham United FC	57	Arsenal FC	0	0	1	0	1	HOME_TEAM
+2019-01-12	15:00:00	338	Leicester City FC	340	Southampton FC	0	2	1	2	3	AWAY_TEAM
+2019-01-12	15:00:00	328	Burnley FC	63	Fulham FC	2	1	2	1	3	HOME_TEAM
+2019-01-12	15:00:00	715	Cardiff City FC	394	Huddersfield Town AFC	0	0	0	0	0	DRAW
+2019-01-12	15:00:00	354	Crystal Palace FC	346	Watford FC	1	0	1	2	3	AWAY_TEAM
+2019-01-12	15:00:00	397	Brighton & Hove Albion FC	64	Liverpool FC	0	0	0	1	1	AWAY_TEAM
+2019-01-12	17:30:00	61	Chelsea FC	67	Newcastle United FC	1	1	2	1	3	HOME_TEAM
+2019-01-13	14:15:00	62	Everton FC	1044	AFC Bournemouth	0	0	2	0	2	HOME_TEAM
+2019-01-13	16:30:00	73	Tottenham Hotspur FC	66	Manchester United FC	0	1	0	1	1	AWAY_TEAM
+2019-01-14	20:00:00	65	Manchester City FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-01-19	12:30:00	76	Wolverhampton Wanderers FC	338	Leicester City FC	None	None	None	None		None
+2019-01-19	15:00:00	64	Liverpool FC	354	Crystal Palace FC	None	None	None	None		None
+2019-01-19	15:00:00	67	Newcastle United FC	715	Cardiff City FC	None	None	None	None		None
+2019-01-19	15:00:00	66	Manchester United FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-01-19	15:00:00	340	Southampton FC	62	Everton FC	None	None	None	None		None
+2019-01-19	15:00:00	346	Watford FC	328	Burnley FC	None	None	None	None		None
+2019-01-19	15:00:00	1044	AFC Bournemouth	563	West Ham United FC	None	None	None	None		None
+2019-01-19	17:30:00	57	Arsenal FC	61	Chelsea FC	None	None	None	None		None
+2019-01-20	13:30:00	394	Huddersfield Town AFC	65	Manchester City FC	None	None	None	None		None
+2019-01-20	16:00:00	63	Fulham FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-01-29	19:45:00	76	Wolverhampton Wanderers FC	563	West Ham United FC	None	None	None	None		None
+2019-01-29	19:45:00	63	Fulham FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-01-29	19:45:00	57	Arsenal FC	715	Cardiff City FC	None	None	None	None		None
+2019-01-29	19:45:00	394	Huddersfield Town AFC	62	Everton FC	None	None	None	None		None
+2019-01-29	20:00:00	66	Manchester United FC	328	Burnley FC	None	None	None	None		None
+2019-01-29	20:00:00	67	Newcastle United FC	65	Manchester City FC	None	None	None	None		None
+2019-01-30	19:45:00	1044	AFC Bournemouth	61	Chelsea FC	None	None	None	None		None
+2019-01-30	19:45:00	340	Southampton FC	354	Crystal Palace FC	None	None	None	None		None
+2019-01-30	20:00:00	64	Liverpool FC	338	Leicester City FC	None	None	None	None		None
+2019-01-30	20:00:00	73	Tottenham Hotspur FC	346	Watford FC	None	None	None	None		None
+2019-02-02	12:30:00	73	Tottenham Hotspur FC	67	Newcastle United FC	None	None	None	None		None
+2019-02-02	15:00:00	61	Chelsea FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-02-02	15:00:00	62	Everton FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-02-02	15:00:00	328	Burnley FC	340	Southampton FC	None	None	None	None		None
+2019-02-02	15:00:00	354	Crystal Palace FC	63	Fulham FC	None	None	None	None		None
+2019-02-02	15:00:00	397	Brighton & Hove Albion FC	346	Watford FC	None	None	None	None		None
+2019-02-02	17:30:00	715	Cardiff City FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-02-03	14:05:00	338	Leicester City FC	66	Manchester United FC	None	None	None	None		None
+2019-02-03	16:30:00	65	Manchester City FC	57	Arsenal FC	None	None	None	None		None
+2019-02-04	20:00:00	563	West Ham United FC	64	Liverpool FC	None	None	None	None		None
+2019-02-09	12:30:00	63	Fulham FC	66	Manchester United FC	None	None	None	None		None
+2019-02-09	15:00:00	64	Liverpool FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-02-09	15:00:00	394	Huddersfield Town AFC	57	Arsenal FC	None	None	None	None		None
+2019-02-09	15:00:00	340	Southampton FC	715	Cardiff City FC	None	None	None	None		None
+2019-02-09	15:00:00	354	Crystal Palace FC	563	West Ham United FC	None	None	None	None		None
+2019-02-09	15:00:00	346	Watford FC	62	Everton FC	None	None	None	None		None
+2019-02-09	17:30:00	397	Brighton & Hove Albion FC	328	Burnley FC	None	None	None	None		None
+2019-02-10	13:30:00	73	Tottenham Hotspur FC	338	Leicester City FC	None	None	None	None		None
+2019-02-10	16:00:00	65	Manchester City FC	61	Chelsea FC	None	None	None	None		None
+2019-02-11	20:00:00	76	Wolverhampton Wanderers FC	67	Newcastle United FC	None	None	None	None		None
+2019-02-22	19:45:00	715	Cardiff City FC	346	Watford FC	None	None	None	None		None
+2019-02-22	19:45:00	563	West Ham United FC	63	Fulham FC	None	None	None	None		None
+2019-02-23	12:30:00	328	Burnley FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-02-23	15:00:00	67	Newcastle United FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-02-23	15:00:00	338	Leicester City FC	354	Crystal Palace FC	None	None	None	None		None
+2019-02-23	15:00:00	1044	AFC Bournemouth	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-02-23	17:30:00	62	Everton FC	65	Manchester City FC	None	None	None	None		None
+2019-02-24	12:00:00	61	Chelsea FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-02-24	14:05:00	57	Arsenal FC	340	Southampton FC	None	None	None	None		None
+2019-02-24	14:05:00	66	Manchester United FC	64	Liverpool FC	None	None	None	None		None
+2019-02-26	19:45:00	338	Leicester City FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-02-26	19:45:00	394	Huddersfield Town AFC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-02-26	19:45:00	715	Cardiff City FC	62	Everton FC	None	None	None	None		None
+2019-02-26	20:00:00	65	Manchester City FC	563	West Ham United FC	None	None	None	None		None
+2019-02-27	19:45:00	57	Arsenal FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-02-27	19:45:00	67	Newcastle United FC	328	Burnley FC	None	None	None	None		None
+2019-02-27	19:45:00	340	Southampton FC	63	Fulham FC	None	None	None	None		None
+2019-02-27	20:00:00	354	Crystal Palace FC	66	Manchester United FC	None	None	None	None		None
+2019-02-27	20:00:00	64	Liverpool FC	346	Watford FC	None	None	None	None		None
+2019-02-27	20:00:00	61	Chelsea FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-03-02	00:00:00	76	Wolverhampton Wanderers FC	715	Cardiff City FC	None	None	None	None		None
+2019-03-02	00:00:00	63	Fulham FC	61	Chelsea FC	None	None	None	None		None
+2019-03-02	00:00:00	73	Tottenham Hotspur FC	57	Arsenal FC	None	None	None	None		None
+2019-03-02	00:00:00	62	Everton FC	64	Liverpool FC	None	None	None	None		None
+2019-03-02	00:00:00	66	Manchester United FC	340	Southampton FC	None	None	None	None		None
+2019-03-02	00:00:00	328	Burnley FC	354	Crystal Palace FC	None	None	None	None		None
+2019-03-02	00:00:00	563	West Ham United FC	67	Newcastle United FC	None	None	None	None		None
+2019-03-02	00:00:00	397	Brighton & Hove Albion FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-03-02	00:00:00	346	Watford FC	338	Leicester City FC	None	None	None	None		None
+2019-03-02	00:00:00	1044	AFC Bournemouth	65	Manchester City FC	None	None	None	None		None
+2019-03-09	00:00:00	64	Liverpool FC	328	Burnley FC	None	None	None	None		None
+2019-03-09	00:00:00	65	Manchester City FC	346	Watford FC	None	None	None	None		None
+2019-03-09	00:00:00	67	Newcastle United FC	62	Everton FC	None	None	None	None		None
+2019-03-09	00:00:00	57	Arsenal FC	66	Manchester United FC	None	None	None	None		None
+2019-03-09	00:00:00	61	Chelsea FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-03-09	00:00:00	338	Leicester City FC	63	Fulham FC	None	None	None	None		None
+2019-03-09	00:00:00	394	Huddersfield Town AFC	1044	AFC Bournemouth	None	None	None	None		None
+2019-03-09	00:00:00	715	Cardiff City FC	563	West Ham United FC	None	None	None	None		None
+2019-03-09	00:00:00	340	Southampton FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-03-09	00:00:00	354	Crystal Palace FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-03-16	00:00:00	76	Wolverhampton Wanderers FC	57	Arsenal FC	None	None	None	None		None
+2019-03-16	00:00:00	63	Fulham FC	64	Liverpool FC	None	None	None	None		None
+2019-03-16	00:00:00	73	Tottenham Hotspur FC	354	Crystal Palace FC	None	None	None	None		None
+2019-03-16	00:00:00	62	Everton FC	61	Chelsea FC	None	None	None	None		None
+2019-03-16	00:00:00	66	Manchester United FC	65	Manchester City FC	None	None	None	None		None
+2019-03-16	00:00:00	328	Burnley FC	338	Leicester City FC	None	None	None	None		None
+2019-03-16	00:00:00	563	West Ham United FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-03-16	00:00:00	397	Brighton & Hove Albion FC	715	Cardiff City FC	None	None	None	None		None
+2019-03-16	00:00:00	346	Watford FC	340	Southampton FC	None	None	None	None		None
+2019-03-16	00:00:00	1044	AFC Bournemouth	67	Newcastle United FC	None	None	None	None		None
+2019-03-30	00:00:00	63	Fulham FC	65	Manchester City FC	None	None	None	None		None
+2019-03-30	00:00:00	64	Liverpool FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-03-30	00:00:00	57	Arsenal FC	67	Newcastle United FC	None	None	None	None		None
+2019-03-30	00:00:00	66	Manchester United FC	346	Watford FC	None	None	None	None		None
+2019-03-30	00:00:00	338	Leicester City FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-03-30	00:00:00	328	Burnley FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-03-30	00:00:00	715	Cardiff City FC	61	Chelsea FC	None	None	None	None		None
+2019-03-30	00:00:00	563	West Ham United FC	62	Everton FC	None	None	None	None		None
+2019-03-30	00:00:00	354	Crystal Palace FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-03-30	00:00:00	397	Brighton & Hove Albion FC	340	Southampton FC	None	None	None	None		None
+2019-04-06	00:00:00	76	Wolverhampton Wanderers FC	66	Manchester United FC	None	None	None	None		None
+2019-04-06	00:00:00	65	Manchester City FC	715	Cardiff City FC	None	None	None	None		None
+2019-04-06	00:00:00	67	Newcastle United FC	354	Crystal Palace FC	None	None	None	None		None
+2019-04-06	00:00:00	61	Chelsea FC	563	West Ham United FC	None	None	None	None		None
+2019-04-06	00:00:00	73	Tottenham Hotspur FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-04-06	00:00:00	62	Everton FC	57	Arsenal FC	None	None	None	None		None
+2019-04-06	00:00:00	394	Huddersfield Town AFC	338	Leicester City FC	None	None	None	None		None
+2019-04-06	00:00:00	340	Southampton FC	64	Liverpool FC	None	None	None	None		None
+2019-04-06	00:00:00	346	Watford FC	63	Fulham FC	None	None	None	None		None
+2019-04-06	00:00:00	1044	AFC Bournemouth	328	Burnley FC	None	None	None	None		None
+2019-04-13	00:00:00	63	Fulham FC	62	Everton FC	None	None	None	None		None
+2019-04-13	00:00:00	64	Liverpool FC	61	Chelsea FC	None	None	None	None		None
+2019-04-13	00:00:00	73	Tottenham Hotspur FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-04-13	00:00:00	66	Manchester United FC	563	West Ham United FC	None	None	None	None		None
+2019-04-13	00:00:00	338	Leicester City FC	67	Newcastle United FC	None	None	None	None		None
+2019-04-13	00:00:00	328	Burnley FC	715	Cardiff City FC	None	None	None	None		None
+2019-04-13	00:00:00	340	Southampton FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-04-13	00:00:00	354	Crystal Palace FC	65	Manchester City FC	None	None	None	None		None
+2019-04-13	00:00:00	397	Brighton & Hove Albion FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-04-13	00:00:00	346	Watford FC	57	Arsenal FC	None	None	None	None		None
+2019-04-20	00:00:00	76	Wolverhampton Wanderers FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-04-20	00:00:00	65	Manchester City FC	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-04-20	00:00:00	67	Newcastle United FC	340	Southampton FC	None	None	None	None		None
+2019-04-20	00:00:00	57	Arsenal FC	354	Crystal Palace FC	None	None	None	None		None
+2019-04-20	00:00:00	61	Chelsea FC	328	Burnley FC	None	None	None	None		None
+2019-04-20	00:00:00	62	Everton FC	66	Manchester United FC	None	None	None	None		None
+2019-04-20	00:00:00	394	Huddersfield Town AFC	346	Watford FC	None	None	None	None		None
+2019-04-20	00:00:00	715	Cardiff City FC	64	Liverpool FC	None	None	None	None		None
+2019-04-20	00:00:00	563	West Ham United FC	338	Leicester City FC	None	None	None	None		None
+2019-04-20	00:00:00	1044	AFC Bournemouth	63	Fulham FC	None	None	None	None		None
+2019-04-27	00:00:00	63	Fulham FC	715	Cardiff City FC	None	None	None	None		None
+2019-04-27	00:00:00	64	Liverpool FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-04-27	00:00:00	73	Tottenham Hotspur FC	563	West Ham United FC	None	None	None	None		None
+2019-04-27	00:00:00	66	Manchester United FC	61	Chelsea FC	None	None	None	None		None
+2019-04-27	00:00:00	338	Leicester City FC	57	Arsenal FC	None	None	None	None		None
+2019-04-27	00:00:00	328	Burnley FC	65	Manchester City FC	None	None	None	None		None
+2019-04-27	00:00:00	340	Southampton FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-04-27	00:00:00	354	Crystal Palace FC	62	Everton FC	None	None	None	None		None
+2019-04-27	00:00:00	397	Brighton & Hove Albion FC	67	Newcastle United FC	None	None	None	None		None
+2019-04-27	00:00:00	346	Watford FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-05-04	00:00:00	76	Wolverhampton Wanderers FC	63	Fulham FC	None	None	None	None		None
+2019-05-04	00:00:00	65	Manchester City FC	338	Leicester City FC	None	None	None	None		None
+2019-05-04	00:00:00	67	Newcastle United FC	64	Liverpool FC	None	None	None	None		None
+2019-05-04	00:00:00	57	Arsenal FC	397	Brighton & Hove Albion FC	None	None	None	None		None
+2019-05-04	00:00:00	61	Chelsea FC	346	Watford FC	None	None	None	None		None
+2019-05-04	00:00:00	62	Everton FC	328	Burnley FC	None	None	None	None		None
+2019-05-04	00:00:00	394	Huddersfield Town AFC	66	Manchester United FC	None	None	None	None		None
+2019-05-04	00:00:00	715	Cardiff City FC	354	Crystal Palace FC	None	None	None	None		None
+2019-05-04	00:00:00	563	West Ham United FC	340	Southampton FC	None	None	None	None		None
+2019-05-04	00:00:00	1044	AFC Bournemouth	73	Tottenham Hotspur FC	None	None	None	None		None
+2019-05-12	00:00:00	63	Fulham FC	67	Newcastle United FC	None	None	None	None		None
+2019-05-12	00:00:00	64	Liverpool FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
+2019-05-12	00:00:00	73	Tottenham Hotspur FC	62	Everton FC	None	None	None	None		None
+2019-05-12	00:00:00	66	Manchester United FC	715	Cardiff City FC	None	None	None	None		None
+2019-05-12	00:00:00	338	Leicester City FC	61	Chelsea FC	None	None	None	None		None
+2019-05-12	00:00:00	328	Burnley FC	57	Arsenal FC	None	None	None	None		None
+2019-05-12	00:00:00	340	Southampton FC	394	Huddersfield Town AFC	None	None	None	None		None
+2019-05-12	00:00:00	354	Crystal Palace FC	1044	AFC Bournemouth	None	None	None	None		None
+2019-05-12	00:00:00	397	Brighton & Hove Albion FC	65	Manchester City FC	None	None	None	None		None
+2019-05-12	00:00:00	346	Watford FC	563	West Ham United FC	None	None	None	None		None
