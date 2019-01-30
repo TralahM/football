@@ -1,0 +1,49 @@
+count
+filters
+competition
+competition --> id
+competition --> area
+competition --> area --> id
+competition --> area --> name
+competition --> name
+competition --> code
+competition --> plan
+competition --> lastUpdated
+matches
+matches [0] --> id
+matches [0] --> season
+matches [0] --> season --> id
+matches [0] --> season --> startDate
+matches [0] --> season --> endDate
+matches [0] --> season --> currentMatchday
+matches [0] --> utcDate
+matches [0] --> status
+matches [0] --> matchday
+matches [0] --> stage
+matches [0] --> group
+matches [0] --> lastUpdated
+matches [0] --> score
+matches [0] --> score --> winner
+matches [0] --> score --> duration
+matches [0] --> score --> fullTime
+matches [0] --> score --> fullTime --> homeTeam
+matches [0] --> score --> fullTime --> awayTeam
+matches [0] --> score --> halfTime
+matches [0] --> score --> halfTime --> homeTeam
+matches [0] --> score --> halfTime --> awayTeam
+matches [0] --> score --> extraTime
+matches [0] --> score --> extraTime --> homeTeam
+matches [0] --> score --> extraTime --> awayTeam
+matches [0] --> score --> penalties
+matches [0] --> score --> penalties --> homeTeam
+matches [0] --> score --> penalties --> awayTeam
+matches [0] --> homeTeam
+matches [0] --> homeTeam --> id
+matches [0] --> homeTeam --> name
+matches [0] --> awayTeam
+matches [0] --> awayTeam --> id
+matches [0] --> awayTeam --> name
+matches [0] --> referees
+matches [0] --> referees --> id
+matches [0] --> referees --> name
+matches [0] --> referees --> nationality
