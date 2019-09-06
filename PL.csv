@@ -1,381 +1,381 @@
-Date	Time	HTID	HomeTeam	ATID	AwayTeam	HTHG	HTAG	FTHG	FTAG	Goals	Winner
-2018-08-10	19:00:00	66	Manchester United FC	338	Leicester City FC	1	0	2	1	3	HOME_TEAM
-2018-08-11	11:30:00	67	Newcastle United FC	73	Tottenham Hotspur FC	1	2	1	2	3	AWAY_TEAM
-2018-08-11	14:00:00	63	Fulham FC	354	Crystal Palace FC	0	1	0	2	2	AWAY_TEAM
-2018-08-11	14:00:00	394	Huddersfield Town AFC	61	Chelsea FC	0	2	0	3	3	AWAY_TEAM
-2018-08-11	14:00:00	346	Watford FC	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
-2018-08-11	14:00:00	1044	AFC Bournemouth	715	Cardiff City FC	1	0	2	0	2	HOME_TEAM
-2018-08-11	16:30:00	76	Wolverhampton Wanderers FC	62	Everton FC	1	1	2	2	4	DRAW
-2018-08-12	12:30:00	64	Liverpool FC	563	West Ham United FC	2	0	4	0	4	HOME_TEAM
-2018-08-12	12:30:00	340	Southampton FC	328	Burnley FC	0	0	0	0	0	DRAW
-2018-08-12	15:00:00	57	Arsenal FC	65	Manchester City FC	0	1	0	2	2	AWAY_TEAM
-2018-08-18	11:30:00	715	Cardiff City FC	67	Newcastle United FC	0	0	0	0	0	DRAW
-2018-08-18	14:00:00	73	Tottenham Hotspur FC	63	Fulham FC	1	0	3	1	4	HOME_TEAM
-2018-08-18	14:00:00	62	Everton FC	340	Southampton FC	2	0	2	1	3	HOME_TEAM
-2018-08-18	14:00:00	338	Leicester City FC	76	Wolverhampton Wanderers FC	2	0	2	0	2	HOME_TEAM
-2018-08-18	14:00:00	563	West Ham United FC	1044	AFC Bournemouth	1	0	1	2	3	AWAY_TEAM
-2018-08-18	16:30:00	61	Chelsea FC	57	Arsenal FC	2	2	3	2	5	HOME_TEAM
-2018-08-19	12:30:00	65	Manchester City FC	394	Huddersfield Town AFC	3	1	6	1	7	HOME_TEAM
-2018-08-19	12:30:00	328	Burnley FC	346	Watford FC	1	1	1	3	4	AWAY_TEAM
-2018-08-19	15:00:00	397	Brighton & Hove Albion FC	66	Manchester United FC	3	1	3	2	5	HOME_TEAM
-2018-08-20	19:00:00	354	Crystal Palace FC	64	Liverpool FC	0	1	0	2	2	AWAY_TEAM
-2018-08-25	11:30:00	76	Wolverhampton Wanderers FC	65	Manchester City FC	0	0	1	1	2	DRAW
-2018-08-25	14:00:00	57	Arsenal FC	563	West Ham United FC	1	1	3	1	4	HOME_TEAM
-2018-08-25	14:00:00	394	Huddersfield Town AFC	715	Cardiff City FC	0	0	0	0	0	DRAW
-2018-08-25	14:00:00	340	Southampton FC	338	Leicester City FC	0	0	1	2	3	AWAY_TEAM
-2018-08-25	14:00:00	1044	AFC Bournemouth	62	Everton FC	0	0	2	2	4	DRAW
-2018-08-25	16:30:00	64	Liverpool FC	397	Brighton & Hove Albion FC	1	0	1	0	1	HOME_TEAM
-2018-08-26	12:30:00	346	Watford FC	354	Crystal Palace FC	0	0	2	1	3	HOME_TEAM
-2018-08-26	15:00:00	63	Fulham FC	328	Burnley FC	3	2	4	2	6	HOME_TEAM
-2018-08-26	15:00:00	67	Newcastle United FC	61	Chelsea FC	0	0	1	2	3	AWAY_TEAM
-2018-08-27	19:00:00	66	Manchester United FC	73	Tottenham Hotspur FC	0	0	0	3	3	AWAY_TEAM
-2018-09-01	11:30:00	338	Leicester City FC	64	Liverpool FC	0	2	1	2	3	AWAY_TEAM
-2018-09-01	14:00:00	61	Chelsea FC	1044	AFC Bournemouth	0	0	2	0	2	HOME_TEAM
-2018-09-01	14:00:00	62	Everton FC	394	Huddersfield Town AFC	1	1	1	1	2	DRAW
-2018-09-01	14:00:00	563	West Ham United FC	76	Wolverhampton Wanderers FC	0	0	0	1	1	AWAY_TEAM
-2018-09-01	14:00:00	354	Crystal Palace FC	340	Southampton FC	0	0	0	2	2	AWAY_TEAM
-2018-09-01	14:00:00	397	Brighton & Hove Albion FC	63	Fulham FC	0	1	2	2	4	DRAW
-2018-09-01	16:30:00	65	Manchester City FC	67	Newcastle United FC	1	1	2	1	3	HOME_TEAM
-2018-09-02	12:30:00	715	Cardiff City FC	57	Arsenal FC	1	1	2	3	5	AWAY_TEAM
-2018-09-02	15:00:00	328	Burnley FC	66	Manchester United FC	0	2	0	2	2	AWAY_TEAM
-2018-09-02	15:00:00	346	Watford FC	73	Tottenham Hotspur FC	0	0	2	1	3	HOME_TEAM
-2018-09-15	11:30:00	73	Tottenham Hotspur FC	64	Liverpool FC	0	1	1	2	3	AWAY_TEAM
-2018-09-15	14:00:00	65	Manchester City FC	63	Fulham FC	2	0	3	0	3	HOME_TEAM
-2018-09-15	14:00:00	67	Newcastle United FC	57	Arsenal FC	0	0	1	2	3	AWAY_TEAM
-2018-09-15	14:00:00	61	Chelsea FC	715	Cardiff City FC	2	1	4	1	5	HOME_TEAM
-2018-09-15	14:00:00	394	Huddersfield Town AFC	354	Crystal Palace FC	0	1	0	1	1	AWAY_TEAM
-2018-09-15	14:00:00	1044	AFC Bournemouth	338	Leicester City FC	3	0	4	2	6	HOME_TEAM
-2018-09-15	16:30:00	346	Watford FC	66	Manchester United FC	0	2	1	2	3	AWAY_TEAM
-2018-09-16	12:30:00	76	Wolverhampton Wanderers FC	328	Burnley FC	0	0	1	0	1	HOME_TEAM
-2018-09-16	15:00:00	62	Everton FC	563	West Ham United FC	1	2	1	3	4	AWAY_TEAM
-2018-09-17	19:00:00	340	Southampton FC	397	Brighton & Hove Albion FC	1	0	2	2	4	DRAW
-2018-09-22	11:30:00	63	Fulham FC	346	Watford FC	0	1	1	1	2	DRAW
-2018-09-22	14:00:00	64	Liverpool FC	340	Southampton FC	3	0	3	0	3	HOME_TEAM
-2018-09-22	14:00:00	66	Manchester United FC	76	Wolverhampton Wanderers FC	1	0	1	1	2	DRAW
-2018-09-22	14:00:00	338	Leicester City FC	394	Huddersfield Town AFC	1	1	3	1	4	HOME_TEAM
-2018-09-22	14:00:00	328	Burnley FC	1044	AFC Bournemouth	2	0	4	0	4	HOME_TEAM
-2018-09-22	14:00:00	715	Cardiff City FC	65	Manchester City FC	0	3	0	5	5	AWAY_TEAM
-2018-09-22	14:00:00	354	Crystal Palace FC	67	Newcastle United FC	0	0	0	0	0	DRAW
-2018-09-22	16:30:00	397	Brighton & Hove Albion FC	73	Tottenham Hotspur FC	0	1	1	2	3	AWAY_TEAM
-2018-09-23	12:30:00	563	West Ham United FC	61	Chelsea FC	0	0	0	0	0	DRAW
-2018-09-23	15:00:00	57	Arsenal FC	62	Everton FC	0	0	2	0	2	HOME_TEAM
-2018-09-29	11:30:00	563	West Ham United FC	66	Manchester United FC	2	0	3	1	4	HOME_TEAM
-2018-09-29	14:00:00	76	Wolverhampton Wanderers FC	340	Southampton FC	0	0	2	0	2	HOME_TEAM
-2018-09-29	14:00:00	65	Manchester City FC	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
-2018-09-29	14:00:00	67	Newcastle United FC	338	Leicester City FC	0	1	0	2	2	AWAY_TEAM
-2018-09-29	14:00:00	57	Arsenal FC	346	Watford FC	0	0	2	0	2	HOME_TEAM
-2018-09-29	14:00:00	62	Everton FC	63	Fulham FC	0	0	3	0	3	HOME_TEAM
-2018-09-29	14:00:00	394	Huddersfield Town AFC	73	Tottenham Hotspur FC	0	2	0	2	2	AWAY_TEAM
-2018-09-29	16:30:00	61	Chelsea FC	64	Liverpool FC	1	0	1	1	2	DRAW
-2018-09-30	15:00:00	715	Cardiff City FC	328	Burnley FC	0	0	1	2	3	AWAY_TEAM
-2018-10-01	19:00:00	1044	AFC Bournemouth	354	Crystal Palace FC	1	0	2	1	3	HOME_TEAM
-2018-10-05	19:00:00	397	Brighton & Hove Albion FC	563	West Ham United FC	1	0	1	0	1	HOME_TEAM
-2018-10-06	14:00:00	73	Tottenham Hotspur FC	715	Cardiff City FC	1	0	1	0	1	HOME_TEAM
-2018-10-06	14:00:00	338	Leicester City FC	62	Everton FC	1	1	1	2	3	AWAY_TEAM
-2018-10-06	14:00:00	328	Burnley FC	394	Huddersfield Town AFC	1	0	1	1	2	DRAW
-2018-10-06	14:00:00	354	Crystal Palace FC	76	Wolverhampton Wanderers FC	0	0	0	1	1	AWAY_TEAM
-2018-10-06	14:00:00	346	Watford FC	1044	AFC Bournemouth	0	3	0	4	4	AWAY_TEAM
-2018-10-06	16:30:00	66	Manchester United FC	67	Newcastle United FC	0	2	3	2	5	HOME_TEAM
-2018-10-07	11:00:00	63	Fulham FC	57	Arsenal FC	1	1	1	5	6	AWAY_TEAM
-2018-10-07	13:15:00	340	Southampton FC	61	Chelsea FC	0	1	0	3	3	AWAY_TEAM
-2018-10-07	15:30:00	64	Liverpool FC	65	Manchester City FC	0	0	0	0	0	DRAW
-2018-10-20	11:30:00	61	Chelsea FC	66	Manchester United FC	1	0	2	2	4	DRAW
-2018-10-20	14:00:00	76	Wolverhampton Wanderers FC	346	Watford FC	0	2	0	2	2	AWAY_TEAM
-2018-10-20	14:00:00	65	Manchester City FC	328	Burnley FC	1	0	5	0	5	HOME_TEAM
-2018-10-20	14:00:00	67	Newcastle United FC	397	Brighton & Hove Albion FC	0	1	0	1	1	AWAY_TEAM
-2018-10-20	14:00:00	715	Cardiff City FC	63	Fulham FC	2	2	4	2	6	HOME_TEAM
-2018-10-20	14:00:00	563	West Ham United FC	73	Tottenham Hotspur FC	0	1	0	1	1	AWAY_TEAM
-2018-10-20	14:00:00	1044	AFC Bournemouth	340	Southampton FC	0	0	0	0	0	DRAW
-2018-10-20	16:30:00	394	Huddersfield Town AFC	64	Liverpool FC	0	1	0	1	1	AWAY_TEAM
-2018-10-21	15:00:00	62	Everton FC	354	Crystal Palace FC	0	0	2	0	2	HOME_TEAM
-2018-10-22	19:00:00	57	Arsenal FC	338	Leicester City FC	1	1	3	1	4	HOME_TEAM
-2018-10-27	14:00:00	63	Fulham FC	1044	AFC Bournemouth	0	1	0	3	3	AWAY_TEAM
-2018-10-27	14:00:00	64	Liverpool FC	715	Cardiff City FC	1	0	4	1	5	HOME_TEAM
-2018-10-27	14:00:00	340	Southampton FC	67	Newcastle United FC	0	0	0	0	0	DRAW
-2018-10-27	14:00:00	397	Brighton & Hove Albion FC	76	Wolverhampton Wanderers FC	0	0	1	0	1	HOME_TEAM
-2018-10-27	14:00:00	346	Watford FC	394	Huddersfield Town AFC	2	0	3	0	3	HOME_TEAM
-2018-10-27	16:30:00	338	Leicester City FC	563	West Ham United FC	0	1	1	1	2	DRAW
-2018-10-28	13:30:00	328	Burnley FC	61	Chelsea FC	0	1	0	4	4	AWAY_TEAM
-2018-10-28	13:30:00	354	Crystal Palace FC	57	Arsenal FC	1	0	2	2	4	DRAW
-2018-10-28	16:00:00	66	Manchester United FC	62	Everton FC	1	0	2	1	3	HOME_TEAM
-2018-10-29	20:00:00	73	Tottenham Hotspur FC	65	Manchester City FC	0	1	0	1	1	AWAY_TEAM
-2018-11-03	12:30:00	1044	AFC Bournemouth	66	Manchester United FC	1	1	1	2	3	AWAY_TEAM
-2018-11-03	15:00:00	67	Newcastle United FC	346	Watford FC	0	0	1	0	1	HOME_TEAM
-2018-11-03	15:00:00	62	Everton FC	397	Brighton & Hove Albion FC	1	1	3	1	4	HOME_TEAM
-2018-11-03	15:00:00	715	Cardiff City FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
-2018-11-03	15:00:00	563	West Ham United FC	328	Burnley FC	1	1	4	2	6	HOME_TEAM
-2018-11-03	17:30:00	57	Arsenal FC	64	Liverpool FC	0	0	1	1	2	DRAW
-2018-11-03	19:45:00	76	Wolverhampton Wanderers FC	73	Tottenham Hotspur FC	0	2	2	3	5	AWAY_TEAM
-2018-11-04	15:00:00	65	Manchester City FC	340	Southampton FC	4	1	6	1	7	HOME_TEAM
-2018-11-04	16:00:00	61	Chelsea FC	354	Crystal Palace FC	1	0	3	1	4	HOME_TEAM
-2018-11-05	20:00:00	394	Huddersfield Town AFC	63	Fulham FC	1	0	1	0	1	HOME_TEAM
-2018-11-10	12:30:00	715	Cardiff City FC	397	Brighton & Hove Albion FC	1	1	2	1	3	HOME_TEAM
-2018-11-10	15:00:00	67	Newcastle United FC	1044	AFC Bournemouth	2	1	2	1	3	HOME_TEAM
-2018-11-10	15:00:00	338	Leicester City FC	328	Burnley FC	0	0	0	0	0	DRAW
-2018-11-10	15:00:00	394	Huddersfield Town AFC	563	West Ham United FC	1	0	1	1	2	DRAW
-2018-11-10	15:00:00	340	Southampton FC	346	Watford FC	1	0	1	1	2	DRAW
-2018-11-10	17:30:00	354	Crystal Palace FC	73	Tottenham Hotspur FC	0	0	0	1	1	AWAY_TEAM
-2018-11-11	12:00:00	64	Liverpool FC	63	Fulham FC	1	0	2	0	2	HOME_TEAM
-2018-11-11	14:15:00	61	Chelsea FC	62	Everton FC	0	0	0	0	0	DRAW
-2018-11-11	16:30:00	65	Manchester City FC	66	Manchester United FC	1	0	3	1	4	HOME_TEAM
-2018-11-11	16:30:00	57	Arsenal FC	76	Wolverhampton Wanderers FC	0	1	1	1	2	DRAW
-2018-11-24	15:00:00	63	Fulham FC	340	Southampton FC	2	1	3	2	5	HOME_TEAM
-2018-11-24	15:00:00	62	Everton FC	715	Cardiff City FC	0	0	1	0	1	HOME_TEAM
-2018-11-24	15:00:00	66	Manchester United FC	354	Crystal Palace FC	0	0	0	0	0	DRAW
-2018-11-24	15:00:00	563	West Ham United FC	65	Manchester City FC	0	3	0	4	4	AWAY_TEAM
-2018-11-24	15:00:00	397	Brighton & Hove Albion FC	338	Leicester City FC	1	0	1	1	2	DRAW
-2018-11-24	15:00:00	346	Watford FC	64	Liverpool FC	0	0	0	3	3	AWAY_TEAM
-2018-11-24	17:30:00	73	Tottenham Hotspur FC	61	Chelsea FC	2	0	3	1	4	HOME_TEAM
-2018-11-25	13:30:00	1044	AFC Bournemouth	57	Arsenal FC	1	1	1	2	3	AWAY_TEAM
-2018-11-25	16:00:00	76	Wolverhampton Wanderers FC	394	Huddersfield Town AFC	0	1	0	2	2	AWAY_TEAM
-2018-11-26	20:30:00	328	Burnley FC	67	Newcastle United FC	1	2	1	2	3	AWAY_TEAM
-2018-11-30	20:00:00	715	Cardiff City FC	76	Wolverhampton Wanderers FC	0	1	2	1	3	HOME_TEAM
-2018-12-01	15:00:00	65	Manchester City FC	1044	AFC Bournemouth	1	1	3	1	4	HOME_TEAM
-2018-12-01	15:00:00	67	Newcastle United FC	563	West Ham United FC	0	1	0	3	3	AWAY_TEAM
-2018-12-01	15:00:00	338	Leicester City FC	346	Watford FC	2	0	2	0	2	HOME_TEAM
-2018-12-01	15:00:00	394	Huddersfield Town AFC	397	Brighton & Hove Albion FC	1	1	1	2	3	AWAY_TEAM
-2018-12-01	15:00:00	354	Crystal Palace FC	328	Burnley FC	1	0	2	0	2	HOME_TEAM
-2018-12-01	17:30:00	340	Southampton FC	66	Manchester United FC	2	2	2	2	4	DRAW
-2018-12-02	12:00:00	61	Chelsea FC	63	Fulham FC	1	0	2	0	2	HOME_TEAM
-2018-12-02	14:05:00	57	Arsenal FC	73	Tottenham Hotspur FC	1	2	4	2	6	HOME_TEAM
-2018-12-02	16:15:00	64	Liverpool FC	62	Everton FC	0	0	1	0	1	HOME_TEAM
-2018-12-04	19:45:00	563	West Ham United FC	715	Cardiff City FC	0	0	3	1	4	HOME_TEAM
-2018-12-04	19:45:00	397	Brighton & Hove Albion FC	354	Crystal Palace FC	3	0	3	1	4	HOME_TEAM
-2018-12-04	19:45:00	1044	AFC Bournemouth	394	Huddersfield Town AFC	2	1	2	1	3	HOME_TEAM
-2018-12-04	20:00:00	346	Watford FC	65	Manchester City FC	0	1	1	2	3	AWAY_TEAM
-2018-12-05	19:45:00	76	Wolverhampton Wanderers FC	61	Chelsea FC	0	1	2	1	3	HOME_TEAM
-2018-12-05	19:45:00	63	Fulham FC	338	Leicester City FC	1	0	1	1	2	DRAW
-2018-12-05	19:45:00	328	Burnley FC	64	Liverpool FC	0	0	1	3	4	AWAY_TEAM
-2018-12-05	19:45:00	62	Everton FC	67	Newcastle United FC	1	1	1	1	2	DRAW
-2018-12-05	20:00:00	66	Manchester United FC	57	Arsenal FC	1	1	2	2	4	DRAW
-2018-12-05	20:00:00	73	Tottenham Hotspur FC	340	Southampton FC	1	0	3	1	4	HOME_TEAM
-2018-12-08	12:30:00	1044	AFC Bournemouth	64	Liverpool FC	0	1	0	4	4	AWAY_TEAM
-2018-12-08	15:00:00	57	Arsenal FC	394	Huddersfield Town AFC	0	0	1	0	1	HOME_TEAM
-2018-12-08	15:00:00	66	Manchester United FC	63	Fulham FC	3	0	4	1	5	HOME_TEAM
-2018-12-08	15:00:00	328	Burnley FC	397	Brighton & Hove Albion FC	1	0	1	0	1	HOME_TEAM
-2018-12-08	15:00:00	715	Cardiff City FC	340	Southampton FC	0	0	1	0	1	HOME_TEAM
-2018-12-08	15:00:00	563	West Ham United FC	354	Crystal Palace FC	0	1	3	2	5	HOME_TEAM
-2018-12-08	17:30:00	61	Chelsea FC	65	Manchester City FC	1	0	2	0	2	HOME_TEAM
-2018-12-08	19:45:00	338	Leicester City FC	73	Tottenham Hotspur FC	0	1	0	2	2	AWAY_TEAM
-2018-12-09	16:00:00	67	Newcastle United FC	76	Wolverhampton Wanderers FC	1	1	1	2	3	AWAY_TEAM
-2018-12-10	20:00:00	62	Everton FC	346	Watford FC	1	0	2	2	4	DRAW
-2018-12-15	12:30:00	65	Manchester City FC	62	Everton FC	1	0	3	1	4	HOME_TEAM
-2018-12-15	15:00:00	76	Wolverhampton Wanderers FC	1044	AFC Bournemouth	1	0	2	0	2	HOME_TEAM
-2018-12-15	15:00:00	73	Tottenham Hotspur FC	328	Burnley FC	0	0	1	0	1	HOME_TEAM
-2018-12-15	15:00:00	394	Huddersfield Town AFC	67	Newcastle United FC	0	0	0	1	1	AWAY_TEAM
-2018-12-15	15:00:00	354	Crystal Palace FC	338	Leicester City FC	1	0	1	0	1	HOME_TEAM
-2018-12-15	15:00:00	346	Watford FC	715	Cardiff City FC	1	0	3	2	5	HOME_TEAM
-2018-12-15	17:30:00	63	Fulham FC	563	West Ham United FC	0	2	0	2	2	AWAY_TEAM
-2018-12-16	13:30:00	340	Southampton FC	57	Arsenal FC	2	1	3	2	5	HOME_TEAM
-2018-12-16	13:30:00	397	Brighton & Hove Albion FC	61	Chelsea FC	0	2	1	2	3	AWAY_TEAM
-2018-12-16	16:00:00	64	Liverpool FC	66	Manchester United FC	1	1	3	1	4	HOME_TEAM
-2018-12-21	20:00:00	76	Wolverhampton Wanderers FC	64	Liverpool FC	0	1	0	2	2	AWAY_TEAM
-2018-12-22	12:30:00	57	Arsenal FC	328	Burnley FC	1	0	3	1	4	HOME_TEAM
-2018-12-22	15:00:00	65	Manchester City FC	354	Crystal Palace FC	1	2	2	3	5	AWAY_TEAM
-2018-12-22	15:00:00	67	Newcastle United FC	63	Fulham FC	0	0	0	0	0	DRAW
-2018-12-22	15:00:00	61	Chelsea FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
-2018-12-22	15:00:00	394	Huddersfield Town AFC	340	Southampton FC	0	2	1	3	4	AWAY_TEAM
-2018-12-22	15:00:00	563	West Ham United FC	346	Watford FC	0	1	0	2	2	AWAY_TEAM
-2018-12-22	15:00:00	1044	AFC Bournemouth	397	Brighton & Hove Albion FC	1	0	2	0	2	HOME_TEAM
-2018-12-22	17:30:00	715	Cardiff City FC	66	Manchester United FC	1	3	1	5	6	AWAY_TEAM
-2018-12-23	16:00:00	62	Everton FC	73	Tottenham Hotspur FC	1	3	2	6	8	AWAY_TEAM
-2018-12-26	12:30:00	63	Fulham FC	76	Wolverhampton Wanderers FC	0	0	1	1	2	DRAW
-2018-12-26	15:00:00	64	Liverpool FC	67	Newcastle United FC	1	0	4	0	4	HOME_TEAM
-2018-12-26	15:00:00	73	Tottenham Hotspur FC	1044	AFC Bournemouth	3	0	5	0	5	HOME_TEAM
-2018-12-26	15:00:00	66	Manchester United FC	394	Huddersfield Town AFC	1	0	3	1	4	HOME_TEAM
-2018-12-26	15:00:00	338	Leicester City FC	65	Manchester City FC	1	1	2	1	3	HOME_TEAM
-2018-12-26	15:00:00	328	Burnley FC	62	Everton FC	1	3	1	5	6	AWAY_TEAM
-2018-12-26	15:00:00	354	Crystal Palace FC	715	Cardiff City FC	0	0	0	0	0	DRAW
-2018-12-26	17:15:00	397	Brighton & Hove Albion FC	57	Arsenal FC	1	1	1	1	2	DRAW
-2018-12-26	19:30:00	346	Watford FC	61	Chelsea FC	1	1	1	2	3	AWAY_TEAM
-2018-12-27	19:45:00	340	Southampton FC	563	West Ham United FC	0	0	1	2	3	AWAY_TEAM
-2018-12-29	15:00:00	338	Leicester City FC	715	Cardiff City FC	0	0	0	1	1	AWAY_TEAM
-2018-12-29	15:00:00	397	Brighton & Hove Albion FC	62	Everton FC	0	0	1	0	1	HOME_TEAM
-2018-12-29	15:00:00	346	Watford FC	67	Newcastle United FC	0	1	1	1	2	DRAW
-2018-12-29	15:00:00	63	Fulham FC	394	Huddersfield Town AFC	0	0	1	0	1	HOME_TEAM
-2018-12-29	15:00:00	73	Tottenham Hotspur FC	76	Wolverhampton Wanderers FC	1	0	1	3	4	AWAY_TEAM
-2018-12-29	17:30:00	64	Liverpool FC	57	Arsenal FC	4	1	5	1	6	HOME_TEAM
-2018-12-30	12:00:00	354	Crystal Palace FC	61	Chelsea FC	0	0	0	1	1	AWAY_TEAM
-2018-12-30	14:15:00	328	Burnley FC	563	West Ham United FC	2	0	2	0	2	HOME_TEAM
-2018-12-30	14:15:00	340	Southampton FC	65	Manchester City FC	1	3	1	3	4	AWAY_TEAM
-2018-12-30	16:30:00	66	Manchester United FC	1044	AFC Bournemouth	3	1	4	1	5	HOME_TEAM
-2019-01-01	12:30:00	62	Everton FC	338	Leicester City FC	0	0	0	1	1	AWAY_TEAM
-2019-01-01	15:00:00	57	Arsenal FC	63	Fulham FC	1	0	4	1	5	HOME_TEAM
-2019-01-01	17:30:00	715	Cardiff City FC	73	Tottenham Hotspur FC	0	3	0	3	3	AWAY_TEAM
-2019-01-02	19:45:00	76	Wolverhampton Wanderers FC	354	Crystal Palace FC	0	0	0	2	2	AWAY_TEAM
-2019-01-02	19:45:00	61	Chelsea FC	340	Southampton FC	0	0	0	0	0	DRAW
-2019-01-02	19:45:00	394	Huddersfield Town AFC	328	Burnley FC	1	1	1	2	3	AWAY_TEAM
-2019-01-02	19:45:00	563	West Ham United FC	397	Brighton & Hove Albion FC	0	0	2	2	4	DRAW
-2019-01-02	19:45:00	1044	AFC Bournemouth	346	Watford FC	3	3	3	3	6	DRAW
-2019-01-02	20:00:00	67	Newcastle United FC	66	Manchester United FC	0	0	0	2	2	AWAY_TEAM
-2019-01-03	20:00:00	65	Manchester City FC	64	Liverpool FC	1	0	2	1	3	HOME_TEAM
-2019-01-12	12:30:00	563	West Ham United FC	57	Arsenal FC	0	0	1	0	1	HOME_TEAM
-2019-01-12	15:00:00	338	Leicester City FC	340	Southampton FC	0	2	1	2	3	AWAY_TEAM
-2019-01-12	15:00:00	328	Burnley FC	63	Fulham FC	2	1	2	1	3	HOME_TEAM
-2019-01-12	15:00:00	715	Cardiff City FC	394	Huddersfield Town AFC	0	0	0	0	0	DRAW
-2019-01-12	15:00:00	354	Crystal Palace FC	346	Watford FC	1	0	1	2	3	AWAY_TEAM
-2019-01-12	15:00:00	397	Brighton & Hove Albion FC	64	Liverpool FC	0	0	0	1	1	AWAY_TEAM
-2019-01-12	17:30:00	61	Chelsea FC	67	Newcastle United FC	1	1	2	1	3	HOME_TEAM
-2019-01-13	14:15:00	62	Everton FC	1044	AFC Bournemouth	0	0	2	0	2	HOME_TEAM
-2019-01-13	16:30:00	73	Tottenham Hotspur FC	66	Manchester United FC	0	1	0	1	1	AWAY_TEAM
-2019-01-14	20:00:00	65	Manchester City FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-01-19	12:30:00	76	Wolverhampton Wanderers FC	338	Leicester City FC	None	None	None	None		None
-2019-01-19	15:00:00	64	Liverpool FC	354	Crystal Palace FC	None	None	None	None		None
-2019-01-19	15:00:00	67	Newcastle United FC	715	Cardiff City FC	None	None	None	None		None
-2019-01-19	15:00:00	66	Manchester United FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-01-19	15:00:00	340	Southampton FC	62	Everton FC	None	None	None	None		None
-2019-01-19	15:00:00	346	Watford FC	328	Burnley FC	None	None	None	None		None
-2019-01-19	15:00:00	1044	AFC Bournemouth	563	West Ham United FC	None	None	None	None		None
-2019-01-19	17:30:00	57	Arsenal FC	61	Chelsea FC	None	None	None	None		None
-2019-01-20	13:30:00	394	Huddersfield Town AFC	65	Manchester City FC	None	None	None	None		None
-2019-01-20	16:00:00	63	Fulham FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-01-29	19:45:00	76	Wolverhampton Wanderers FC	563	West Ham United FC	None	None	None	None		None
-2019-01-29	19:45:00	63	Fulham FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-01-29	19:45:00	57	Arsenal FC	715	Cardiff City FC	None	None	None	None		None
-2019-01-29	19:45:00	394	Huddersfield Town AFC	62	Everton FC	None	None	None	None		None
-2019-01-29	20:00:00	66	Manchester United FC	328	Burnley FC	None	None	None	None		None
-2019-01-29	20:00:00	67	Newcastle United FC	65	Manchester City FC	None	None	None	None		None
-2019-01-30	19:45:00	1044	AFC Bournemouth	61	Chelsea FC	None	None	None	None		None
-2019-01-30	19:45:00	340	Southampton FC	354	Crystal Palace FC	None	None	None	None		None
-2019-01-30	20:00:00	64	Liverpool FC	338	Leicester City FC	None	None	None	None		None
-2019-01-30	20:00:00	73	Tottenham Hotspur FC	346	Watford FC	None	None	None	None		None
-2019-02-02	12:30:00	73	Tottenham Hotspur FC	67	Newcastle United FC	None	None	None	None		None
-2019-02-02	15:00:00	61	Chelsea FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-02-02	15:00:00	62	Everton FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-02-02	15:00:00	328	Burnley FC	340	Southampton FC	None	None	None	None		None
-2019-02-02	15:00:00	354	Crystal Palace FC	63	Fulham FC	None	None	None	None		None
-2019-02-02	15:00:00	397	Brighton & Hove Albion FC	346	Watford FC	None	None	None	None		None
-2019-02-02	17:30:00	715	Cardiff City FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-02-03	14:05:00	338	Leicester City FC	66	Manchester United FC	None	None	None	None		None
-2019-02-03	16:30:00	65	Manchester City FC	57	Arsenal FC	None	None	None	None		None
-2019-02-04	20:00:00	563	West Ham United FC	64	Liverpool FC	None	None	None	None		None
-2019-02-09	12:30:00	63	Fulham FC	66	Manchester United FC	None	None	None	None		None
-2019-02-09	15:00:00	64	Liverpool FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-02-09	15:00:00	394	Huddersfield Town AFC	57	Arsenal FC	None	None	None	None		None
-2019-02-09	15:00:00	340	Southampton FC	715	Cardiff City FC	None	None	None	None		None
-2019-02-09	15:00:00	354	Crystal Palace FC	563	West Ham United FC	None	None	None	None		None
-2019-02-09	15:00:00	346	Watford FC	62	Everton FC	None	None	None	None		None
-2019-02-09	17:30:00	397	Brighton & Hove Albion FC	328	Burnley FC	None	None	None	None		None
-2019-02-10	13:30:00	73	Tottenham Hotspur FC	338	Leicester City FC	None	None	None	None		None
-2019-02-10	16:00:00	65	Manchester City FC	61	Chelsea FC	None	None	None	None		None
-2019-02-11	20:00:00	76	Wolverhampton Wanderers FC	67	Newcastle United FC	None	None	None	None		None
-2019-02-22	19:45:00	715	Cardiff City FC	346	Watford FC	None	None	None	None		None
-2019-02-22	19:45:00	563	West Ham United FC	63	Fulham FC	None	None	None	None		None
-2019-02-23	12:30:00	328	Burnley FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-02-23	15:00:00	67	Newcastle United FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-02-23	15:00:00	338	Leicester City FC	354	Crystal Palace FC	None	None	None	None		None
-2019-02-23	15:00:00	1044	AFC Bournemouth	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-02-23	17:30:00	62	Everton FC	65	Manchester City FC	None	None	None	None		None
-2019-02-24	12:00:00	61	Chelsea FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-02-24	14:05:00	57	Arsenal FC	340	Southampton FC	None	None	None	None		None
-2019-02-24	14:05:00	66	Manchester United FC	64	Liverpool FC	None	None	None	None		None
-2019-02-26	19:45:00	338	Leicester City FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-02-26	19:45:00	394	Huddersfield Town AFC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-02-26	19:45:00	715	Cardiff City FC	62	Everton FC	None	None	None	None		None
-2019-02-26	20:00:00	65	Manchester City FC	563	West Ham United FC	None	None	None	None		None
-2019-02-27	19:45:00	57	Arsenal FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-02-27	19:45:00	67	Newcastle United FC	328	Burnley FC	None	None	None	None		None
-2019-02-27	19:45:00	340	Southampton FC	63	Fulham FC	None	None	None	None		None
-2019-02-27	20:00:00	354	Crystal Palace FC	66	Manchester United FC	None	None	None	None		None
-2019-02-27	20:00:00	64	Liverpool FC	346	Watford FC	None	None	None	None		None
-2019-02-27	20:00:00	61	Chelsea FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-03-02	00:00:00	76	Wolverhampton Wanderers FC	715	Cardiff City FC	None	None	None	None		None
-2019-03-02	00:00:00	63	Fulham FC	61	Chelsea FC	None	None	None	None		None
-2019-03-02	00:00:00	73	Tottenham Hotspur FC	57	Arsenal FC	None	None	None	None		None
-2019-03-02	00:00:00	62	Everton FC	64	Liverpool FC	None	None	None	None		None
-2019-03-02	00:00:00	66	Manchester United FC	340	Southampton FC	None	None	None	None		None
-2019-03-02	00:00:00	328	Burnley FC	354	Crystal Palace FC	None	None	None	None		None
-2019-03-02	00:00:00	563	West Ham United FC	67	Newcastle United FC	None	None	None	None		None
-2019-03-02	00:00:00	397	Brighton & Hove Albion FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-03-02	00:00:00	346	Watford FC	338	Leicester City FC	None	None	None	None		None
-2019-03-02	00:00:00	1044	AFC Bournemouth	65	Manchester City FC	None	None	None	None		None
-2019-03-09	00:00:00	64	Liverpool FC	328	Burnley FC	None	None	None	None		None
-2019-03-09	00:00:00	65	Manchester City FC	346	Watford FC	None	None	None	None		None
-2019-03-09	00:00:00	67	Newcastle United FC	62	Everton FC	None	None	None	None		None
-2019-03-09	00:00:00	57	Arsenal FC	66	Manchester United FC	None	None	None	None		None
-2019-03-09	00:00:00	61	Chelsea FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-03-09	00:00:00	338	Leicester City FC	63	Fulham FC	None	None	None	None		None
-2019-03-09	00:00:00	394	Huddersfield Town AFC	1044	AFC Bournemouth	None	None	None	None		None
-2019-03-09	00:00:00	715	Cardiff City FC	563	West Ham United FC	None	None	None	None		None
-2019-03-09	00:00:00	340	Southampton FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-03-09	00:00:00	354	Crystal Palace FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-03-16	00:00:00	76	Wolverhampton Wanderers FC	57	Arsenal FC	None	None	None	None		None
-2019-03-16	00:00:00	63	Fulham FC	64	Liverpool FC	None	None	None	None		None
-2019-03-16	00:00:00	73	Tottenham Hotspur FC	354	Crystal Palace FC	None	None	None	None		None
-2019-03-16	00:00:00	62	Everton FC	61	Chelsea FC	None	None	None	None		None
-2019-03-16	00:00:00	66	Manchester United FC	65	Manchester City FC	None	None	None	None		None
-2019-03-16	00:00:00	328	Burnley FC	338	Leicester City FC	None	None	None	None		None
-2019-03-16	00:00:00	563	West Ham United FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-03-16	00:00:00	397	Brighton & Hove Albion FC	715	Cardiff City FC	None	None	None	None		None
-2019-03-16	00:00:00	346	Watford FC	340	Southampton FC	None	None	None	None		None
-2019-03-16	00:00:00	1044	AFC Bournemouth	67	Newcastle United FC	None	None	None	None		None
-2019-03-30	00:00:00	63	Fulham FC	65	Manchester City FC	None	None	None	None		None
-2019-03-30	00:00:00	64	Liverpool FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-03-30	00:00:00	57	Arsenal FC	67	Newcastle United FC	None	None	None	None		None
-2019-03-30	00:00:00	66	Manchester United FC	346	Watford FC	None	None	None	None		None
-2019-03-30	00:00:00	338	Leicester City FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-03-30	00:00:00	328	Burnley FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-03-30	00:00:00	715	Cardiff City FC	61	Chelsea FC	None	None	None	None		None
-2019-03-30	00:00:00	563	West Ham United FC	62	Everton FC	None	None	None	None		None
-2019-03-30	00:00:00	354	Crystal Palace FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-03-30	00:00:00	397	Brighton & Hove Albion FC	340	Southampton FC	None	None	None	None		None
-2019-04-06	00:00:00	76	Wolverhampton Wanderers FC	66	Manchester United FC	None	None	None	None		None
-2019-04-06	00:00:00	65	Manchester City FC	715	Cardiff City FC	None	None	None	None		None
-2019-04-06	00:00:00	67	Newcastle United FC	354	Crystal Palace FC	None	None	None	None		None
-2019-04-06	00:00:00	61	Chelsea FC	563	West Ham United FC	None	None	None	None		None
-2019-04-06	00:00:00	73	Tottenham Hotspur FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-04-06	00:00:00	62	Everton FC	57	Arsenal FC	None	None	None	None		None
-2019-04-06	00:00:00	394	Huddersfield Town AFC	338	Leicester City FC	None	None	None	None		None
-2019-04-06	00:00:00	340	Southampton FC	64	Liverpool FC	None	None	None	None		None
-2019-04-06	00:00:00	346	Watford FC	63	Fulham FC	None	None	None	None		None
-2019-04-06	00:00:00	1044	AFC Bournemouth	328	Burnley FC	None	None	None	None		None
-2019-04-13	00:00:00	63	Fulham FC	62	Everton FC	None	None	None	None		None
-2019-04-13	00:00:00	64	Liverpool FC	61	Chelsea FC	None	None	None	None		None
-2019-04-13	00:00:00	73	Tottenham Hotspur FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-04-13	00:00:00	66	Manchester United FC	563	West Ham United FC	None	None	None	None		None
-2019-04-13	00:00:00	338	Leicester City FC	67	Newcastle United FC	None	None	None	None		None
-2019-04-13	00:00:00	328	Burnley FC	715	Cardiff City FC	None	None	None	None		None
-2019-04-13	00:00:00	340	Southampton FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-04-13	00:00:00	354	Crystal Palace FC	65	Manchester City FC	None	None	None	None		None
-2019-04-13	00:00:00	397	Brighton & Hove Albion FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-04-13	00:00:00	346	Watford FC	57	Arsenal FC	None	None	None	None		None
-2019-04-20	00:00:00	76	Wolverhampton Wanderers FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-04-20	00:00:00	65	Manchester City FC	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-04-20	00:00:00	67	Newcastle United FC	340	Southampton FC	None	None	None	None		None
-2019-04-20	00:00:00	57	Arsenal FC	354	Crystal Palace FC	None	None	None	None		None
-2019-04-20	00:00:00	61	Chelsea FC	328	Burnley FC	None	None	None	None		None
-2019-04-20	00:00:00	62	Everton FC	66	Manchester United FC	None	None	None	None		None
-2019-04-20	00:00:00	394	Huddersfield Town AFC	346	Watford FC	None	None	None	None		None
-2019-04-20	00:00:00	715	Cardiff City FC	64	Liverpool FC	None	None	None	None		None
-2019-04-20	00:00:00	563	West Ham United FC	338	Leicester City FC	None	None	None	None		None
-2019-04-20	00:00:00	1044	AFC Bournemouth	63	Fulham FC	None	None	None	None		None
-2019-04-27	00:00:00	63	Fulham FC	715	Cardiff City FC	None	None	None	None		None
-2019-04-27	00:00:00	64	Liverpool FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-04-27	00:00:00	73	Tottenham Hotspur FC	563	West Ham United FC	None	None	None	None		None
-2019-04-27	00:00:00	66	Manchester United FC	61	Chelsea FC	None	None	None	None		None
-2019-04-27	00:00:00	338	Leicester City FC	57	Arsenal FC	None	None	None	None		None
-2019-04-27	00:00:00	328	Burnley FC	65	Manchester City FC	None	None	None	None		None
-2019-04-27	00:00:00	340	Southampton FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-04-27	00:00:00	354	Crystal Palace FC	62	Everton FC	None	None	None	None		None
-2019-04-27	00:00:00	397	Brighton & Hove Albion FC	67	Newcastle United FC	None	None	None	None		None
-2019-04-27	00:00:00	346	Watford FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-05-04	00:00:00	76	Wolverhampton Wanderers FC	63	Fulham FC	None	None	None	None		None
-2019-05-04	00:00:00	65	Manchester City FC	338	Leicester City FC	None	None	None	None		None
-2019-05-04	00:00:00	67	Newcastle United FC	64	Liverpool FC	None	None	None	None		None
-2019-05-04	00:00:00	57	Arsenal FC	397	Brighton & Hove Albion FC	None	None	None	None		None
-2019-05-04	00:00:00	61	Chelsea FC	346	Watford FC	None	None	None	None		None
-2019-05-04	00:00:00	62	Everton FC	328	Burnley FC	None	None	None	None		None
-2019-05-04	00:00:00	394	Huddersfield Town AFC	66	Manchester United FC	None	None	None	None		None
-2019-05-04	00:00:00	715	Cardiff City FC	354	Crystal Palace FC	None	None	None	None		None
-2019-05-04	00:00:00	563	West Ham United FC	340	Southampton FC	None	None	None	None		None
-2019-05-04	00:00:00	1044	AFC Bournemouth	73	Tottenham Hotspur FC	None	None	None	None		None
-2019-05-12	00:00:00	63	Fulham FC	67	Newcastle United FC	None	None	None	None		None
-2019-05-12	00:00:00	64	Liverpool FC	76	Wolverhampton Wanderers FC	None	None	None	None		None
-2019-05-12	00:00:00	73	Tottenham Hotspur FC	62	Everton FC	None	None	None	None		None
-2019-05-12	00:00:00	66	Manchester United FC	715	Cardiff City FC	None	None	None	None		None
-2019-05-12	00:00:00	338	Leicester City FC	61	Chelsea FC	None	None	None	None		None
-2019-05-12	00:00:00	328	Burnley FC	57	Arsenal FC	None	None	None	None		None
-2019-05-12	00:00:00	340	Southampton FC	394	Huddersfield Town AFC	None	None	None	None		None
-2019-05-12	00:00:00	354	Crystal Palace FC	1044	AFC Bournemouth	None	None	None	None		None
-2019-05-12	00:00:00	397	Brighton & Hove Albion FC	65	Manchester City FC	None	None	None	None		None
-2019-05-12	00:00:00	346	Watford FC	563	West Ham United FC	None	None	None	None		None
+match_id,match_date,match_time,home_team_id,home_team_name,away_team_id,away_team_name,league_id,match_day,home_team_score,away_team_score,status,Winner
+264341,2019-08-09,19:00:00,64,Liverpool FC,68,Norwich City FC,2021,1,4,1,FINISHED,HOME_TEAM
+264342,2019-08-10,11:30:00,563,West Ham United FC,65,Manchester City FC,2021,1,0,5,FINISHED,AWAY_TEAM
+264344,2019-08-10,14:00:00,328,Burnley FC,340,Southampton FC,2021,1,3,0,FINISHED,HOME_TEAM
+264345,2019-08-10,14:00:00,354,Crystal Palace FC,62,Everton FC,2021,1,0,0,FINISHED,DRAW
+264346,2019-08-10,14:00:00,346,Watford FC,397,Brighton & Hove Albion FC,2021,1,0,3,FINISHED,AWAY_TEAM
+264347,2019-08-10,14:00:00,1044,AFC Bournemouth,356,Sheffield United FC,2021,1,1,1,FINISHED,DRAW
+264348,2019-08-10,16:30:00,73,Tottenham Hotspur FC,58,Aston Villa FC,2021,1,3,1,FINISHED,HOME_TEAM
+264343,2019-08-11,13:00:00,338,Leicester City FC,76,Wolverhampton Wanderers FC,2021,1,0,0,FINISHED,DRAW
+264349,2019-08-11,13:00:00,67,Newcastle United FC,57,Arsenal FC,2021,1,0,1,FINISHED,AWAY_TEAM
+264350,2019-08-11,15:30:00,66,Manchester United FC,61,Chelsea FC,2021,1,4,0,FINISHED,HOME_TEAM
+264354,2019-08-17,11:30:00,57,Arsenal FC,328,Burnley FC,2021,2,2,1,FINISHED,HOME_TEAM
+264352,2019-08-17,14:00:00,58,Aston Villa FC,1044,AFC Bournemouth,2021,2,1,2,FINISHED,AWAY_TEAM
+264356,2019-08-17,14:00:00,62,Everton FC,346,Watford FC,2021,2,1,0,FINISHED,HOME_TEAM
+264357,2019-08-17,14:00:00,68,Norwich City FC,67,Newcastle United FC,2021,2,3,1,FINISHED,HOME_TEAM
+264359,2019-08-17,14:00:00,340,Southampton FC,64,Liverpool FC,2021,2,1,2,FINISHED,AWAY_TEAM
+264360,2019-08-17,14:00:00,397,Brighton & Hove Albion FC,563,West Ham United FC,2021,2,1,1,FINISHED,DRAW
+264353,2019-08-17,16:30:00,65,Manchester City FC,73,Tottenham Hotspur FC,2021,2,2,2,FINISHED,DRAW
+264358,2019-08-18,13:00:00,356,Sheffield United FC,354,Crystal Palace FC,2021,2,1,0,FINISHED,HOME_TEAM
+264355,2019-08-18,15:30:00,61,Chelsea FC,338,Leicester City FC,2021,2,1,1,FINISHED,DRAW
+264351,2019-08-19,19:00:00,76,Wolverhampton Wanderers FC,66,Manchester United FC,2021,2,1,1,FINISHED,DRAW
+264362,2019-08-23,19:00:00,58,Aston Villa FC,62,Everton FC,2021,3,2,0,FINISHED,HOME_TEAM
+264366,2019-08-24,11:30:00,68,Norwich City FC,61,Chelsea FC,2021,3,2,3,FINISHED,AWAY_TEAM
+264365,2019-08-24,14:00:00,66,Manchester United FC,354,Crystal Palace FC,2021,3,1,2,FINISHED,AWAY_TEAM
+264367,2019-08-24,14:00:00,356,Sheffield United FC,338,Leicester City FC,2021,3,1,2,FINISHED,AWAY_TEAM
+264368,2019-08-24,14:00:00,397,Brighton & Hove Albion FC,340,Southampton FC,2021,3,0,2,FINISHED,AWAY_TEAM
+264369,2019-08-24,14:00:00,346,Watford FC,563,West Ham United FC,2021,3,1,3,FINISHED,AWAY_TEAM
+264363,2019-08-24,16:30:00,64,Liverpool FC,57,Arsenal FC,2021,3,3,1,FINISHED,HOME_TEAM
+264370,2019-08-25,13:00:00,1044,AFC Bournemouth,65,Manchester City FC,2021,3,1,3,FINISHED,AWAY_TEAM
+264361,2019-08-25,15:30:00,76,Wolverhampton Wanderers FC,328,Burnley FC,2021,3,1,1,FINISHED,DRAW
+264364,2019-08-25,15:30:00,73,Tottenham Hotspur FC,67,Newcastle United FC,2021,3,0,1,FINISHED,AWAY_TEAM
+264379,2019-08-31,11:30:00,340,Southampton FC,66,Manchester United FC,2021,4,1,1,FINISHED,DRAW
+264371,2019-08-31,14:00:00,65,Manchester City FC,397,Brighton & Hove Albion FC,2021,4,4,0,FINISHED,HOME_TEAM
+264372,2019-08-31,14:00:00,67,Newcastle United FC,346,Watford FC,2021,4,1,1,FINISHED,DRAW
+264374,2019-08-31,14:00:00,61,Chelsea FC,356,Sheffield United FC,2021,4,2,2,FINISHED,DRAW
+264376,2019-08-31,14:00:00,338,Leicester City FC,1044,AFC Bournemouth,2021,4,3,1,FINISHED,HOME_TEAM
+264378,2019-08-31,14:00:00,563,West Ham United FC,68,Norwich City FC,2021,4,2,0,FINISHED,HOME_TEAM
+264380,2019-08-31,14:00:00,354,Crystal Palace FC,58,Aston Villa FC,2021,4,1,0,FINISHED,HOME_TEAM
+264377,2019-08-31,16:30:00,328,Burnley FC,64,Liverpool FC,2021,4,0,3,FINISHED,AWAY_TEAM
+264375,2019-09-01,13:00:00,62,Everton FC,76,Wolverhampton Wanderers FC,2021,4,3,2,FINISHED,HOME_TEAM
+264373,2019-09-01,15:30:00,57,Arsenal FC,73,Tottenham Hotspur FC,2021,4,2,2,FINISHED,DRAW
+264383,2019-09-14,11:30:00,64,Liverpool FC,67,Newcastle United FC,2021,5,None,None,SCHEDULED,None
+264381,2019-09-14,14:00:00,76,Wolverhampton Wanderers FC,61,Chelsea FC,2021,5,None,None,SCHEDULED,None
+264384,2019-09-14,14:00:00,73,Tottenham Hotspur FC,354,Crystal Palace FC,2021,5,None,None,SCHEDULED,None
+264385,2019-09-14,14:00:00,66,Manchester United FC,338,Leicester City FC,2021,5,None,None,SCHEDULED,None
+264387,2019-09-14,14:00:00,356,Sheffield United FC,340,Southampton FC,2021,5,None,None,SCHEDULED,None
+264388,2019-09-14,14:00:00,397,Brighton & Hove Albion FC,328,Burnley FC,2021,5,None,None,SCHEDULED,None
+264386,2019-09-14,16:30:00,68,Norwich City FC,65,Manchester City FC,2021,5,None,None,SCHEDULED,None
+264390,2019-09-15,13:00:00,1044,AFC Bournemouth,62,Everton FC,2021,5,None,None,SCHEDULED,None
+264389,2019-09-15,15:30:00,346,Watford FC,57,Arsenal FC,2021,5,None,None,SCHEDULED,None
+264382,2019-09-16,19:00:00,58,Aston Villa FC,563,West Ham United FC,2021,5,None,None,SCHEDULED,None
+264399,2019-09-20,19:00:00,340,Southampton FC,1044,AFC Bournemouth,2021,6,None,None,SCHEDULED,None
+264396,2019-09-21,11:30:00,338,Leicester City FC,73,Tottenham Hotspur FC,2021,6,None,None,SCHEDULED,None
+264391,2019-09-21,14:00:00,65,Manchester City FC,346,Watford FC,2021,6,None,None,SCHEDULED,None
+264395,2019-09-21,14:00:00,62,Everton FC,356,Sheffield United FC,2021,6,None,None,SCHEDULED,None
+264397,2019-09-21,14:00:00,328,Burnley FC,68,Norwich City FC,2021,6,None,None,SCHEDULED,None
+264392,2019-09-21,16:30:00,67,Newcastle United FC,397,Brighton & Hove Albion FC,2021,6,None,None,SCHEDULED,None
+264398,2019-09-22,13:00:00,563,West Ham United FC,66,Manchester United FC,2021,6,None,None,SCHEDULED,None
+264400,2019-09-22,13:00:00,354,Crystal Palace FC,76,Wolverhampton Wanderers FC,2021,6,None,None,SCHEDULED,None
+264393,2019-09-22,15:30:00,57,Arsenal FC,58,Aston Villa FC,2021,6,None,None,SCHEDULED,None
+264394,2019-09-22,15:30:00,61,Chelsea FC,64,Liverpool FC,2021,6,None,None,SCHEDULED,None
+264407,2019-09-28,11:30:00,356,Sheffield United FC,64,Liverpool FC,2021,7,None,None,SCHEDULED,None
+264401,2019-09-28,14:00:00,76,Wolverhampton Wanderers FC,346,Watford FC,2021,7,None,None,SCHEDULED,None
+264402,2019-09-28,14:00:00,58,Aston Villa FC,328,Burnley FC,2021,7,None,None,SCHEDULED,None
+264403,2019-09-28,14:00:00,61,Chelsea FC,397,Brighton & Hove Albion FC,2021,7,None,None,SCHEDULED,None
+264404,2019-09-28,14:00:00,73,Tottenham Hotspur FC,340,Southampton FC,2021,7,None,None,SCHEDULED,None
+264409,2019-09-28,14:00:00,354,Crystal Palace FC,68,Norwich City FC,2021,7,None,None,SCHEDULED,None
+264410,2019-09-28,14:00:00,1044,AFC Bournemouth,563,West Ham United FC,2021,7,None,None,SCHEDULED,None
+264405,2019-09-28,16:30:00,62,Everton FC,65,Manchester City FC,2021,7,None,None,SCHEDULED,None
+264408,2019-09-29,15:30:00,338,Leicester City FC,67,Newcastle United FC,2021,7,None,None,SCHEDULED,None
+264406,2019-09-30,19:00:00,66,Manchester United FC,57,Arsenal FC,2021,7,None,None,SCHEDULED,None
+264419,2019-10-05,11:30:00,397,Brighton & Hove Albion FC,73,Tottenham Hotspur FC,2021,8,None,None,SCHEDULED,None
+264411,2019-10-05,14:00:00,64,Liverpool FC,338,Leicester City FC,2021,8,None,None,SCHEDULED,None
+264415,2019-10-05,14:00:00,68,Norwich City FC,58,Aston Villa FC,2021,8,None,None,SCHEDULED,None
+264416,2019-10-05,14:00:00,328,Burnley FC,62,Everton FC,2021,8,None,None,SCHEDULED,None
+264420,2019-10-05,14:00:00,346,Watford FC,356,Sheffield United FC,2021,8,None,None,SCHEDULED,None
+264417,2019-10-05,16:30:00,563,West Ham United FC,354,Crystal Palace FC,2021,8,None,None,SCHEDULED,None
+264412,2019-10-06,13:00:00,65,Manchester City FC,76,Wolverhampton Wanderers FC,2021,8,None,None,SCHEDULED,None
+264414,2019-10-06,13:00:00,57,Arsenal FC,1044,AFC Bournemouth,2021,8,None,None,SCHEDULED,None
+264418,2019-10-06,13:00:00,340,Southampton FC,61,Chelsea FC,2021,8,None,None,SCHEDULED,None
+264413,2019-10-06,15:30:00,67,Newcastle United FC,66,Manchester United FC,2021,8,None,None,SCHEDULED,None
+264425,2019-10-19,11:30:00,62,Everton FC,563,West Ham United FC,2021,9,None,None,SCHEDULED,None
+264421,2019-10-19,14:00:00,76,Wolverhampton Wanderers FC,340,Southampton FC,2021,9,None,None,SCHEDULED,None
+264422,2019-10-19,14:00:00,58,Aston Villa FC,397,Brighton & Hove Albion FC,2021,9,None,None,SCHEDULED,None
+264423,2019-10-19,14:00:00,61,Chelsea FC,67,Newcastle United FC,2021,9,None,None,SCHEDULED,None
+264424,2019-10-19,14:00:00,73,Tottenham Hotspur FC,346,Watford FC,2021,9,None,None,SCHEDULED,None
+264428,2019-10-19,14:00:00,338,Leicester City FC,328,Burnley FC,2021,9,None,None,SCHEDULED,None
+264430,2019-10-19,14:00:00,1044,AFC Bournemouth,68,Norwich City FC,2021,9,None,None,SCHEDULED,None
+264429,2019-10-19,16:30:00,354,Crystal Palace FC,65,Manchester City FC,2021,9,None,None,SCHEDULED,None
+264426,2019-10-20,15:30:00,66,Manchester United FC,64,Liverpool FC,2021,9,None,None,SCHEDULED,None
+264427,2019-10-21,19:00:00,356,Sheffield United FC,57,Arsenal FC,2021,9,None,None,SCHEDULED,None
+264438,2019-10-25,19:00:00,340,Southampton FC,338,Leicester City FC,2021,10,None,None,SCHEDULED,None
+264432,2019-10-26,11:30:00,65,Manchester City FC,58,Aston Villa FC,2021,10,None,None,SCHEDULED,None
+264437,2019-10-26,14:00:00,563,West Ham United FC,356,Sheffield United FC,2021,10,None,None,SCHEDULED,None
+264439,2019-10-26,14:00:00,397,Brighton & Hove Albion FC,62,Everton FC,2021,10,None,None,SCHEDULED,None
+264440,2019-10-26,14:00:00,346,Watford FC,1044,AFC Bournemouth,2021,10,None,None,SCHEDULED,None
+264436,2019-10-26,16:30:00,328,Burnley FC,61,Chelsea FC,2021,10,None,None,SCHEDULED,None
+264433,2019-10-27,14:00:00,67,Newcastle United FC,76,Wolverhampton Wanderers FC,2021,10,None,None,SCHEDULED,None
+264431,2019-10-27,16:30:00,64,Liverpool FC,73,Tottenham Hotspur FC,2021,10,None,None,SCHEDULED,None
+264434,2019-10-27,16:30:00,57,Arsenal FC,354,Crystal Palace FC,2021,10,None,None,SCHEDULED,None
+264435,2019-10-27,16:30:00,68,Norwich City FC,66,Manchester United FC,2021,10,None,None,SCHEDULED,None
+264448,2019-11-02,15:00:00,397,Brighton & Hove Albion FC,68,Norwich City FC,2021,11,None,None,SCHEDULED,None
+264449,2019-11-02,15:00:00,346,Watford FC,61,Chelsea FC,2021,11,None,None,SCHEDULED,None
+264450,2019-11-02,15:00:00,1044,AFC Bournemouth,66,Manchester United FC,2021,11,None,None,SCHEDULED,None
+264441,2019-11-02,15:00:00,58,Aston Villa FC,64,Liverpool FC,2021,11,None,None,SCHEDULED,None
+264442,2019-11-02,15:00:00,65,Manchester City FC,340,Southampton FC,2021,11,None,None,SCHEDULED,None
+264443,2019-11-02,15:00:00,57,Arsenal FC,76,Wolverhampton Wanderers FC,2021,11,None,None,SCHEDULED,None
+264444,2019-11-02,15:00:00,62,Everton FC,73,Tottenham Hotspur FC,2021,11,None,None,SCHEDULED,None
+264445,2019-11-02,15:00:00,356,Sheffield United FC,328,Burnley FC,2021,11,None,None,SCHEDULED,None
+264446,2019-11-02,15:00:00,563,West Ham United FC,67,Newcastle United FC,2021,11,None,None,SCHEDULED,None
+264447,2019-11-02,15:00:00,354,Crystal Palace FC,338,Leicester City FC,2021,11,None,None,SCHEDULED,None
+264451,2019-11-09,00:00:00,76,Wolverhampton Wanderers FC,58,Aston Villa FC,2021,12,None,None,SCHEDULED,None
+264452,2019-11-09,00:00:00,64,Liverpool FC,65,Manchester City FC,2021,12,None,None,SCHEDULED,None
+264453,2019-11-09,00:00:00,67,Newcastle United FC,1044,AFC Bournemouth,2021,12,None,None,SCHEDULED,None
+264454,2019-11-09,00:00:00,61,Chelsea FC,354,Crystal Palace FC,2021,12,None,None,SCHEDULED,None
+264455,2019-11-09,00:00:00,73,Tottenham Hotspur FC,356,Sheffield United FC,2021,12,None,None,SCHEDULED,None
+264456,2019-11-09,00:00:00,66,Manchester United FC,397,Brighton & Hove Albion FC,2021,12,None,None,SCHEDULED,None
+264457,2019-11-09,00:00:00,68,Norwich City FC,346,Watford FC,2021,12,None,None,SCHEDULED,None
+264458,2019-11-09,00:00:00,338,Leicester City FC,57,Arsenal FC,2021,12,None,None,SCHEDULED,None
+264459,2019-11-09,00:00:00,328,Burnley FC,563,West Ham United FC,2021,12,None,None,SCHEDULED,None
+264460,2019-11-09,00:00:00,340,Southampton FC,62,Everton FC,2021,12,None,None,SCHEDULED,None
+264461,2019-11-23,00:00:00,58,Aston Villa FC,67,Newcastle United FC,2021,13,None,None,SCHEDULED,None
+264462,2019-11-23,00:00:00,65,Manchester City FC,61,Chelsea FC,2021,13,None,None,SCHEDULED,None
+264463,2019-11-23,00:00:00,57,Arsenal FC,340,Southampton FC,2021,13,None,None,SCHEDULED,None
+264464,2019-11-23,00:00:00,62,Everton FC,68,Norwich City FC,2021,13,None,None,SCHEDULED,None
+264465,2019-11-23,00:00:00,356,Sheffield United FC,66,Manchester United FC,2021,13,None,None,SCHEDULED,None
+264466,2019-11-23,00:00:00,563,West Ham United FC,73,Tottenham Hotspur FC,2021,13,None,None,SCHEDULED,None
+264467,2019-11-23,00:00:00,354,Crystal Palace FC,64,Liverpool FC,2021,13,None,None,SCHEDULED,None
+264468,2019-11-23,00:00:00,397,Brighton & Hove Albion FC,338,Leicester City FC,2021,13,None,None,SCHEDULED,None
+264469,2019-11-23,00:00:00,346,Watford FC,328,Burnley FC,2021,13,None,None,SCHEDULED,None
+264470,2019-11-23,00:00:00,1044,AFC Bournemouth,76,Wolverhampton Wanderers FC,2021,13,None,None,SCHEDULED,None
+264471,2019-11-30,00:00:00,76,Wolverhampton Wanderers FC,356,Sheffield United FC,2021,14,None,None,SCHEDULED,None
+264472,2019-11-30,00:00:00,64,Liverpool FC,397,Brighton & Hove Albion FC,2021,14,None,None,SCHEDULED,None
+264473,2019-11-30,00:00:00,67,Newcastle United FC,65,Manchester City FC,2021,14,None,None,SCHEDULED,None
+264474,2019-11-30,00:00:00,61,Chelsea FC,563,West Ham United FC,2021,14,None,None,SCHEDULED,None
+264475,2019-11-30,00:00:00,73,Tottenham Hotspur FC,1044,AFC Bournemouth,2021,14,None,None,SCHEDULED,None
+264476,2019-11-30,00:00:00,66,Manchester United FC,58,Aston Villa FC,2021,14,None,None,SCHEDULED,None
+264477,2019-11-30,00:00:00,68,Norwich City FC,57,Arsenal FC,2021,14,None,None,SCHEDULED,None
+264478,2019-11-30,00:00:00,338,Leicester City FC,62,Everton FC,2021,14,None,None,SCHEDULED,None
+264479,2019-11-30,00:00:00,328,Burnley FC,354,Crystal Palace FC,2021,14,None,None,SCHEDULED,None
+264480,2019-11-30,00:00:00,340,Southampton FC,346,Watford FC,2021,14,None,None,SCHEDULED,None
+264481,2019-12-03,00:00:00,76,Wolverhampton Wanderers FC,563,West Ham United FC,2021,15,None,None,SCHEDULED,None
+264482,2019-12-03,00:00:00,57,Arsenal FC,397,Brighton & Hove Albion FC,2021,15,None,None,SCHEDULED,None
+264483,2019-12-03,00:00:00,66,Manchester United FC,73,Tottenham Hotspur FC,2021,15,None,None,SCHEDULED,None
+264484,2019-12-03,00:00:00,356,Sheffield United FC,67,Newcastle United FC,2021,15,None,None,SCHEDULED,None
+264485,2019-12-03,00:00:00,338,Leicester City FC,346,Watford FC,2021,15,None,None,SCHEDULED,None
+264486,2019-12-03,00:00:00,328,Burnley FC,65,Manchester City FC,2021,15,None,None,SCHEDULED,None
+264487,2019-12-04,00:00:00,64,Liverpool FC,62,Everton FC,2021,15,None,None,SCHEDULED,None
+264488,2019-12-04,00:00:00,61,Chelsea FC,58,Aston Villa FC,2021,15,None,None,SCHEDULED,None
+264489,2019-12-04,00:00:00,340,Southampton FC,68,Norwich City FC,2021,15,None,None,SCHEDULED,None
+264490,2019-12-04,00:00:00,354,Crystal Palace FC,1044,AFC Bournemouth,2021,15,None,None,SCHEDULED,None
+264491,2019-12-07,00:00:00,58,Aston Villa FC,338,Leicester City FC,2021,16,None,None,SCHEDULED,None
+264492,2019-12-07,00:00:00,65,Manchester City FC,66,Manchester United FC,2021,16,None,None,SCHEDULED,None
+264493,2019-12-07,00:00:00,67,Newcastle United FC,340,Southampton FC,2021,16,None,None,SCHEDULED,None
+264494,2019-12-07,00:00:00,73,Tottenham Hotspur FC,328,Burnley FC,2021,16,None,None,SCHEDULED,None
+264495,2019-12-07,00:00:00,62,Everton FC,61,Chelsea FC,2021,16,None,None,SCHEDULED,None
+264496,2019-12-07,00:00:00,68,Norwich City FC,356,Sheffield United FC,2021,16,None,None,SCHEDULED,None
+264497,2019-12-07,00:00:00,563,West Ham United FC,57,Arsenal FC,2021,16,None,None,SCHEDULED,None
+264498,2019-12-07,00:00:00,397,Brighton & Hove Albion FC,76,Wolverhampton Wanderers FC,2021,16,None,None,SCHEDULED,None
+264499,2019-12-07,00:00:00,346,Watford FC,354,Crystal Palace FC,2021,16,None,None,SCHEDULED,None
+264500,2019-12-07,00:00:00,1044,AFC Bournemouth,64,Liverpool FC,2021,16,None,None,SCHEDULED,None
+264501,2019-12-14,00:00:00,76,Wolverhampton Wanderers FC,73,Tottenham Hotspur FC,2021,17,None,None,SCHEDULED,None
+264502,2019-12-14,00:00:00,64,Liverpool FC,346,Watford FC,2021,17,None,None,SCHEDULED,None
+264503,2019-12-14,00:00:00,57,Arsenal FC,65,Manchester City FC,2021,17,None,None,SCHEDULED,None
+264504,2019-12-14,00:00:00,61,Chelsea FC,1044,AFC Bournemouth,2021,17,None,None,SCHEDULED,None
+264505,2019-12-14,00:00:00,66,Manchester United FC,62,Everton FC,2021,17,None,None,SCHEDULED,None
+264506,2019-12-14,00:00:00,356,Sheffield United FC,58,Aston Villa FC,2021,17,None,None,SCHEDULED,None
+264507,2019-12-14,00:00:00,338,Leicester City FC,68,Norwich City FC,2021,17,None,None,SCHEDULED,None
+264508,2019-12-14,00:00:00,328,Burnley FC,67,Newcastle United FC,2021,17,None,None,SCHEDULED,None
+264509,2019-12-14,00:00:00,340,Southampton FC,563,West Ham United FC,2021,17,None,None,SCHEDULED,None
+264510,2019-12-14,00:00:00,354,Crystal Palace FC,397,Brighton & Hove Albion FC,2021,17,None,None,SCHEDULED,None
+264511,2019-12-21,00:00:00,58,Aston Villa FC,340,Southampton FC,2021,18,None,None,SCHEDULED,None
+264512,2019-12-21,00:00:00,65,Manchester City FC,338,Leicester City FC,2021,18,None,None,SCHEDULED,None
+264513,2019-12-21,00:00:00,67,Newcastle United FC,354,Crystal Palace FC,2021,18,None,None,SCHEDULED,None
+264514,2019-12-21,00:00:00,73,Tottenham Hotspur FC,61,Chelsea FC,2021,18,None,None,SCHEDULED,None
+264515,2019-12-21,00:00:00,62,Everton FC,57,Arsenal FC,2021,18,None,None,SCHEDULED,None
+264516,2019-12-21,00:00:00,68,Norwich City FC,76,Wolverhampton Wanderers FC,2021,18,None,None,SCHEDULED,None
+264517,2019-12-21,00:00:00,563,West Ham United FC,64,Liverpool FC,2021,18,None,None,SCHEDULED,None
+264518,2019-12-21,00:00:00,397,Brighton & Hove Albion FC,356,Sheffield United FC,2021,18,None,None,SCHEDULED,None
+264519,2019-12-21,00:00:00,346,Watford FC,66,Manchester United FC,2021,18,None,None,SCHEDULED,None
+264520,2019-12-21,00:00:00,1044,AFC Bournemouth,328,Burnley FC,2021,18,None,None,SCHEDULED,None
+264521,2019-12-26,00:00:00,76,Wolverhampton Wanderers FC,65,Manchester City FC,2021,19,None,None,SCHEDULED,None
+264522,2019-12-26,00:00:00,58,Aston Villa FC,68,Norwich City FC,2021,19,None,None,SCHEDULED,None
+264523,2019-12-26,00:00:00,61,Chelsea FC,340,Southampton FC,2021,19,None,None,SCHEDULED,None
+264524,2019-12-26,00:00:00,73,Tottenham Hotspur FC,397,Brighton & Hove Albion FC,2021,19,None,None,SCHEDULED,None
+264525,2019-12-26,00:00:00,62,Everton FC,328,Burnley FC,2021,19,None,None,SCHEDULED,None
+264526,2019-12-26,00:00:00,66,Manchester United FC,67,Newcastle United FC,2021,19,None,None,SCHEDULED,None
+264527,2019-12-26,00:00:00,356,Sheffield United FC,346,Watford FC,2021,19,None,None,SCHEDULED,None
+264528,2019-12-26,00:00:00,338,Leicester City FC,64,Liverpool FC,2021,19,None,None,SCHEDULED,None
+264529,2019-12-26,00:00:00,354,Crystal Palace FC,563,West Ham United FC,2021,19,None,None,SCHEDULED,None
+264530,2019-12-26,00:00:00,1044,AFC Bournemouth,57,Arsenal FC,2021,19,None,None,SCHEDULED,None
+264531,2019-12-28,00:00:00,64,Liverpool FC,76,Wolverhampton Wanderers FC,2021,20,None,None,SCHEDULED,None
+264532,2019-12-28,00:00:00,65,Manchester City FC,356,Sheffield United FC,2021,20,None,None,SCHEDULED,None
+264533,2019-12-28,00:00:00,67,Newcastle United FC,62,Everton FC,2021,20,None,None,SCHEDULED,None
+264534,2019-12-28,00:00:00,57,Arsenal FC,61,Chelsea FC,2021,20,None,None,SCHEDULED,None
+264535,2019-12-28,00:00:00,68,Norwich City FC,73,Tottenham Hotspur FC,2021,20,None,None,SCHEDULED,None
+264536,2019-12-28,00:00:00,328,Burnley FC,66,Manchester United FC,2021,20,None,None,SCHEDULED,None
+264537,2019-12-28,00:00:00,563,West Ham United FC,338,Leicester City FC,2021,20,None,None,SCHEDULED,None
+264538,2019-12-28,00:00:00,340,Southampton FC,354,Crystal Palace FC,2021,20,None,None,SCHEDULED,None
+264539,2019-12-28,00:00:00,397,Brighton & Hove Albion FC,1044,AFC Bournemouth,2021,20,None,None,SCHEDULED,None
+264540,2019-12-28,00:00:00,346,Watford FC,58,Aston Villa FC,2021,20,None,None,SCHEDULED,None
+264541,2020-01-01,00:00:00,64,Liverpool FC,356,Sheffield United FC,2021,21,None,None,SCHEDULED,None
+264542,2020-01-01,00:00:00,65,Manchester City FC,62,Everton FC,2021,21,None,None,SCHEDULED,None
+264543,2020-01-01,00:00:00,67,Newcastle United FC,338,Leicester City FC,2021,21,None,None,SCHEDULED,None
+264544,2020-01-01,00:00:00,57,Arsenal FC,66,Manchester United FC,2021,21,None,None,SCHEDULED,None
+264545,2020-01-01,00:00:00,68,Norwich City FC,354,Crystal Palace FC,2021,21,None,None,SCHEDULED,None
+264546,2020-01-01,00:00:00,328,Burnley FC,58,Aston Villa FC,2021,21,None,None,SCHEDULED,None
+264547,2020-01-01,00:00:00,563,West Ham United FC,1044,AFC Bournemouth,2021,21,None,None,SCHEDULED,None
+264548,2020-01-01,00:00:00,340,Southampton FC,73,Tottenham Hotspur FC,2021,21,None,None,SCHEDULED,None
+264549,2020-01-01,00:00:00,397,Brighton & Hove Albion FC,61,Chelsea FC,2021,21,None,None,SCHEDULED,None
+264550,2020-01-01,00:00:00,346,Watford FC,76,Wolverhampton Wanderers FC,2021,21,None,None,SCHEDULED,None
+264551,2020-01-11,00:00:00,76,Wolverhampton Wanderers FC,67,Newcastle United FC,2021,22,None,None,SCHEDULED,None
+264552,2020-01-11,00:00:00,58,Aston Villa FC,65,Manchester City FC,2021,22,None,None,SCHEDULED,None
+264553,2020-01-11,00:00:00,61,Chelsea FC,328,Burnley FC,2021,22,None,None,SCHEDULED,None
+264554,2020-01-11,00:00:00,73,Tottenham Hotspur FC,64,Liverpool FC,2021,22,None,None,SCHEDULED,None
+264555,2020-01-11,00:00:00,62,Everton FC,397,Brighton & Hove Albion FC,2021,22,None,None,SCHEDULED,None
+264556,2020-01-11,00:00:00,66,Manchester United FC,68,Norwich City FC,2021,22,None,None,SCHEDULED,None
+264557,2020-01-11,00:00:00,356,Sheffield United FC,563,West Ham United FC,2021,22,None,None,SCHEDULED,None
+264558,2020-01-11,00:00:00,338,Leicester City FC,340,Southampton FC,2021,22,None,None,SCHEDULED,None
+264559,2020-01-11,00:00:00,354,Crystal Palace FC,57,Arsenal FC,2021,22,None,None,SCHEDULED,None
+264560,2020-01-11,00:00:00,1044,AFC Bournemouth,346,Watford FC,2021,22,None,None,SCHEDULED,None
+264561,2020-01-18,00:00:00,64,Liverpool FC,66,Manchester United FC,2021,23,None,None,SCHEDULED,None
+264562,2020-01-18,00:00:00,65,Manchester City FC,354,Crystal Palace FC,2021,23,None,None,SCHEDULED,None
+264563,2020-01-18,00:00:00,67,Newcastle United FC,61,Chelsea FC,2021,23,None,None,SCHEDULED,None
+264564,2020-01-18,00:00:00,57,Arsenal FC,356,Sheffield United FC,2021,23,None,None,SCHEDULED,None
+264565,2020-01-18,00:00:00,68,Norwich City FC,1044,AFC Bournemouth,2021,23,None,None,SCHEDULED,None
+264566,2020-01-18,00:00:00,328,Burnley FC,338,Leicester City FC,2021,23,None,None,SCHEDULED,None
+264567,2020-01-18,00:00:00,563,West Ham United FC,62,Everton FC,2021,23,None,None,SCHEDULED,None
+264568,2020-01-18,00:00:00,340,Southampton FC,76,Wolverhampton Wanderers FC,2021,23,None,None,SCHEDULED,None
+264569,2020-01-18,00:00:00,397,Brighton & Hove Albion FC,58,Aston Villa FC,2021,23,None,None,SCHEDULED,None
+264570,2020-01-18,00:00:00,346,Watford FC,73,Tottenham Hotspur FC,2021,23,None,None,SCHEDULED,None
+264571,2020-01-21,00:00:00,76,Wolverhampton Wanderers FC,64,Liverpool FC,2021,24,None,None,SCHEDULED,None
+264572,2020-01-21,00:00:00,58,Aston Villa FC,346,Watford FC,2021,24,None,None,SCHEDULED,None
+264573,2020-01-21,00:00:00,62,Everton FC,67,Newcastle United FC,2021,24,None,None,SCHEDULED,None
+264574,2020-01-21,00:00:00,66,Manchester United FC,328,Burnley FC,2021,24,None,None,SCHEDULED,None
+264575,2020-01-21,00:00:00,356,Sheffield United FC,65,Manchester City FC,2021,24,None,None,SCHEDULED,None
+264576,2020-01-21,00:00:00,338,Leicester City FC,563,West Ham United FC,2021,24,None,None,SCHEDULED,None
+264577,2020-01-21,00:00:00,1044,AFC Bournemouth,397,Brighton & Hove Albion FC,2021,24,None,None,SCHEDULED,None
+264578,2020-01-22,00:00:00,61,Chelsea FC,57,Arsenal FC,2021,24,None,None,SCHEDULED,None
+264579,2020-01-22,00:00:00,73,Tottenham Hotspur FC,68,Norwich City FC,2021,24,None,None,SCHEDULED,None
+264580,2020-01-22,00:00:00,354,Crystal Palace FC,340,Southampton FC,2021,24,None,None,SCHEDULED,None
+264581,2020-02-01,00:00:00,64,Liverpool FC,340,Southampton FC,2021,25,None,None,SCHEDULED,None
+264582,2020-02-01,00:00:00,67,Newcastle United FC,68,Norwich City FC,2021,25,None,None,SCHEDULED,None
+264583,2020-02-01,00:00:00,73,Tottenham Hotspur FC,65,Manchester City FC,2021,25,None,None,SCHEDULED,None
+264584,2020-02-01,00:00:00,66,Manchester United FC,76,Wolverhampton Wanderers FC,2021,25,None,None,SCHEDULED,None
+264585,2020-02-01,00:00:00,338,Leicester City FC,61,Chelsea FC,2021,25,None,None,SCHEDULED,None
+264586,2020-02-01,00:00:00,328,Burnley FC,57,Arsenal FC,2021,25,None,None,SCHEDULED,None
+264587,2020-02-01,00:00:00,563,West Ham United FC,397,Brighton & Hove Albion FC,2021,25,None,None,SCHEDULED,None
+264588,2020-02-01,00:00:00,354,Crystal Palace FC,356,Sheffield United FC,2021,25,None,None,SCHEDULED,None
+264589,2020-02-01,00:00:00,346,Watford FC,62,Everton FC,2021,25,None,None,SCHEDULED,None
+264590,2020-02-01,00:00:00,1044,AFC Bournemouth,58,Aston Villa FC,2021,25,None,None,SCHEDULED,None
+264591,2020-02-08,00:00:00,76,Wolverhampton Wanderers FC,338,Leicester City FC,2021,26,None,None,SCHEDULED,None
+264592,2020-02-08,00:00:00,58,Aston Villa FC,73,Tottenham Hotspur FC,2021,26,None,None,SCHEDULED,None
+264593,2020-02-08,00:00:00,65,Manchester City FC,563,West Ham United FC,2021,26,None,None,SCHEDULED,None
+264594,2020-02-08,00:00:00,57,Arsenal FC,67,Newcastle United FC,2021,26,None,None,SCHEDULED,None
+264595,2020-02-08,00:00:00,61,Chelsea FC,66,Manchester United FC,2021,26,None,None,SCHEDULED,None
+264596,2020-02-08,00:00:00,62,Everton FC,354,Crystal Palace FC,2021,26,None,None,SCHEDULED,None
+264597,2020-02-08,00:00:00,68,Norwich City FC,64,Liverpool FC,2021,26,None,None,SCHEDULED,None
+264598,2020-02-08,00:00:00,356,Sheffield United FC,1044,AFC Bournemouth,2021,26,None,None,SCHEDULED,None
+264599,2020-02-08,00:00:00,340,Southampton FC,328,Burnley FC,2021,26,None,None,SCHEDULED,None
+264600,2020-02-08,00:00:00,397,Brighton & Hove Albion FC,346,Watford FC,2021,26,None,None,SCHEDULED,None
+264601,2020-02-22,00:00:00,76,Wolverhampton Wanderers FC,68,Norwich City FC,2021,27,None,None,SCHEDULED,None
+264602,2020-02-22,00:00:00,64,Liverpool FC,563,West Ham United FC,2021,27,None,None,SCHEDULED,None
+264603,2020-02-22,00:00:00,57,Arsenal FC,62,Everton FC,2021,27,None,None,SCHEDULED,None
+264604,2020-02-22,00:00:00,61,Chelsea FC,73,Tottenham Hotspur FC,2021,27,None,None,SCHEDULED,None
+264605,2020-02-22,00:00:00,66,Manchester United FC,346,Watford FC,2021,27,None,None,SCHEDULED,None
+264606,2020-02-22,00:00:00,356,Sheffield United FC,397,Brighton & Hove Albion FC,2021,27,None,None,SCHEDULED,None
+264607,2020-02-22,00:00:00,338,Leicester City FC,65,Manchester City FC,2021,27,None,None,SCHEDULED,None
+264608,2020-02-22,00:00:00,328,Burnley FC,1044,AFC Bournemouth,2021,27,None,None,SCHEDULED,None
+264609,2020-02-22,00:00:00,340,Southampton FC,58,Aston Villa FC,2021,27,None,None,SCHEDULED,None
+264610,2020-02-22,00:00:00,354,Crystal Palace FC,67,Newcastle United FC,2021,27,None,None,SCHEDULED,None
+264611,2020-02-29,00:00:00,58,Aston Villa FC,356,Sheffield United FC,2021,28,None,None,SCHEDULED,None
+264612,2020-02-29,00:00:00,65,Manchester City FC,57,Arsenal FC,2021,28,None,None,SCHEDULED,None
+264613,2020-02-29,00:00:00,67,Newcastle United FC,328,Burnley FC,2021,28,None,None,SCHEDULED,None
+264614,2020-02-29,00:00:00,73,Tottenham Hotspur FC,76,Wolverhampton Wanderers FC,2021,28,None,None,SCHEDULED,None
+264615,2020-02-29,00:00:00,62,Everton FC,66,Manchester United FC,2021,28,None,None,SCHEDULED,None
+264616,2020-02-29,00:00:00,68,Norwich City FC,338,Leicester City FC,2021,28,None,None,SCHEDULED,None
+264617,2020-02-29,00:00:00,563,West Ham United FC,340,Southampton FC,2021,28,None,None,SCHEDULED,None
+264618,2020-02-29,00:00:00,397,Brighton & Hove Albion FC,354,Crystal Palace FC,2021,28,None,None,SCHEDULED,None
+264619,2020-02-29,00:00:00,346,Watford FC,64,Liverpool FC,2021,28,None,None,SCHEDULED,None
+264620,2020-02-29,00:00:00,1044,AFC Bournemouth,61,Chelsea FC,2021,28,None,None,SCHEDULED,None
+264621,2020-03-07,00:00:00,76,Wolverhampton Wanderers FC,397,Brighton & Hove Albion FC,2021,29,None,None,SCHEDULED,None
+264622,2020-03-07,00:00:00,64,Liverpool FC,1044,AFC Bournemouth,2021,29,None,None,SCHEDULED,None
+264623,2020-03-07,00:00:00,57,Arsenal FC,563,West Ham United FC,2021,29,None,None,SCHEDULED,None
+264624,2020-03-07,00:00:00,61,Chelsea FC,62,Everton FC,2021,29,None,None,SCHEDULED,None
+264625,2020-03-07,00:00:00,66,Manchester United FC,65,Manchester City FC,2021,29,None,None,SCHEDULED,None
+264626,2020-03-07,00:00:00,356,Sheffield United FC,68,Norwich City FC,2021,29,None,None,SCHEDULED,None
+264627,2020-03-07,00:00:00,338,Leicester City FC,58,Aston Villa FC,2021,29,None,None,SCHEDULED,None
+264628,2020-03-07,00:00:00,328,Burnley FC,73,Tottenham Hotspur FC,2021,29,None,None,SCHEDULED,None
+264629,2020-03-07,00:00:00,340,Southampton FC,67,Newcastle United FC,2021,29,None,None,SCHEDULED,None
+264630,2020-03-07,00:00:00,354,Crystal Palace FC,346,Watford FC,2021,29,None,None,SCHEDULED,None
+264631,2020-03-14,00:00:00,58,Aston Villa FC,61,Chelsea FC,2021,30,None,None,SCHEDULED,None
+264632,2020-03-14,00:00:00,65,Manchester City FC,328,Burnley FC,2021,30,None,None,SCHEDULED,None
+264633,2020-03-14,00:00:00,67,Newcastle United FC,356,Sheffield United FC,2021,30,None,None,SCHEDULED,None
+264634,2020-03-14,00:00:00,73,Tottenham Hotspur FC,66,Manchester United FC,2021,30,None,None,SCHEDULED,None
+264635,2020-03-14,00:00:00,62,Everton FC,64,Liverpool FC,2021,30,None,None,SCHEDULED,None
+264636,2020-03-14,00:00:00,68,Norwich City FC,340,Southampton FC,2021,30,None,None,SCHEDULED,None
+264637,2020-03-14,00:00:00,563,West Ham United FC,76,Wolverhampton Wanderers FC,2021,30,None,None,SCHEDULED,None
+264638,2020-03-14,00:00:00,397,Brighton & Hove Albion FC,57,Arsenal FC,2021,30,None,None,SCHEDULED,None
+264639,2020-03-14,00:00:00,346,Watford FC,338,Leicester City FC,2021,30,None,None,SCHEDULED,None
+264640,2020-03-14,00:00:00,1044,AFC Bournemouth,354,Crystal Palace FC,2021,30,None,None,SCHEDULED,None
+264641,2020-03-21,00:00:00,76,Wolverhampton Wanderers FC,1044,AFC Bournemouth,2021,31,None,None,SCHEDULED,None
+264642,2020-03-21,00:00:00,64,Liverpool FC,354,Crystal Palace FC,2021,31,None,None,SCHEDULED,None
+264643,2020-03-21,00:00:00,67,Newcastle United FC,58,Aston Villa FC,2021,31,None,None,SCHEDULED,None
+264644,2020-03-21,00:00:00,61,Chelsea FC,65,Manchester City FC,2021,31,None,None,SCHEDULED,None
+264645,2020-03-21,00:00:00,73,Tottenham Hotspur FC,563,West Ham United FC,2021,31,None,None,SCHEDULED,None
+264646,2020-03-21,00:00:00,66,Manchester United FC,356,Sheffield United FC,2021,31,None,None,SCHEDULED,None
+264647,2020-03-21,00:00:00,68,Norwich City FC,62,Everton FC,2021,31,None,None,SCHEDULED,None
+264648,2020-03-21,00:00:00,338,Leicester City FC,397,Brighton & Hove Albion FC,2021,31,None,None,SCHEDULED,None
+264649,2020-03-21,00:00:00,328,Burnley FC,346,Watford FC,2021,31,None,None,SCHEDULED,None
+264650,2020-03-21,00:00:00,340,Southampton FC,57,Arsenal FC,2021,31,None,None,SCHEDULED,None
+264651,2020-04-04,00:00:00,58,Aston Villa FC,76,Wolverhampton Wanderers FC,2021,32,None,None,SCHEDULED,None
+264652,2020-04-04,00:00:00,65,Manchester City FC,64,Liverpool FC,2021,32,None,None,SCHEDULED,None
+264653,2020-04-04,00:00:00,57,Arsenal FC,68,Norwich City FC,2021,32,None,None,SCHEDULED,None
+264654,2020-04-04,00:00:00,62,Everton FC,338,Leicester City FC,2021,32,None,None,SCHEDULED,None
+264655,2020-04-04,00:00:00,356,Sheffield United FC,73,Tottenham Hotspur FC,2021,32,None,None,SCHEDULED,None
+264656,2020-04-04,00:00:00,563,West Ham United FC,61,Chelsea FC,2021,32,None,None,SCHEDULED,None
+264657,2020-04-04,00:00:00,354,Crystal Palace FC,328,Burnley FC,2021,32,None,None,SCHEDULED,None
+264658,2020-04-04,00:00:00,397,Brighton & Hove Albion FC,66,Manchester United FC,2021,32,None,None,SCHEDULED,None
+264659,2020-04-04,00:00:00,346,Watford FC,340,Southampton FC,2021,32,None,None,SCHEDULED,None
+264660,2020-04-04,00:00:00,1044,AFC Bournemouth,67,Newcastle United FC,2021,32,None,None,SCHEDULED,None
+264661,2020-04-11,00:00:00,76,Wolverhampton Wanderers FC,57,Arsenal FC,2021,33,None,None,SCHEDULED,None
+264662,2020-04-11,00:00:00,64,Liverpool FC,58,Aston Villa FC,2021,33,None,None,SCHEDULED,None
+264663,2020-04-11,00:00:00,67,Newcastle United FC,563,West Ham United FC,2021,33,None,None,SCHEDULED,None
+264664,2020-04-11,00:00:00,61,Chelsea FC,346,Watford FC,2021,33,None,None,SCHEDULED,None
+264665,2020-04-11,00:00:00,73,Tottenham Hotspur FC,62,Everton FC,2021,33,None,None,SCHEDULED,None
+264666,2020-04-11,00:00:00,66,Manchester United FC,1044,AFC Bournemouth,2021,33,None,None,SCHEDULED,None
+264667,2020-04-11,00:00:00,68,Norwich City FC,397,Brighton & Hove Albion FC,2021,33,None,None,SCHEDULED,None
+264668,2020-04-11,00:00:00,338,Leicester City FC,354,Crystal Palace FC,2021,33,None,None,SCHEDULED,None
+264669,2020-04-11,00:00:00,328,Burnley FC,356,Sheffield United FC,2021,33,None,None,SCHEDULED,None
+264670,2020-04-11,00:00:00,340,Southampton FC,65,Manchester City FC,2021,33,None,None,SCHEDULED,None
+264671,2020-04-18,00:00:00,58,Aston Villa FC,66,Manchester United FC,2021,34,None,None,SCHEDULED,None
+264672,2020-04-18,00:00:00,65,Manchester City FC,67,Newcastle United FC,2021,34,None,None,SCHEDULED,None
+264673,2020-04-18,00:00:00,57,Arsenal FC,338,Leicester City FC,2021,34,None,None,SCHEDULED,None
+264674,2020-04-18,00:00:00,62,Everton FC,340,Southampton FC,2021,34,None,None,SCHEDULED,None
+264675,2020-04-18,00:00:00,356,Sheffield United FC,76,Wolverhampton Wanderers FC,2021,34,None,None,SCHEDULED,None
+264676,2020-04-18,00:00:00,563,West Ham United FC,328,Burnley FC,2021,34,None,None,SCHEDULED,None
+264677,2020-04-18,00:00:00,354,Crystal Palace FC,61,Chelsea FC,2021,34,None,None,SCHEDULED,None
+264678,2020-04-18,00:00:00,397,Brighton & Hove Albion FC,64,Liverpool FC,2021,34,None,None,SCHEDULED,None
+264679,2020-04-18,00:00:00,346,Watford FC,68,Norwich City FC,2021,34,None,None,SCHEDULED,None
+264680,2020-04-18,00:00:00,1044,AFC Bournemouth,73,Tottenham Hotspur FC,2021,34,None,None,SCHEDULED,None
+264681,2020-04-25,00:00:00,76,Wolverhampton Wanderers FC,62,Everton FC,2021,35,None,None,SCHEDULED,None
+264682,2020-04-25,00:00:00,58,Aston Villa FC,354,Crystal Palace FC,2021,35,None,None,SCHEDULED,None
+264683,2020-04-25,00:00:00,64,Liverpool FC,328,Burnley FC,2021,35,None,None,SCHEDULED,None
+264684,2020-04-25,00:00:00,73,Tottenham Hotspur FC,57,Arsenal FC,2021,35,None,None,SCHEDULED,None
+264685,2020-04-25,00:00:00,66,Manchester United FC,340,Southampton FC,2021,35,None,None,SCHEDULED,None
+264686,2020-04-25,00:00:00,68,Norwich City FC,563,West Ham United FC,2021,35,None,None,SCHEDULED,None
+264687,2020-04-25,00:00:00,356,Sheffield United FC,61,Chelsea FC,2021,35,None,None,SCHEDULED,None
+264688,2020-04-25,00:00:00,397,Brighton & Hove Albion FC,65,Manchester City FC,2021,35,None,None,SCHEDULED,None
+264689,2020-04-25,00:00:00,346,Watford FC,67,Newcastle United FC,2021,35,None,None,SCHEDULED,None
+264690,2020-04-25,00:00:00,1044,AFC Bournemouth,338,Leicester City FC,2021,35,None,None,SCHEDULED,None
+264691,2020-05-02,00:00:00,65,Manchester City FC,1044,AFC Bournemouth,2021,36,None,None,SCHEDULED,None
+264692,2020-05-02,00:00:00,67,Newcastle United FC,73,Tottenham Hotspur FC,2021,36,None,None,SCHEDULED,None
+264693,2020-05-02,00:00:00,57,Arsenal FC,64,Liverpool FC,2021,36,None,None,SCHEDULED,None
+264694,2020-05-02,00:00:00,61,Chelsea FC,68,Norwich City FC,2021,36,None,None,SCHEDULED,None
+264695,2020-05-02,00:00:00,62,Everton FC,58,Aston Villa FC,2021,36,None,None,SCHEDULED,None
+264696,2020-05-02,00:00:00,338,Leicester City FC,356,Sheffield United FC,2021,36,None,None,SCHEDULED,None
+264697,2020-05-02,00:00:00,328,Burnley FC,76,Wolverhampton Wanderers FC,2021,36,None,None,SCHEDULED,None
+264698,2020-05-02,00:00:00,563,West Ham United FC,346,Watford FC,2021,36,None,None,SCHEDULED,None
+264699,2020-05-02,00:00:00,340,Southampton FC,397,Brighton & Hove Albion FC,2021,36,None,None,SCHEDULED,None
+264700,2020-05-02,00:00:00,354,Crystal Palace FC,66,Manchester United FC,2021,36,None,None,SCHEDULED,None
+264704,2020-05-09,00:00:00,73,Tottenham Hotspur FC,338,Leicester City FC,2021,37,None,None,SCHEDULED,None
+264705,2020-05-09,00:00:00,66,Manchester United FC,563,West Ham United FC,2021,37,None,None,SCHEDULED,None
+264706,2020-05-09,00:00:00,68,Norwich City FC,328,Burnley FC,2021,37,None,None,SCHEDULED,None
+264707,2020-05-09,00:00:00,356,Sheffield United FC,62,Everton FC,2021,37,None,None,SCHEDULED,None
+264708,2020-05-09,00:00:00,397,Brighton & Hove Albion FC,67,Newcastle United FC,2021,37,None,None,SCHEDULED,None
+264709,2020-05-09,00:00:00,346,Watford FC,65,Manchester City FC,2021,37,None,None,SCHEDULED,None
+264710,2020-05-09,00:00:00,1044,AFC Bournemouth,340,Southampton FC,2021,37,None,None,SCHEDULED,None
+264701,2020-05-09,00:00:00,76,Wolverhampton Wanderers FC,354,Crystal Palace FC,2021,37,None,None,SCHEDULED,None
+264702,2020-05-09,00:00:00,58,Aston Villa FC,57,Arsenal FC,2021,37,None,None,SCHEDULED,None
+264703,2020-05-09,00:00:00,64,Liverpool FC,61,Chelsea FC,2021,37,None,None,SCHEDULED,None
+264711,2020-05-17,00:00:00,65,Manchester City FC,68,Norwich City FC,2021,38,None,None,SCHEDULED,None
+264712,2020-05-17,00:00:00,67,Newcastle United FC,64,Liverpool FC,2021,38,None,None,SCHEDULED,None
+264713,2020-05-17,00:00:00,57,Arsenal FC,346,Watford FC,2021,38,None,None,SCHEDULED,None
+264714,2020-05-17,00:00:00,61,Chelsea FC,76,Wolverhampton Wanderers FC,2021,38,None,None,SCHEDULED,None
+264715,2020-05-17,00:00:00,62,Everton FC,1044,AFC Bournemouth,2021,38,None,None,SCHEDULED,None
+264716,2020-05-17,00:00:00,338,Leicester City FC,66,Manchester United FC,2021,38,None,None,SCHEDULED,None
+264717,2020-05-17,00:00:00,328,Burnley FC,397,Brighton & Hove Albion FC,2021,38,None,None,SCHEDULED,None
+264718,2020-05-17,00:00:00,563,West Ham United FC,58,Aston Villa FC,2021,38,None,None,SCHEDULED,None
+264719,2020-05-17,00:00:00,340,Southampton FC,356,Sheffield United FC,2021,38,None,None,SCHEDULED,None
+264720,2020-05-17,00:00:00,354,Crystal Palace FC,73,Tottenham Hotspur FC,2021,38,None,None,SCHEDULED,None

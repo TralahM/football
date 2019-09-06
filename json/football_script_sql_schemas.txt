@@ -1,0 +1,161 @@
+ 20769	CREATE TABLE `fixtures` (
+ 20770	  `id` int(10) UNSIGNED NOT NULL,
+ 20771	  `fixture_id` int(10) UNSIGNED DEFAULT NULL,
+ 20772	  `league_id` int(10) UNSIGNED DEFAULT NULL,
+ 20773	  `home_team_id` int(10) UNSIGNED DEFAULT NULL,
+ 20774	  `away_team_id` int(10) UNSIGNED DEFAULT NULL,
+ 20775	  `date` timestamp NULL DEFAULT NULL,
+ 20776	  `status` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
+ 20777	  `match_day` smallint(6) NOT NULL,
+ 20778	  `goals_home_team` varchar(10) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 20779	  `goals_away_team` varchar(10) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 20780	  `odds_home_team_win` double(5,2) DEFAULT NULL,
+ 20781	  `odds_draw` double(5,2) DEFAULT NULL,
+ 20782	  `odds_away_team_win` double(5,2) DEFAULT NULL,
+ 20783	  `created_at` timestamp NULL DEFAULT NULL,
+ 20784	  `updated_at` timestamp NULL DEFAULT NULL
+ 20785	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+ 20786	
+ 20787	--
+ 20788	-- Dumping data for table `fixtures`
+ 20789	--
+ 20790	
+ 20791	INSERT INTO `fixtures` (`id`, `fixture_id`, `league_id`, `home_team_id`, `away_team_id`, `date`, `status`, `match_day`, `goals_home_team`, `goals_away_team`, `odds_home_team_win`, `odds_draw`, `odds_away_team_win`, `created_at`, `updated_at`) VALUES
+ 20792	(1, 150841, 426, 1, 2, '2016-08-13 14:30:00', 'FINISHED', 1, '2', '1', 3.25, 3.25, 2.20, '2016-11-23 10:04:30', '2016-11-23 10:04:30'),
+ 20793	(2, 150837, 426, 11, 12, '2016-08-13 17:00:00', 'FINISHED', 1, '0', '1', 2.60, 3.10, 2.80, '2016-11-23 10:04:30', '2016-11-23 10:04:30'),
+ 22832	CREATE TABLE `games` (
+ 22833	  `id` int(10) UNSIGNED NOT NULL,
+ 22834	  `league_id` int(10) UNSIGNED DEFAULT NULL,
+ 22835	  `fixture_id` int(10) UNSIGNED DEFAULT NULL,
+ 22836	  `connector` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22837	  `match_day` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
+ 22838	  `status` varchar(20) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'TIMED',
+ 22839	  `home_team_id` int(10) UNSIGNED DEFAULT NULL,
+ 22840	  `home_team_name` varchar(40) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22841	  `home_team_label` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22842	  `home_team_badge` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22843	  `home_team_score` int(11) NOT NULL DEFAULT '0',
+ 22844	  `away_team_id` int(10) UNSIGNED DEFAULT NULL,
+ 22845	  `away_team_name` varchar(40) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22846	  `away_team_label` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22847	  `away_team_badge` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 22848	  `away_team_score` int(11) NOT NULL DEFAULT '0',
+ 22849	  `odds_home_team_win` double(5,2) DEFAULT NULL,
+ 22850	  `odds_draw` double(5,2) DEFAULT NULL,
+ 22851	  `odds_away_team_win` double(5,2) DEFAULT NULL,
+ 22852	  `starts_on` timestamp NULL DEFAULT NULL,
+ 22853	  `end_time` timestamp NULL DEFAULT NULL,
+ 22854	  `created_at` timestamp NULL DEFAULT NULL,
+ 22855	  `updated_at` timestamp NULL DEFAULT NULL
+ 22856	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+ 22857	
+ 22858	--
+ 22859	-- Dumping data for table `games`
+ 22860	--
+ 22861	
+ 22862	INSERT INTO `games` (`id`, `league_id`, `fixture_id`, `connector`, `match_day`, `status`, `home_team_id`, `home_team_name`, `home_team_label`, `home_team_badge`, `home_team_score`, `away_team_id`, `away_team_name`, `away_team_label`, `away_team_badge`, `away_team_score`, `odds_home_team_win`, `odds_draw`, `odds_away_team_win`, `starts_on`, `end_time`, `created_at`, `updated_at`) VALUES
+ 22863	(1, 426, 111, NULL, '12', 'FINISHED', 16, 'ManU', 'MUFC', 'http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg', 1, 17, 'Arsenal', 'AFC', 'http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg', 1, 0.00, 0.00, 0.00, '2016-11-25 20:01:07', '2016-11-25 20:01:07', '2016-11-24 11:32:26', '2016-11-25 20:01:07'),
+ 22864	(2, 426, 112, NULL, '12', 'FINISHED', 4, 'Watford', 'Watfordfc', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg', 2, 2, 'Foxes', 'LCFC', 'http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png', 1, 0.00, 0.00, 0.00, '2016-11-19 18:00:00', '2016-12-29 19:50:00', '2016-11-24 11:32:26', '2016-11-24 11:32:26'),
+ 24388	CREATE TABLE `leagues` (
+ 24389	  `id` int(10) UNSIGNED NOT NULL,
+ 24390	  `league_id` int(10) UNSIGNED NOT NULL,
+ 24391	  `caption` varchar(40) COLLATE utf8_unicode_ci NOT NULL,
+ 24392	  `league` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
+ 24393	  `year` int(10) UNSIGNED NOT NULL,
+ 24394	  `current_matchday` int(10) UNSIGNED NOT NULL,
+ 24395	  `number_of_matchdays` int(10) UNSIGNED NOT NULL,
+ 24396	  `number_of_teams` smallint(5) UNSIGNED DEFAULT NULL,
+ 24397	  `number_of_games` smallint(5) UNSIGNED DEFAULT NULL,
+ 24398	  `last_updated` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ 24399	  `created_at` timestamp NULL DEFAULT NULL,
+ 24400	  `updated_at` timestamp NULL DEFAULT NULL
+ 24401	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+ 24402	
+ 24403	--
+ 24404	-- Dumping data for table `leagues`
+ 24405	--
+ 24406	
+ 24407	INSERT INTO `leagues` (`id`, `league_id`, `caption`, `league`, `year`, `current_matchday`, `number_of_matchdays`, `number_of_teams`, `number_of_games`, `last_updated`, `created_at`, `updated_at`) VALUES
+ 24408	(1, 426, 'Premier League 2016/17', 'PL', 2016, 21, 38, 0, 0, '2017-01-07 11:19:12', '2016-11-23 10:04:19', '2017-01-09 16:37:15'),
+ 24409	(2, 440, 'Champions League 2016/17', 'CL', 2016, 7, 10, 0, 0, '2017-01-08 10:31:47', '2016-11-23 10:04:19', '2017-01-09 16:37:15'),
+ 24410	(3, 436, 'Primera Division 2016/17', 'PD', 2016, 17, 38, 0, 0, '2017-01-08 21:40:20', '2017-01-09 16:37:15', '2017-01-09 16:37:15'),
+ 24411	(4, 467, 'World Cup 2018 Russia', 'WC', 2018, 1, 8, 0, 0, '2018-05-25 07:21:47', '2018-06-14 11:11:59', '2018-06-14 11:11:59'),
+ 24412	(5, 445, 'Premier League 2017/18', 'PL', 2017, 38, 38, 20, 380, '2018-05-18 17:50:08', '2018-07-11 06:21:11', '2018-07-11 06:21:11'),
+ 64087	CREATE TABLE `teams` (
+ 64088	  `id` int(10) UNSIGNED NOT NULL,
+ 64089	  `league_id` int(10) UNSIGNED NOT NULL,
+ 64090	  `name` varchar(40) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 64091	  `code` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 64092	  `short_name` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 64093	  `squad_market_value` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 64094	  `crest_url` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+ 64095	  `created_at` timestamp NULL DEFAULT NULL,
+ 64096	  `updated_at` timestamp NULL DEFAULT NULL
+ 64097	) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+ 64098	
+ 64099	--
+ 64100	-- Dumping data for table `teams`
+ 64101	--
+ 64102	
+ 64103	INSERT INTO `teams` (`id`, `league_id`, `name`, `code`, `short_name`, `squad_market_value`, `crest_url`, `created_at`, `updated_at`) VALUES
+ 64104	(1, 426, 'Hull City FC', 'HUL', 'Hull', NULL, 'https://en.wikipedia.org/wiki/Hull_City_A.F.C.#/media/File:Hull_City_Crest_2014.svg', '2016-11-23 10:04:26', '2018-07-11 06:21:44'),
+ 64105	(2, 426, 'Leicester City FC', 'LCFC', 'Foxes', NULL, 'http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png', '2016-11-23 10:04:26', '2018-07-11 06:21:44'),
+ 64106	(3, 426, 'Southampton FC', 'SFC', 'Southampton', NULL, 'http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg', '2016-11-23 10:04:26', '2018-07-11 06:21:44'),
+ 64107	(4, 426, 'Watford FC', 'Watfordfc', 'Watford', NULL, 'https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg', '2016-11-23 10:04:26', '2018-07-11 06:21:44'),
+    28	CREATE TABLE `allteams` (
+    29	  `id` bigint(20) NOT NULL,
+    30	  `league_id` int(11) DEFAULT NULL,
+    31	  `betradar_id` varchar(255) DEFAULT NULL,
+    32	  `code` varchar(255) DEFAULT NULL,
+    33	  `created_at` datetime NOT NULL,
+    34	  `crest_url` varchar(255) DEFAULT NULL,
+    35	  `name` varchar(255) DEFAULT NULL,
+    36	  `real_betradar_id` int(11) DEFAULT NULL,
+    37	  `squad_market_value` varchar(255) DEFAULT NULL,
+    38	  `team_abbreviation` varchar(255) DEFAULT NULL,
+    39	  `updated_at` datetime NOT NULL
+    40	) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+    41	
+    42	--
+    43	-- Dumping data for table `allteams`
+    44	--
+    45	
+    46	INSERT INTO `allteams` (`id`, `league_id`, `betradar_id`, `code`, `created_at`, `crest_url`, `name`, `real_betradar_id`, `squad_market_value`, `team_abbreviation`, `updated_at`) VALUES
+    47	(8291, 7, 'sr:competitor:1653', 'FRA', '2018-10-12 11:26:44', NULL, 'AS Monaco', 1653, NULL, 'ASM', '2018-10-12 11:26:44'),
+    48	(8292, 7, 'sr:competitor:2673', 'DEU', '2018-10-12 11:26:44', NULL, 'Borussia Dortmund', 2673, NULL, 'BVB', '2018-10-12 11:26:44'),
+    49	(8293, 7, 'sr:competitor:2888', 'BEL', '2018-10-12 11:26:44', NULL, 'Club Brugge', 2888, NULL, 'BRU', '2018-10-12 11:26:44'),
+    50	(8294, 7, 'sr:competitor:2836', 'ESP', '2018-10-12 11:26:44', NULL, 'Atletico Madrid', 2836, NULL, 'ATM', '2018-10-12 11:26:44'),
+ 62756	CREATE TABLE `schedules` (
+ 62757	  `id` bigint(20) NOT NULL,
+ 62758	  `away_team_abbreviation` varchar(255) DEFAULT NULL,
+ 62759	  `away_team_id` int(11) DEFAULT NULL,
+ 62760	  `away_team_name` varchar(255) DEFAULT NULL,
+ 62761	  `away_team_reference_id` varchar(255) DEFAULT NULL,
+ 62762	  `betradar_away_competitor_id` varchar(255) DEFAULT NULL,
+ 62763	  `betradar_home_competitor_id` varchar(255) DEFAULT NULL,
+ 62764	  `betradar_match_id` varchar(255) DEFAULT NULL,
+ 62765	  `category_id` varchar(255) DEFAULT NULL,
+ 62766	  `created_at` datetime NOT NULL,
+ 62767	  `home_team_abbreviation` varchar(255) DEFAULT NULL,
+ 62768	  `home_team_id` int(11) DEFAULT NULL,
+ 62769	  `home_team_name` varchar(255) DEFAULT NULL,
+ 62770	  `home_team_reference_id` varchar(255) DEFAULT NULL,
+ 62771	  `league_id` int(11) DEFAULT NULL,
+ 62772	  `match_day` int(11) DEFAULT NULL,
+ 62773	  `match_time` datetime DEFAULT NULL,
+ 62774	  `odds_away` int(11) DEFAULT NULL,
+ 62775	  `odds_home` int(11) DEFAULT NULL,
+ 62776	  `real_betrader_match_id` int(11) DEFAULT NULL,
+ 62777	  `scheduled` datetime DEFAULT NULL,
+ 62778	  `season_id` varchar(255) DEFAULT NULL,
+ 62779	  `status` varchar(255) DEFAULT NULL,
+ 62780	  `updated_at` datetime NOT NULL
+ 62781	) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+ 62782	
+ 62783	--
+ 62784	-- Dumping data for table `schedules`
+ 62785	--
+ 62786	
+ 62787	INSERT INTO `schedules` (`id`, `away_team_abbreviation`, `away_team_id`, `away_team_name`, `away_team_reference_id`, `betradar_away_competitor_id`, `betradar_home_competitor_id`, `betradar_match_id`, `category_id`, `created_at`, `home_team_abbreviation`, `home_team_id`, `home_team_name`, `home_team_reference_id`, `league_id`, `match_day`, `match_time`, `odds_away`, `odds_home`, `real_betrader_match_id`, `scheduled`, `season_id`, `status`, `updated_at`) VALUES
+ 62788	(7199, 'DRI', 277835, 'KF Drita', '10924942', 'sr:competitor:277835', 'sr:competitor:7711', 'sr:match:14728041', 'sr:category:393', '2018-10-12 11:09:45', 'FCC', 7711, 'FC Santa Coloma', '1273192', 7, 0, NULL, 0, 0, 14728041, '2018-06-26 18:00:00', 'sr:season:54533', 'AET', '2018-10-12 11:09:45'),
+ 62789	(7200, 'LIN', 126304, 'Lincoln Red Imps FC', '7294147', 'sr:competitor:126304', 'sr:competitor:37860', 'sr:match:14728043', 'sr:category:393', '2018-10-12 11:09:46', 'LAF', 37860, 'SP La Fiorita', '7256116', 7, 0, NULL, 0, 0, 14728043, '2018-06-26 22:00:00', 'sr:season:54533', 'Ended', '2018-10-12 11:09:46'),
