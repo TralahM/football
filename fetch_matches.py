@@ -78,7 +78,7 @@ def league_list(Response):
     number_of_teams = get_team_number(league)
     number_of_matches = get_match_number(league)
     current_matchday = Response['currentSeason']['currentMatchday']
-    with open(competition_code+"_league.csv", "w") as cf:
+    with open(competition_code+"_leagues.csv", "w") as cf:
         cf.writelines(','.join(columns)+"\n")
         cf.writelines(','.join(str(k) for k in [
                       league_id, caption, league, start_date, end_date, number_of_teams, number_of_matches, current_matchday])+'\n')
@@ -87,7 +87,8 @@ def league_list(Response):
 
 
 def team_list(Response):
-    columns = ['betradar_id', 'league_id', 'name', 'short_name', 'crest_url']
+    columns = ['betradar_id', 'league_id', 'name',
+               'short_name', 'crest_url', 'team_abbreviation']
     league_id = Response['competition']['id']
     competition_code = Response['competition']['code']
     teams = Response['teams']
@@ -100,6 +101,7 @@ def team_list(Response):
             ln.append(team["name"])
             ln.append(team["shortName"])
             ln.append(team["crestUrl"])
+            ln.append(team["tla"])
             print(','.join(str(i) for i in ln))
             cf.writelines(str(','.join(str(i) for i in ln))+"\n")
         print("\t\tDone!")
@@ -151,6 +153,14 @@ def unify_matches_csv():
     return master_fixtures
 
 
+def unify_leagues_csv():
+    match_csv = ["PL_leagues.csv", "BL1_leagues.csv",
+                 "SA_leagues.csv", "PD_leagues.csv", "CL_leagues.csv"]
+    dfs = [pd.read_csv(fl) for fl in match_csv]
+    master_fixtures = pd.concat(dfs, axis=0)
+    return master_fixtures
+
+
 def generate_csvs():
     league_ids = ['PL', '2002', '2019', '2014', 'CL']
     for lid in league_ids:
@@ -194,4 +204,5 @@ if __name__ == '__main__':
     # update database with master csv
     update_db_schedules(unify_matches_csv())
     update_db_teams(unify_teams_csv())
+    update_db_leagues(unify_leagues_csv())
     print("Done with Database Update...")
