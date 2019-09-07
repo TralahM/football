@@ -1,381 +1,381 @@
-Date,match_time,home_team_id,home_team_name,away_team_id,away_team_name,league_id,match_day,FTHG,FTAG,status,Winner
-2019-08-16,19:00:00,77,Athletic Club,81,FC Barcelona,2014,1,1,0,FINISHED,HOME_TEAM
-2019-08-17,15:00:00,558,RC Celta de Vigo,86,Real Madrid CF,2014,1,1,3,FINISHED,AWAY_TEAM
-2019-08-17,17:00:00,95,Valencia CF,92,Real Sociedad de Fútbol,2014,1,1,1,FINISHED,DRAW
-2019-08-17,18:00:00,89,RCD Mallorca,278,SD Eibar,2014,1,2,1,FINISHED,HOME_TEAM
-2019-08-17,19:00:00,94,Villarreal CF,83,Granada CF,2014,1,4,4,FINISHED,DRAW
-2019-08-17,19:00:00,745,CD Leganés,79,CA Osasuna,2014,1,0,1,FINISHED,AWAY_TEAM
-2019-08-18,15:00:00,263,Deportivo Alavés,88,Levante UD,2014,1,1,0,FINISHED,HOME_TEAM
-2019-08-18,17:00:00,80,RCD Espanyol de Barcelona,559,Sevilla FC,2014,1,0,2,FINISHED,AWAY_TEAM
-2019-08-18,19:00:00,90,Real Betis Balompié,250,Real Valladolid CF,2014,1,1,2,FINISHED,AWAY_TEAM
-2019-08-18,20:00:00,78,Club Atlético de Madrid,82,Getafe CF,2014,1,1,0,FINISHED,HOME_TEAM
-2019-08-23,18:00:00,83,Granada CF,559,Sevilla FC,2014,2,0,1,FINISHED,AWAY_TEAM
-2019-08-23,20:00:00,88,Levante UD,94,Villarreal CF,2014,2,2,1,FINISHED,HOME_TEAM
-2019-08-24,15:00:00,79,CA Osasuna,278,SD Eibar,2014,2,0,0,FINISHED,DRAW
-2019-08-24,17:00:00,86,Real Madrid CF,250,Real Valladolid CF,2014,2,1,1,FINISHED,DRAW
-2019-08-24,19:00:00,82,Getafe CF,77,Athletic Club,2014,2,1,1,FINISHED,DRAW
-2019-08-24,19:00:00,558,RC Celta de Vigo,95,Valencia CF,2014,2,1,0,FINISHED,HOME_TEAM
-2019-08-25,15:00:00,89,RCD Mallorca,92,Real Sociedad de Fútbol,2014,2,0,1,FINISHED,AWAY_TEAM
-2019-08-25,15:00:00,263,Deportivo Alavés,80,RCD Espanyol de Barcelona,2014,2,0,0,FINISHED,DRAW
-2019-08-25,17:00:00,745,CD Leganés,78,Club Atlético de Madrid,2014,2,0,1,FINISHED,AWAY_TEAM
-2019-08-25,19:00:00,81,FC Barcelona,90,Real Betis Balompié,2014,2,5,2,FINISHED,HOME_TEAM
-2019-08-30,18:00:00,559,Sevilla FC,558,RC Celta de Vigo,2014,3,1,1,FINISHED,DRAW
-2019-08-30,20:00:00,77,Athletic Club,92,Real Sociedad de Fútbol,2014,3,2,0,FINISHED,HOME_TEAM
-2019-08-31,15:00:00,79,CA Osasuna,81,FC Barcelona,2014,3,2,2,FINISHED,DRAW
-2019-08-31,17:00:00,88,Levante UD,250,Real Valladolid CF,2014,3,2,0,FINISHED,HOME_TEAM
-2019-08-31,17:00:00,82,Getafe CF,263,Deportivo Alavés,2014,3,1,1,FINISHED,DRAW
-2019-08-31,19:00:00,90,Real Betis Balompié,745,CD Leganés,2014,3,2,1,FINISHED,HOME_TEAM
-2019-09-01,15:00:00,95,Valencia CF,89,RCD Mallorca,2014,3,2,0,FINISHED,HOME_TEAM
-2019-09-01,17:00:00,78,Club Atlético de Madrid,278,SD Eibar,2014,3,3,2,FINISHED,HOME_TEAM
-2019-09-01,17:00:00,80,RCD Espanyol de Barcelona,83,Granada CF,2014,3,0,3,FINISHED,AWAY_TEAM
-2019-09-01,19:00:00,94,Villarreal CF,86,Real Madrid CF,2014,3,2,2,FINISHED,DRAW
-2019-09-13,19:00:00,89,RCD Mallorca,77,Athletic Club,2014,4,None,None,SCHEDULED,None
-2019-09-14,11:00:00,86,Real Madrid CF,88,Levante UD,2014,4,None,None,SCHEDULED,None
-2019-09-14,14:00:00,745,CD Leganés,94,Villarreal CF,2014,4,None,None,SCHEDULED,None
-2019-09-14,16:30:00,92,Real Sociedad de Fútbol,78,Club Atlético de Madrid,2014,4,None,None,SCHEDULED,None
-2019-09-14,19:00:00,81,FC Barcelona,95,Valencia CF,2014,4,None,None,SCHEDULED,None
-2019-09-15,10:00:00,278,SD Eibar,80,RCD Espanyol de Barcelona,2014,4,None,None,SCHEDULED,None
-2019-09-15,12:00:00,263,Deportivo Alavés,559,Sevilla FC,2014,4,None,None,SCHEDULED,None
-2019-09-15,14:00:00,558,RC Celta de Vigo,83,Granada CF,2014,4,None,None,SCHEDULED,None
-2019-09-15,16:30:00,250,Real Valladolid CF,79,CA Osasuna,2014,4,None,None,SCHEDULED,None
-2019-09-15,19:00:00,90,Real Betis Balompié,82,Getafe CF,2014,4,None,None,SCHEDULED,None
-2019-09-20,19:00:00,79,CA Osasuna,90,Real Betis Balompié,2014,5,None,None,SCHEDULED,None
-2019-09-21,11:00:00,94,Villarreal CF,250,Real Valladolid CF,2014,5,None,None,SCHEDULED,None
-2019-09-21,14:00:00,88,Levante UD,278,SD Eibar,2014,5,None,None,SCHEDULED,None
-2019-09-21,16:30:00,78,Club Atlético de Madrid,558,RC Celta de Vigo,2014,5,None,None,SCHEDULED,None
-2019-09-21,19:00:00,83,Granada CF,81,FC Barcelona,2014,5,None,None,SCHEDULED,None
-2019-09-22,10:00:00,82,Getafe CF,89,RCD Mallorca,2014,5,None,None,SCHEDULED,None
-2019-09-22,12:00:00,80,RCD Espanyol de Barcelona,92,Real Sociedad de Fútbol,2014,5,None,None,SCHEDULED,None
-2019-09-22,14:00:00,95,Valencia CF,745,CD Leganés,2014,5,None,None,SCHEDULED,None
-2019-09-22,16:30:00,77,Athletic Club,263,Deportivo Alavés,2014,5,None,None,SCHEDULED,None
-2019-09-22,19:00:00,559,Sevilla FC,86,Real Madrid CF,2014,5,None,None,SCHEDULED,None
-2019-09-24,17:00:00,250,Real Valladolid CF,83,Granada CF,2014,6,None,None,SCHEDULED,None
-2019-09-24,18:00:00,90,Real Betis Balompié,88,Levante UD,2014,6,None,None,SCHEDULED,None
-2019-09-24,19:00:00,81,FC Barcelona,94,Villarreal CF,2014,6,None,None,SCHEDULED,None
-2019-09-25,17:00:00,89,RCD Mallorca,78,Club Atlético de Madrid,2014,6,None,None,SCHEDULED,None
-2019-09-25,17:00:00,745,CD Leganés,77,Athletic Club,2014,6,None,None,SCHEDULED,None
-2019-09-25,18:00:00,95,Valencia CF,82,Getafe CF,2014,6,None,None,SCHEDULED,None
-2019-09-25,19:00:00,86,Real Madrid CF,79,CA Osasuna,2014,6,None,None,SCHEDULED,None
-2019-09-26,17:00:00,278,SD Eibar,559,Sevilla FC,2014,6,None,None,SCHEDULED,None
-2019-09-26,18:00:00,558,RC Celta de Vigo,80,RCD Espanyol de Barcelona,2014,6,None,None,SCHEDULED,None
-2019-09-26,19:00:00,92,Real Sociedad de Fútbol,263,Deportivo Alavés,2014,6,None,None,SCHEDULED,None
-2019-09-27,19:00:00,94,Villarreal CF,90,Real Betis Balompié,2014,7,None,None,SCHEDULED,None
-2019-09-28,11:00:00,77,Athletic Club,95,Valencia CF,2014,7,None,None,SCHEDULED,None
-2019-09-28,14:00:00,82,Getafe CF,81,FC Barcelona,2014,7,None,None,SCHEDULED,None
-2019-09-28,16:30:00,83,Granada CF,745,CD Leganés,2014,7,None,None,SCHEDULED,None
-2019-09-28,19:00:00,78,Club Atlético de Madrid,86,Real Madrid CF,2014,7,None,None,SCHEDULED,None
-2019-09-29,10:00:00,80,RCD Espanyol de Barcelona,250,Real Valladolid CF,2014,7,None,None,SCHEDULED,None
-2019-09-29,12:00:00,278,SD Eibar,558,RC Celta de Vigo,2014,7,None,None,SCHEDULED,None
-2019-09-29,14:00:00,263,Deportivo Alavés,89,RCD Mallorca,2014,7,None,None,SCHEDULED,None
-2019-09-29,16:30:00,88,Levante UD,79,CA Osasuna,2014,7,None,None,SCHEDULED,None
-2019-09-29,19:00:00,559,Sevilla FC,92,Real Sociedad de Fútbol,2014,7,None,None,SCHEDULED,None
-2019-10-04,19:00:00,558,RC Celta de Vigo,77,Athletic Club,2014,8,None,None,SCHEDULED,None
-2019-10-05,11:00:00,745,CD Leganés,88,Levante UD,2014,8,None,None,SCHEDULED,None
-2019-10-05,14:00:00,86,Real Madrid CF,83,Granada CF,2014,8,None,None,SCHEDULED,None
-2019-10-05,16:30:00,95,Valencia CF,263,Deportivo Alavés,2014,8,None,None,SCHEDULED,None
-2019-10-05,19:00:00,90,Real Betis Balompié,278,SD Eibar,2014,8,None,None,SCHEDULED,None
-2019-10-06,10:00:00,89,RCD Mallorca,80,RCD Espanyol de Barcelona,2014,8,None,None,SCHEDULED,None
-2019-10-06,12:00:00,250,Real Valladolid CF,78,Club Atlético de Madrid,2014,8,None,None,SCHEDULED,None
-2019-10-06,14:00:00,79,CA Osasuna,94,Villarreal CF,2014,8,None,None,SCHEDULED,None
-2019-10-06,16:30:00,92,Real Sociedad de Fútbol,82,Getafe CF,2014,8,None,None,SCHEDULED,None
-2019-10-06,19:00:00,81,FC Barcelona,559,Sevilla FC,2014,8,None,None,SCHEDULED,None
-2019-10-20,00:00:00,78,Club Atlético de Madrid,95,Valencia CF,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,89,RCD Mallorca,86,Real Madrid CF,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,559,Sevilla FC,88,Levante UD,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,77,Athletic Club,250,Real Valladolid CF,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,82,Getafe CF,745,CD Leganés,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,92,Real Sociedad de Fútbol,90,Real Betis Balompié,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,80,RCD Espanyol de Barcelona,94,Villarreal CF,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,83,Granada CF,79,CA Osasuna,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,263,Deportivo Alavés,558,RC Celta de Vigo,2014,9,None,None,SCHEDULED,None
-2019-10-20,00:00:00,278,SD Eibar,81,FC Barcelona,2014,9,None,None,SCHEDULED,None
-2019-10-27,00:00:00,81,FC Barcelona,86,Real Madrid CF,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,78,Club Atlético de Madrid,77,Athletic Club,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,88,Levante UD,80,RCD Espanyol de Barcelona,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,79,CA Osasuna,95,Valencia CF,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,559,Sevilla FC,82,Getafe CF,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,83,Granada CF,90,Real Betis Balompié,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,558,RC Celta de Vigo,92,Real Sociedad de Fútbol,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,250,Real Valladolid CF,278,SD Eibar,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,94,Villarreal CF,263,Deportivo Alavés,2014,10,None,None,SCHEDULED,None
-2019-10-27,00:00:00,745,CD Leganés,89,RCD Mallorca,2014,10,None,None,SCHEDULED,None
-2019-10-30,00:00:00,86,Real Madrid CF,745,CD Leganés,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,81,FC Barcelona,250,Real Valladolid CF,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,95,Valencia CF,559,Sevilla FC,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,89,RCD Mallorca,79,CA Osasuna,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,77,Athletic Club,80,RCD Espanyol de Barcelona,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,82,Getafe CF,83,Granada CF,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,92,Real Sociedad de Fútbol,88,Levante UD,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,90,Real Betis Balompié,558,RC Celta de Vigo,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,263,Deportivo Alavés,78,Club Atlético de Madrid,2014,11,None,None,SCHEDULED,None
-2019-10-30,00:00:00,278,SD Eibar,94,Villarreal CF,2014,11,None,None,SCHEDULED,None
-2019-11-03,00:00:00,86,Real Madrid CF,90,Real Betis Balompié,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,88,Levante UD,81,FC Barcelona,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,79,CA Osasuna,263,Deportivo Alavés,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,559,Sevilla FC,78,Club Atlético de Madrid,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,80,RCD Espanyol de Barcelona,95,Valencia CF,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,83,Granada CF,92,Real Sociedad de Fútbol,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,558,RC Celta de Vigo,82,Getafe CF,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,250,Real Valladolid CF,89,RCD Mallorca,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,94,Villarreal CF,77,Athletic Club,2014,12,None,None,SCHEDULED,None
-2019-11-03,00:00:00,745,CD Leganés,278,SD Eibar,2014,12,None,None,SCHEDULED,None
-2019-11-10,00:00:00,81,FC Barcelona,558,RC Celta de Vigo,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,95,Valencia CF,83,Granada CF,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,78,Club Atlético de Madrid,80,RCD Espanyol de Barcelona,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,89,RCD Mallorca,94,Villarreal CF,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,77,Athletic Club,88,Levante UD,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,82,Getafe CF,79,CA Osasuna,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,92,Real Sociedad de Fútbol,745,CD Leganés,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,90,Real Betis Balompié,559,Sevilla FC,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,263,Deportivo Alavés,250,Real Valladolid CF,2014,13,None,None,SCHEDULED,None
-2019-11-10,00:00:00,278,SD Eibar,86,Real Madrid CF,2014,13,None,None,SCHEDULED,None
-2019-11-24,00:00:00,86,Real Madrid CF,92,Real Sociedad de Fútbol,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,88,Levante UD,89,RCD Mallorca,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,79,CA Osasuna,77,Athletic Club,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,90,Real Betis Balompié,95,Valencia CF,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,80,RCD Espanyol de Barcelona,82,Getafe CF,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,83,Granada CF,78,Club Atlético de Madrid,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,250,Real Valladolid CF,559,Sevilla FC,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,94,Villarreal CF,558,RC Celta de Vigo,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,745,CD Leganés,81,FC Barcelona,2014,14,None,None,SCHEDULED,None
-2019-11-24,00:00:00,278,SD Eibar,263,Deportivo Alavés,2014,14,None,None,SCHEDULED,None
-2019-12-01,00:00:00,95,Valencia CF,94,Villarreal CF,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,78,Club Atlético de Madrid,81,FC Barcelona,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,89,RCD Mallorca,90,Real Betis Balompié,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,559,Sevilla FC,745,CD Leganés,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,77,Athletic Club,83,Granada CF,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,82,Getafe CF,88,Levante UD,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,92,Real Sociedad de Fútbol,278,SD Eibar,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,80,RCD Espanyol de Barcelona,79,CA Osasuna,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,558,RC Celta de Vigo,250,Real Valladolid CF,2014,15,None,None,SCHEDULED,None
-2019-12-01,00:00:00,263,Deportivo Alavés,86,Real Madrid CF,2014,15,None,None,SCHEDULED,None
-2019-12-08,00:00:00,86,Real Madrid CF,80,RCD Espanyol de Barcelona,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,81,FC Barcelona,89,RCD Mallorca,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,88,Levante UD,95,Valencia CF,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,79,CA Osasuna,559,Sevilla FC,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,90,Real Betis Balompié,77,Athletic Club,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,83,Granada CF,263,Deportivo Alavés,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,250,Real Valladolid CF,92,Real Sociedad de Fútbol,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,94,Villarreal CF,78,Club Atlético de Madrid,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,745,CD Leganés,558,RC Celta de Vigo,2014,16,None,None,SCHEDULED,None
-2019-12-08,00:00:00,278,SD Eibar,82,Getafe CF,2014,16,None,None,SCHEDULED,None
-2019-12-15,00:00:00,95,Valencia CF,86,Real Madrid CF,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,78,Club Atlético de Madrid,79,CA Osasuna,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,559,Sevilla FC,94,Villarreal CF,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,77,Athletic Club,278,SD Eibar,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,82,Getafe CF,250,Real Valladolid CF,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,92,Real Sociedad de Fútbol,81,FC Barcelona,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,80,RCD Espanyol de Barcelona,90,Real Betis Balompié,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,83,Granada CF,88,Levante UD,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,558,RC Celta de Vigo,89,RCD Mallorca,2014,17,None,None,SCHEDULED,None
-2019-12-15,00:00:00,263,Deportivo Alavés,745,CD Leganés,2014,17,None,None,SCHEDULED,None
-2019-12-22,00:00:00,86,Real Madrid CF,77,Athletic Club,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,81,FC Barcelona,263,Deportivo Alavés,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,88,Levante UD,558,RC Celta de Vigo,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,79,CA Osasuna,92,Real Sociedad de Fútbol,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,89,RCD Mallorca,559,Sevilla FC,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,90,Real Betis Balompié,78,Club Atlético de Madrid,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,250,Real Valladolid CF,95,Valencia CF,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,94,Villarreal CF,82,Getafe CF,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,745,CD Leganés,80,RCD Espanyol de Barcelona,2014,18,None,None,SCHEDULED,None
-2019-12-22,00:00:00,278,SD Eibar,83,Granada CF,2014,18,None,None,SCHEDULED,None
-2020-01-05,00:00:00,95,Valencia CF,278,SD Eibar,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,78,Club Atlético de Madrid,88,Levante UD,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,559,Sevilla FC,77,Athletic Club,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,82,Getafe CF,86,Real Madrid CF,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,92,Real Sociedad de Fútbol,94,Villarreal CF,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,80,RCD Espanyol de Barcelona,81,FC Barcelona,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,83,Granada CF,89,RCD Mallorca,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,558,RC Celta de Vigo,79,CA Osasuna,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,250,Real Valladolid CF,745,CD Leganés,2014,19,None,None,SCHEDULED,None
-2020-01-05,00:00:00,263,Deportivo Alavés,90,Real Betis Balompié,2014,19,None,None,SCHEDULED,None
-2020-01-19,00:00:00,86,Real Madrid CF,559,Sevilla FC,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,81,FC Barcelona,83,Granada CF,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,88,Levante UD,263,Deportivo Alavés,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,79,CA Osasuna,250,Real Valladolid CF,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,89,RCD Mallorca,95,Valencia CF,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,77,Athletic Club,558,RC Celta de Vigo,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,90,Real Betis Balompié,92,Real Sociedad de Fútbol,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,94,Villarreal CF,80,RCD Espanyol de Barcelona,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,745,CD Leganés,82,Getafe CF,2014,20,None,None,SCHEDULED,None
-2020-01-19,00:00:00,278,SD Eibar,78,Club Atlético de Madrid,2014,20,None,None,SCHEDULED,None
-2020-01-26,00:00:00,95,Valencia CF,81,FC Barcelona,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,78,Club Atlético de Madrid,745,CD Leganés,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,79,CA Osasuna,88,Levante UD,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,559,Sevilla FC,83,Granada CF,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,82,Getafe CF,90,Real Betis Balompié,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,92,Real Sociedad de Fútbol,89,RCD Mallorca,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,80,RCD Espanyol de Barcelona,77,Athletic Club,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,558,RC Celta de Vigo,278,SD Eibar,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,250,Real Valladolid CF,86,Real Madrid CF,2014,21,None,None,SCHEDULED,None
-2020-01-26,00:00:00,263,Deportivo Alavés,94,Villarreal CF,2014,21,None,None,SCHEDULED,None
-2020-02-02,00:00:00,86,Real Madrid CF,78,Club Atlético de Madrid,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,81,FC Barcelona,88,Levante UD,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,95,Valencia CF,558,RC Celta de Vigo,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,89,RCD Mallorca,250,Real Valladolid CF,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,559,Sevilla FC,263,Deportivo Alavés,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,77,Athletic Club,82,Getafe CF,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,83,Granada CF,80,RCD Espanyol de Barcelona,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,94,Villarreal CF,79,CA Osasuna,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,745,CD Leganés,92,Real Sociedad de Fútbol,2014,22,None,None,SCHEDULED,None
-2020-02-02,00:00:00,278,SD Eibar,90,Real Betis Balompié,2014,22,None,None,SCHEDULED,None
-2020-02-09,00:00:00,78,Club Atlético de Madrid,83,Granada CF,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,88,Levante UD,745,CD Leganés,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,79,CA Osasuna,86,Real Madrid CF,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,82,Getafe CF,95,Valencia CF,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,92,Real Sociedad de Fútbol,77,Athletic Club,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,90,Real Betis Balompié,81,FC Barcelona,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,80,RCD Espanyol de Barcelona,89,RCD Mallorca,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,558,RC Celta de Vigo,559,Sevilla FC,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,250,Real Valladolid CF,94,Villarreal CF,2014,23,None,None,SCHEDULED,None
-2020-02-09,00:00:00,263,Deportivo Alavés,278,SD Eibar,2014,23,None,None,SCHEDULED,None
-2020-02-16,00:00:00,86,Real Madrid CF,558,RC Celta de Vigo,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,81,FC Barcelona,82,Getafe CF,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,95,Valencia CF,78,Club Atlético de Madrid,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,89,RCD Mallorca,263,Deportivo Alavés,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,559,Sevilla FC,80,RCD Espanyol de Barcelona,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,77,Athletic Club,79,CA Osasuna,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,83,Granada CF,250,Real Valladolid CF,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,94,Villarreal CF,88,Levante UD,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,745,CD Leganés,90,Real Betis Balompié,2014,24,None,None,SCHEDULED,None
-2020-02-16,00:00:00,278,SD Eibar,92,Real Sociedad de Fútbol,2014,24,None,None,SCHEDULED,None
-2020-03-01,00:00:00,86,Real Madrid CF,81,FC Barcelona,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,95,Valencia CF,90,Real Betis Balompié,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,89,RCD Mallorca,82,Getafe CF,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,559,Sevilla FC,79,CA Osasuna,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,77,Athletic Club,94,Villarreal CF,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,92,Real Sociedad de Fútbol,250,Real Valladolid CF,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,80,RCD Espanyol de Barcelona,78,Club Atlético de Madrid,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,83,Granada CF,558,RC Celta de Vigo,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,745,CD Leganés,263,Deportivo Alavés,2014,26,None,None,SCHEDULED,None
-2020-03-01,00:00:00,278,SD Eibar,88,Levante UD,2014,26,None,None,SCHEDULED,None
-2020-03-08,00:00:00,81,FC Barcelona,92,Real Sociedad de Fútbol,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,78,Club Atlético de Madrid,559,Sevilla FC,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,88,Levante UD,83,Granada CF,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,79,CA Osasuna,80,RCD Espanyol de Barcelona,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,82,Getafe CF,558,RC Celta de Vigo,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,90,Real Betis Balompié,86,Real Madrid CF,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,250,Real Valladolid CF,77,Athletic Club,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,94,Villarreal CF,745,CD Leganés,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,263,Deportivo Alavés,95,Valencia CF,2014,27,None,None,SCHEDULED,None
-2020-03-08,00:00:00,278,SD Eibar,89,RCD Mallorca,2014,27,None,None,SCHEDULED,None
-2020-03-15,00:00:00,86,Real Madrid CF,278,SD Eibar,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,95,Valencia CF,88,Levante UD,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,89,RCD Mallorca,81,FC Barcelona,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,559,Sevilla FC,90,Real Betis Balompié,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,77,Athletic Club,78,Club Atlético de Madrid,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,92,Real Sociedad de Fútbol,79,CA Osasuna,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,80,RCD Espanyol de Barcelona,263,Deportivo Alavés,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,83,Granada CF,82,Getafe CF,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,558,RC Celta de Vigo,94,Villarreal CF,2014,28,None,None,SCHEDULED,None
-2020-03-15,00:00:00,745,CD Leganés,250,Real Valladolid CF,2014,28,None,None,SCHEDULED,None
-2020-03-22,00:00:00,86,Real Madrid CF,95,Valencia CF,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,81,FC Barcelona,745,CD Leganés,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,88,Levante UD,559,Sevilla FC,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,79,CA Osasuna,78,Club Atlético de Madrid,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,82,Getafe CF,80,RCD Espanyol de Barcelona,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,90,Real Betis Balompié,83,Granada CF,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,250,Real Valladolid CF,558,RC Celta de Vigo,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,94,Villarreal CF,89,RCD Mallorca,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,263,Deportivo Alavés,92,Real Sociedad de Fútbol,2014,29,None,None,SCHEDULED,None
-2020-03-22,00:00:00,278,SD Eibar,77,Athletic Club,2014,29,None,None,SCHEDULED,None
-2020-03-23,00:00:00,81,FC Barcelona,278,SD Eibar,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,78,Club Atlético de Madrid,94,Villarreal CF,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,88,Levante UD,86,Real Madrid CF,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,79,CA Osasuna,83,Granada CF,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,82,Getafe CF,559,Sevilla FC,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,92,Real Sociedad de Fútbol,95,Valencia CF,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,90,Real Betis Balompié,89,RCD Mallorca,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,558,RC Celta de Vigo,745,CD Leganés,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,250,Real Valladolid CF,80,RCD Espanyol de Barcelona,2014,25,None,None,SCHEDULED,None
-2020-03-23,00:00:00,263,Deportivo Alavés,77,Athletic Club,2014,25,None,None,SCHEDULED,None
-2020-04-05,00:00:00,95,Valencia CF,79,CA Osasuna,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,78,Club Atlético de Madrid,250,Real Valladolid CF,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,89,RCD Mallorca,745,CD Leganés,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,559,Sevilla FC,81,FC Barcelona,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,77,Athletic Club,90,Real Betis Balompié,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,82,Getafe CF,278,SD Eibar,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,92,Real Sociedad de Fútbol,86,Real Madrid CF,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,80,RCD Espanyol de Barcelona,88,Levante UD,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,83,Granada CF,94,Villarreal CF,2014,30,None,None,SCHEDULED,None
-2020-04-05,00:00:00,558,RC Celta de Vigo,263,Deportivo Alavés,2014,30,None,None,SCHEDULED,None
-2020-04-12,00:00:00,86,Real Madrid CF,89,RCD Mallorca,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,81,FC Barcelona,77,Athletic Club,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,88,Levante UD,78,Club Atlético de Madrid,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,92,Real Sociedad de Fútbol,558,RC Celta de Vigo,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,90,Real Betis Balompié,80,RCD Espanyol de Barcelona,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,250,Real Valladolid CF,82,Getafe CF,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,94,Villarreal CF,559,Sevilla FC,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,263,Deportivo Alavés,79,CA Osasuna,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,745,CD Leganés,83,Granada CF,2014,31,None,None,SCHEDULED,None
-2020-04-12,00:00:00,278,SD Eibar,95,Valencia CF,2014,31,None,None,SCHEDULED,None
-2020-04-22,00:00:00,78,Club Atlético de Madrid,263,Deportivo Alavés,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,88,Levante UD,90,Real Betis Balompié,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,79,CA Osasuna,745,CD Leganés,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,559,Sevilla FC,250,Real Valladolid CF,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,77,Athletic Club,89,RCD Mallorca,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,82,Getafe CF,92,Real Sociedad de Fútbol,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,80,RCD Espanyol de Barcelona,86,Real Madrid CF,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,83,Granada CF,278,SD Eibar,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,558,RC Celta de Vigo,81,FC Barcelona,2014,32,None,None,SCHEDULED,None
-2020-04-22,00:00:00,94,Villarreal CF,95,Valencia CF,2014,32,None,None,SCHEDULED,None
-2020-04-26,00:00:00,86,Real Madrid CF,82,Getafe CF,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,81,FC Barcelona,78,Club Atlético de Madrid,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,95,Valencia CF,77,Athletic Club,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,89,RCD Mallorca,558,RC Celta de Vigo,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,92,Real Sociedad de Fútbol,80,RCD Espanyol de Barcelona,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,90,Real Betis Balompié,94,Villarreal CF,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,250,Real Valladolid CF,88,Levante UD,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,263,Deportivo Alavés,83,Granada CF,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,745,CD Leganés,559,Sevilla FC,2014,33,None,None,SCHEDULED,None
-2020-04-26,00:00:00,278,SD Eibar,79,CA Osasuna,2014,33,None,None,SCHEDULED,None
-2020-05-03,00:00:00,78,Club Atlético de Madrid,89,RCD Mallorca,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,88,Levante UD,92,Real Sociedad de Fútbol,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,79,CA Osasuna,82,Getafe CF,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,559,Sevilla FC,278,SD Eibar,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,77,Athletic Club,86,Real Madrid CF,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,80,RCD Espanyol de Barcelona,745,CD Leganés,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,83,Granada CF,95,Valencia CF,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,558,RC Celta de Vigo,90,Real Betis Balompié,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,250,Real Valladolid CF,263,Deportivo Alavés,2014,34,None,None,SCHEDULED,None
-2020-05-03,00:00:00,94,Villarreal CF,81,FC Barcelona,2014,34,None,None,SCHEDULED,None
-2020-05-10,00:00:00,86,Real Madrid CF,263,Deportivo Alavés,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,81,FC Barcelona,80,RCD Espanyol de Barcelona,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,95,Valencia CF,250,Real Valladolid CF,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,89,RCD Mallorca,88,Levante UD,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,77,Athletic Club,559,Sevilla FC,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,82,Getafe CF,94,Villarreal CF,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,92,Real Sociedad de Fútbol,83,Granada CF,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,90,Real Betis Balompié,79,CA Osasuna,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,558,RC Celta de Vigo,78,Club Atlético de Madrid,2014,35,None,None,SCHEDULED,None
-2020-05-10,00:00:00,278,SD Eibar,745,CD Leganés,2014,35,None,None,SCHEDULED,None
-2020-05-13,00:00:00,250,Real Valladolid CF,81,FC Barcelona,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,94,Villarreal CF,92,Real Sociedad de Fútbol,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,263,Deportivo Alavés,82,Getafe CF,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,745,CD Leganés,95,Valencia CF,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,78,Club Atlético de Madrid,90,Real Betis Balompié,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,88,Levante UD,77,Athletic Club,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,79,CA Osasuna,558,RC Celta de Vigo,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,559,Sevilla FC,89,RCD Mallorca,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,80,RCD Espanyol de Barcelona,278,SD Eibar,2014,36,None,None,SCHEDULED,None
-2020-05-13,00:00:00,83,Granada CF,86,Real Madrid CF,2014,36,None,None,SCHEDULED,None
-2020-05-17,00:00:00,86,Real Madrid CF,94,Villarreal CF,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,81,FC Barcelona,79,CA Osasuna,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,95,Valencia CF,80,RCD Espanyol de Barcelona,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,89,RCD Mallorca,83,Granada CF,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,77,Athletic Club,745,CD Leganés,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,82,Getafe CF,78,Club Atlético de Madrid,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,92,Real Sociedad de Fútbol,559,Sevilla FC,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,90,Real Betis Balompié,263,Deportivo Alavés,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,558,RC Celta de Vigo,88,Levante UD,2014,37,None,None,SCHEDULED,None
-2020-05-17,00:00:00,278,SD Eibar,250,Real Valladolid CF,2014,37,None,None,SCHEDULED,None
-2020-05-24,00:00:00,78,Club Atlético de Madrid,92,Real Sociedad de Fútbol,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,88,Levante UD,82,Getafe CF,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,79,CA Osasuna,89,RCD Mallorca,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,559,Sevilla FC,95,Valencia CF,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,80,RCD Espanyol de Barcelona,558,RC Celta de Vigo,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,83,Granada CF,77,Athletic Club,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,250,Real Valladolid CF,90,Real Betis Balompié,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,94,Villarreal CF,278,SD Eibar,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,263,Deportivo Alavés,81,FC Barcelona,2014,38,None,None,SCHEDULED,None
-2020-05-24,00:00:00,745,CD Leganés,86,Real Madrid CF,2014,38,None,None,SCHEDULED,None
+match_id,match_date,match_time,home_team_id,home_team_name,away_team_id,away_team_name,league_id,match_day,home_team_score,away_team_score,status,Winner
+273567,2019-08-16,19:00:00,77,Athletic Club,81,FC Barcelona,2014,1,1,0,FINISHED,HOME_TEAM
+273570,2019-08-17,15:00:00,558,RC Celta de Vigo,86,Real Madrid CF,2014,1,1,3,FINISHED,AWAY_TEAM
+273564,2019-08-17,17:00:00,95,Valencia CF,92,Real Sociedad de Fútbol,2014,1,1,1,FINISHED,DRAW
+273566,2019-08-17,18:00:00,89,RCD Mallorca,278,SD Eibar,2014,1,2,1,FINISHED,HOME_TEAM
+273571,2019-08-17,19:00:00,94,Villarreal CF,83,Granada CF,2014,1,4,4,FINISHED,DRAW
+273573,2019-08-17,19:00:00,745,CD Leganés,79,CA Osasuna,2014,1,0,1,FINISHED,AWAY_TEAM
+273572,2019-08-18,15:00:00,263,Deportivo Alavés,88,Levante UD,2014,1,1,0,FINISHED,HOME_TEAM
+273569,2019-08-18,17:00:00,80,RCD Espanyol de Barcelona,559,Sevilla FC,2014,1,0,2,FINISHED,AWAY_TEAM
+273568,2019-08-18,19:00:00,90,Real Betis Balompié,250,Real Valladolid CF,2014,1,1,2,FINISHED,AWAY_TEAM
+273565,2019-08-18,20:00:00,78,Club Atlético de Madrid,82,Getafe CF,2014,1,1,0,FINISHED,HOME_TEAM
+273580,2019-08-23,18:00:00,83,Granada CF,559,Sevilla FC,2014,2,0,1,FINISHED,AWAY_TEAM
+273576,2019-08-23,20:00:00,88,Levante UD,94,Villarreal CF,2014,2,2,1,FINISHED,HOME_TEAM
+273577,2019-08-24,15:00:00,79,CA Osasuna,278,SD Eibar,2014,2,0,0,FINISHED,DRAW
+273574,2019-08-24,17:00:00,86,Real Madrid CF,250,Real Valladolid CF,2014,2,1,1,FINISHED,DRAW
+273579,2019-08-24,19:00:00,82,Getafe CF,77,Athletic Club,2014,2,1,1,FINISHED,DRAW
+273581,2019-08-24,19:00:00,558,RC Celta de Vigo,95,Valencia CF,2014,2,1,0,FINISHED,HOME_TEAM
+273578,2019-08-25,15:00:00,89,RCD Mallorca,92,Real Sociedad de Fútbol,2014,2,0,1,FINISHED,AWAY_TEAM
+273582,2019-08-25,15:00:00,263,Deportivo Alavés,80,RCD Espanyol de Barcelona,2014,2,0,0,FINISHED,DRAW
+273583,2019-08-25,17:00:00,745,CD Leganés,78,Club Atlético de Madrid,2014,2,0,1,FINISHED,AWAY_TEAM
+273575,2019-08-25,19:00:00,81,FC Barcelona,90,Real Betis Balompié,2014,2,5,2,FINISHED,HOME_TEAM
+273588,2019-08-30,18:00:00,559,Sevilla FC,558,RC Celta de Vigo,2014,3,1,1,FINISHED,DRAW
+273589,2019-08-30,20:00:00,77,Athletic Club,92,Real Sociedad de Fútbol,2014,3,2,0,FINISHED,HOME_TEAM
+273587,2019-08-31,15:00:00,79,CA Osasuna,81,FC Barcelona,2014,3,2,2,FINISHED,DRAW
+273586,2019-08-31,17:00:00,88,Levante UD,250,Real Valladolid CF,2014,3,2,0,FINISHED,HOME_TEAM
+273590,2019-08-31,17:00:00,82,Getafe CF,263,Deportivo Alavés,2014,3,1,1,FINISHED,DRAW
+273591,2019-08-31,19:00:00,90,Real Betis Balompié,745,CD Leganés,2014,3,2,1,FINISHED,HOME_TEAM
+273584,2019-09-01,15:00:00,95,Valencia CF,89,RCD Mallorca,2014,3,2,0,FINISHED,HOME_TEAM
+273585,2019-09-01,17:00:00,78,Club Atlético de Madrid,278,SD Eibar,2014,3,3,2,FINISHED,HOME_TEAM
+273592,2019-09-01,17:00:00,80,RCD Espanyol de Barcelona,83,Granada CF,2014,3,0,3,FINISHED,AWAY_TEAM
+273593,2019-09-01,19:00:00,94,Villarreal CF,86,Real Madrid CF,2014,3,2,2,FINISHED,DRAW
+273596,2019-09-13,19:00:00,89,RCD Mallorca,77,Athletic Club,2014,4,None,None,SCHEDULED,None
+273594,2019-09-14,11:00:00,86,Real Madrid CF,88,Levante UD,2014,4,None,None,SCHEDULED,None
+273602,2019-09-14,14:00:00,745,CD Leganés,94,Villarreal CF,2014,4,None,None,SCHEDULED,None
+273597,2019-09-14,16:30:00,92,Real Sociedad de Fútbol,78,Club Atlético de Madrid,2014,4,None,None,SCHEDULED,None
+273595,2019-09-14,19:00:00,81,FC Barcelona,95,Valencia CF,2014,4,None,None,SCHEDULED,None
+273603,2019-09-15,10:00:00,278,SD Eibar,80,RCD Espanyol de Barcelona,2014,4,None,None,SCHEDULED,None
+273601,2019-09-15,12:00:00,263,Deportivo Alavés,559,Sevilla FC,2014,4,None,None,SCHEDULED,None
+273599,2019-09-15,14:00:00,558,RC Celta de Vigo,83,Granada CF,2014,4,None,None,SCHEDULED,None
+273600,2019-09-15,16:30:00,250,Real Valladolid CF,79,CA Osasuna,2014,4,None,None,SCHEDULED,None
+273598,2019-09-15,19:00:00,90,Real Betis Balompié,82,Getafe CF,2014,4,None,None,SCHEDULED,None
+273607,2019-09-20,19:00:00,79,CA Osasuna,90,Real Betis Balompié,2014,5,None,None,SCHEDULED,None
+273613,2019-09-21,11:00:00,94,Villarreal CF,250,Real Valladolid CF,2014,5,None,None,SCHEDULED,None
+273606,2019-09-21,14:00:00,88,Levante UD,278,SD Eibar,2014,5,None,None,SCHEDULED,None
+273605,2019-09-21,16:30:00,78,Club Atlético de Madrid,558,RC Celta de Vigo,2014,5,None,None,SCHEDULED,None
+273612,2019-09-21,19:00:00,83,Granada CF,81,FC Barcelona,2014,5,None,None,SCHEDULED,None
+273610,2019-09-22,10:00:00,82,Getafe CF,89,RCD Mallorca,2014,5,None,None,SCHEDULED,None
+273611,2019-09-22,12:00:00,80,RCD Espanyol de Barcelona,92,Real Sociedad de Fútbol,2014,5,None,None,SCHEDULED,None
+273604,2019-09-22,14:00:00,95,Valencia CF,745,CD Leganés,2014,5,None,None,SCHEDULED,None
+273609,2019-09-22,16:30:00,77,Athletic Club,263,Deportivo Alavés,2014,5,None,None,SCHEDULED,None
+273608,2019-09-22,19:00:00,559,Sevilla FC,86,Real Madrid CF,2014,5,None,None,SCHEDULED,None
+273621,2019-09-24,17:00:00,250,Real Valladolid CF,83,Granada CF,2014,6,None,None,SCHEDULED,None
+273619,2019-09-24,18:00:00,90,Real Betis Balompié,88,Levante UD,2014,6,None,None,SCHEDULED,None
+273615,2019-09-24,19:00:00,81,FC Barcelona,94,Villarreal CF,2014,6,None,None,SCHEDULED,None
+273617,2019-09-25,17:00:00,89,RCD Mallorca,78,Club Atlético de Madrid,2014,6,None,None,SCHEDULED,None
+273622,2019-09-25,17:00:00,745,CD Leganés,77,Athletic Club,2014,6,None,None,SCHEDULED,None
+273616,2019-09-25,18:00:00,95,Valencia CF,82,Getafe CF,2014,6,None,None,SCHEDULED,None
+273614,2019-09-25,19:00:00,86,Real Madrid CF,79,CA Osasuna,2014,6,None,None,SCHEDULED,None
+273623,2019-09-26,17:00:00,278,SD Eibar,559,Sevilla FC,2014,6,None,None,SCHEDULED,None
+273620,2019-09-26,18:00:00,558,RC Celta de Vigo,80,RCD Espanyol de Barcelona,2014,6,None,None,SCHEDULED,None
+273618,2019-09-26,19:00:00,92,Real Sociedad de Fútbol,263,Deportivo Alavés,2014,6,None,None,SCHEDULED,None
+273631,2019-09-27,19:00:00,94,Villarreal CF,90,Real Betis Balompié,2014,7,None,None,SCHEDULED,None
+273627,2019-09-28,11:00:00,77,Athletic Club,95,Valencia CF,2014,7,None,None,SCHEDULED,None
+273628,2019-09-28,14:00:00,82,Getafe CF,81,FC Barcelona,2014,7,None,None,SCHEDULED,None
+273630,2019-09-28,16:30:00,83,Granada CF,745,CD Leganés,2014,7,None,None,SCHEDULED,None
+273624,2019-09-28,19:00:00,78,Club Atlético de Madrid,86,Real Madrid CF,2014,7,None,None,SCHEDULED,None
+273629,2019-09-29,10:00:00,80,RCD Espanyol de Barcelona,250,Real Valladolid CF,2014,7,None,None,SCHEDULED,None
+273633,2019-09-29,12:00:00,278,SD Eibar,558,RC Celta de Vigo,2014,7,None,None,SCHEDULED,None
+273632,2019-09-29,14:00:00,263,Deportivo Alavés,89,RCD Mallorca,2014,7,None,None,SCHEDULED,None
+273625,2019-09-29,16:30:00,88,Levante UD,79,CA Osasuna,2014,7,None,None,SCHEDULED,None
+273626,2019-09-29,19:00:00,559,Sevilla FC,92,Real Sociedad de Fútbol,2014,7,None,None,SCHEDULED,None
+273641,2019-10-04,19:00:00,558,RC Celta de Vigo,77,Athletic Club,2014,8,None,None,SCHEDULED,None
+273643,2019-10-05,11:00:00,745,CD Leganés,88,Levante UD,2014,8,None,None,SCHEDULED,None
+273634,2019-10-05,14:00:00,86,Real Madrid CF,83,Granada CF,2014,8,None,None,SCHEDULED,None
+273636,2019-10-05,16:30:00,95,Valencia CF,263,Deportivo Alavés,2014,8,None,None,SCHEDULED,None
+273640,2019-10-05,19:00:00,90,Real Betis Balompié,278,SD Eibar,2014,8,None,None,SCHEDULED,None
+273638,2019-10-06,10:00:00,89,RCD Mallorca,80,RCD Espanyol de Barcelona,2014,8,None,None,SCHEDULED,None
+273642,2019-10-06,12:00:00,250,Real Valladolid CF,78,Club Atlético de Madrid,2014,8,None,None,SCHEDULED,None
+273637,2019-10-06,14:00:00,79,CA Osasuna,94,Villarreal CF,2014,8,None,None,SCHEDULED,None
+273639,2019-10-06,16:30:00,92,Real Sociedad de Fútbol,82,Getafe CF,2014,8,None,None,SCHEDULED,None
+273635,2019-10-06,19:00:00,81,FC Barcelona,559,Sevilla FC,2014,8,None,None,SCHEDULED,None
+273644,2019-10-20,00:00:00,78,Club Atlético de Madrid,95,Valencia CF,2014,9,None,None,SCHEDULED,None
+273645,2019-10-20,00:00:00,89,RCD Mallorca,86,Real Madrid CF,2014,9,None,None,SCHEDULED,None
+273646,2019-10-20,00:00:00,559,Sevilla FC,88,Levante UD,2014,9,None,None,SCHEDULED,None
+273647,2019-10-20,00:00:00,77,Athletic Club,250,Real Valladolid CF,2014,9,None,None,SCHEDULED,None
+273648,2019-10-20,00:00:00,82,Getafe CF,745,CD Leganés,2014,9,None,None,SCHEDULED,None
+273649,2019-10-20,00:00:00,92,Real Sociedad de Fútbol,90,Real Betis Balompié,2014,9,None,None,SCHEDULED,None
+273650,2019-10-20,00:00:00,80,RCD Espanyol de Barcelona,94,Villarreal CF,2014,9,None,None,SCHEDULED,None
+273651,2019-10-20,00:00:00,83,Granada CF,79,CA Osasuna,2014,9,None,None,SCHEDULED,None
+273652,2019-10-20,00:00:00,263,Deportivo Alavés,558,RC Celta de Vigo,2014,9,None,None,SCHEDULED,None
+273653,2019-10-20,00:00:00,278,SD Eibar,81,FC Barcelona,2014,9,None,None,SCHEDULED,None
+273654,2019-10-27,00:00:00,81,FC Barcelona,86,Real Madrid CF,2014,10,None,None,SCHEDULED,None
+273655,2019-10-27,00:00:00,78,Club Atlético de Madrid,77,Athletic Club,2014,10,None,None,SCHEDULED,None
+273656,2019-10-27,00:00:00,88,Levante UD,80,RCD Espanyol de Barcelona,2014,10,None,None,SCHEDULED,None
+273657,2019-10-27,00:00:00,79,CA Osasuna,95,Valencia CF,2014,10,None,None,SCHEDULED,None
+273658,2019-10-27,00:00:00,559,Sevilla FC,82,Getafe CF,2014,10,None,None,SCHEDULED,None
+273659,2019-10-27,00:00:00,83,Granada CF,90,Real Betis Balompié,2014,10,None,None,SCHEDULED,None
+273660,2019-10-27,00:00:00,558,RC Celta de Vigo,92,Real Sociedad de Fútbol,2014,10,None,None,SCHEDULED,None
+273661,2019-10-27,00:00:00,250,Real Valladolid CF,278,SD Eibar,2014,10,None,None,SCHEDULED,None
+273662,2019-10-27,00:00:00,94,Villarreal CF,263,Deportivo Alavés,2014,10,None,None,SCHEDULED,None
+273663,2019-10-27,00:00:00,745,CD Leganés,89,RCD Mallorca,2014,10,None,None,SCHEDULED,None
+273664,2019-10-30,00:00:00,86,Real Madrid CF,745,CD Leganés,2014,11,None,None,SCHEDULED,None
+273665,2019-10-30,00:00:00,81,FC Barcelona,250,Real Valladolid CF,2014,11,None,None,SCHEDULED,None
+273666,2019-10-30,00:00:00,95,Valencia CF,559,Sevilla FC,2014,11,None,None,SCHEDULED,None
+273667,2019-10-30,00:00:00,89,RCD Mallorca,79,CA Osasuna,2014,11,None,None,SCHEDULED,None
+273668,2019-10-30,00:00:00,77,Athletic Club,80,RCD Espanyol de Barcelona,2014,11,None,None,SCHEDULED,None
+273669,2019-10-30,00:00:00,82,Getafe CF,83,Granada CF,2014,11,None,None,SCHEDULED,None
+273670,2019-10-30,00:00:00,92,Real Sociedad de Fútbol,88,Levante UD,2014,11,None,None,SCHEDULED,None
+273671,2019-10-30,00:00:00,90,Real Betis Balompié,558,RC Celta de Vigo,2014,11,None,None,SCHEDULED,None
+273672,2019-10-30,00:00:00,263,Deportivo Alavés,78,Club Atlético de Madrid,2014,11,None,None,SCHEDULED,None
+273673,2019-10-30,00:00:00,278,SD Eibar,94,Villarreal CF,2014,11,None,None,SCHEDULED,None
+273674,2019-11-03,00:00:00,86,Real Madrid CF,90,Real Betis Balompié,2014,12,None,None,SCHEDULED,None
+273675,2019-11-03,00:00:00,88,Levante UD,81,FC Barcelona,2014,12,None,None,SCHEDULED,None
+273676,2019-11-03,00:00:00,79,CA Osasuna,263,Deportivo Alavés,2014,12,None,None,SCHEDULED,None
+273677,2019-11-03,00:00:00,559,Sevilla FC,78,Club Atlético de Madrid,2014,12,None,None,SCHEDULED,None
+273678,2019-11-03,00:00:00,80,RCD Espanyol de Barcelona,95,Valencia CF,2014,12,None,None,SCHEDULED,None
+273679,2019-11-03,00:00:00,83,Granada CF,92,Real Sociedad de Fútbol,2014,12,None,None,SCHEDULED,None
+273680,2019-11-03,00:00:00,558,RC Celta de Vigo,82,Getafe CF,2014,12,None,None,SCHEDULED,None
+273681,2019-11-03,00:00:00,250,Real Valladolid CF,89,RCD Mallorca,2014,12,None,None,SCHEDULED,None
+273682,2019-11-03,00:00:00,94,Villarreal CF,77,Athletic Club,2014,12,None,None,SCHEDULED,None
+273683,2019-11-03,00:00:00,745,CD Leganés,278,SD Eibar,2014,12,None,None,SCHEDULED,None
+273684,2019-11-10,00:00:00,81,FC Barcelona,558,RC Celta de Vigo,2014,13,None,None,SCHEDULED,None
+273685,2019-11-10,00:00:00,95,Valencia CF,83,Granada CF,2014,13,None,None,SCHEDULED,None
+273686,2019-11-10,00:00:00,78,Club Atlético de Madrid,80,RCD Espanyol de Barcelona,2014,13,None,None,SCHEDULED,None
+273687,2019-11-10,00:00:00,89,RCD Mallorca,94,Villarreal CF,2014,13,None,None,SCHEDULED,None
+273688,2019-11-10,00:00:00,77,Athletic Club,88,Levante UD,2014,13,None,None,SCHEDULED,None
+273689,2019-11-10,00:00:00,82,Getafe CF,79,CA Osasuna,2014,13,None,None,SCHEDULED,None
+273690,2019-11-10,00:00:00,92,Real Sociedad de Fútbol,745,CD Leganés,2014,13,None,None,SCHEDULED,None
+273691,2019-11-10,00:00:00,90,Real Betis Balompié,559,Sevilla FC,2014,13,None,None,SCHEDULED,None
+273692,2019-11-10,00:00:00,263,Deportivo Alavés,250,Real Valladolid CF,2014,13,None,None,SCHEDULED,None
+273693,2019-11-10,00:00:00,278,SD Eibar,86,Real Madrid CF,2014,13,None,None,SCHEDULED,None
+273694,2019-11-24,00:00:00,86,Real Madrid CF,92,Real Sociedad de Fútbol,2014,14,None,None,SCHEDULED,None
+273695,2019-11-24,00:00:00,88,Levante UD,89,RCD Mallorca,2014,14,None,None,SCHEDULED,None
+273696,2019-11-24,00:00:00,79,CA Osasuna,77,Athletic Club,2014,14,None,None,SCHEDULED,None
+273697,2019-11-24,00:00:00,90,Real Betis Balompié,95,Valencia CF,2014,14,None,None,SCHEDULED,None
+273698,2019-11-24,00:00:00,80,RCD Espanyol de Barcelona,82,Getafe CF,2014,14,None,None,SCHEDULED,None
+273699,2019-11-24,00:00:00,83,Granada CF,78,Club Atlético de Madrid,2014,14,None,None,SCHEDULED,None
+273700,2019-11-24,00:00:00,250,Real Valladolid CF,559,Sevilla FC,2014,14,None,None,SCHEDULED,None
+273701,2019-11-24,00:00:00,94,Villarreal CF,558,RC Celta de Vigo,2014,14,None,None,SCHEDULED,None
+273702,2019-11-24,00:00:00,745,CD Leganés,81,FC Barcelona,2014,14,None,None,SCHEDULED,None
+273703,2019-11-24,00:00:00,278,SD Eibar,263,Deportivo Alavés,2014,14,None,None,SCHEDULED,None
+273704,2019-12-01,00:00:00,95,Valencia CF,94,Villarreal CF,2014,15,None,None,SCHEDULED,None
+273705,2019-12-01,00:00:00,78,Club Atlético de Madrid,81,FC Barcelona,2014,15,None,None,SCHEDULED,None
+273706,2019-12-01,00:00:00,89,RCD Mallorca,90,Real Betis Balompié,2014,15,None,None,SCHEDULED,None
+273707,2019-12-01,00:00:00,559,Sevilla FC,745,CD Leganés,2014,15,None,None,SCHEDULED,None
+273708,2019-12-01,00:00:00,77,Athletic Club,83,Granada CF,2014,15,None,None,SCHEDULED,None
+273709,2019-12-01,00:00:00,82,Getafe CF,88,Levante UD,2014,15,None,None,SCHEDULED,None
+273710,2019-12-01,00:00:00,92,Real Sociedad de Fútbol,278,SD Eibar,2014,15,None,None,SCHEDULED,None
+273711,2019-12-01,00:00:00,80,RCD Espanyol de Barcelona,79,CA Osasuna,2014,15,None,None,SCHEDULED,None
+273712,2019-12-01,00:00:00,558,RC Celta de Vigo,250,Real Valladolid CF,2014,15,None,None,SCHEDULED,None
+273713,2019-12-01,00:00:00,263,Deportivo Alavés,86,Real Madrid CF,2014,15,None,None,SCHEDULED,None
+273714,2019-12-08,00:00:00,86,Real Madrid CF,80,RCD Espanyol de Barcelona,2014,16,None,None,SCHEDULED,None
+273715,2019-12-08,00:00:00,81,FC Barcelona,89,RCD Mallorca,2014,16,None,None,SCHEDULED,None
+273716,2019-12-08,00:00:00,88,Levante UD,95,Valencia CF,2014,16,None,None,SCHEDULED,None
+273717,2019-12-08,00:00:00,79,CA Osasuna,559,Sevilla FC,2014,16,None,None,SCHEDULED,None
+273718,2019-12-08,00:00:00,90,Real Betis Balompié,77,Athletic Club,2014,16,None,None,SCHEDULED,None
+273719,2019-12-08,00:00:00,83,Granada CF,263,Deportivo Alavés,2014,16,None,None,SCHEDULED,None
+273720,2019-12-08,00:00:00,250,Real Valladolid CF,92,Real Sociedad de Fútbol,2014,16,None,None,SCHEDULED,None
+273721,2019-12-08,00:00:00,94,Villarreal CF,78,Club Atlético de Madrid,2014,16,None,None,SCHEDULED,None
+273722,2019-12-08,00:00:00,745,CD Leganés,558,RC Celta de Vigo,2014,16,None,None,SCHEDULED,None
+273723,2019-12-08,00:00:00,278,SD Eibar,82,Getafe CF,2014,16,None,None,SCHEDULED,None
+273724,2019-12-15,00:00:00,95,Valencia CF,86,Real Madrid CF,2014,17,None,None,SCHEDULED,None
+273725,2019-12-15,00:00:00,78,Club Atlético de Madrid,79,CA Osasuna,2014,17,None,None,SCHEDULED,None
+273726,2019-12-15,00:00:00,559,Sevilla FC,94,Villarreal CF,2014,17,None,None,SCHEDULED,None
+273727,2019-12-15,00:00:00,77,Athletic Club,278,SD Eibar,2014,17,None,None,SCHEDULED,None
+273728,2019-12-15,00:00:00,82,Getafe CF,250,Real Valladolid CF,2014,17,None,None,SCHEDULED,None
+273729,2019-12-15,00:00:00,92,Real Sociedad de Fútbol,81,FC Barcelona,2014,17,None,None,SCHEDULED,None
+273730,2019-12-15,00:00:00,80,RCD Espanyol de Barcelona,90,Real Betis Balompié,2014,17,None,None,SCHEDULED,None
+273731,2019-12-15,00:00:00,83,Granada CF,88,Levante UD,2014,17,None,None,SCHEDULED,None
+273732,2019-12-15,00:00:00,558,RC Celta de Vigo,89,RCD Mallorca,2014,17,None,None,SCHEDULED,None
+273733,2019-12-15,00:00:00,263,Deportivo Alavés,745,CD Leganés,2014,17,None,None,SCHEDULED,None
+273734,2019-12-22,00:00:00,86,Real Madrid CF,77,Athletic Club,2014,18,None,None,SCHEDULED,None
+273735,2019-12-22,00:00:00,81,FC Barcelona,263,Deportivo Alavés,2014,18,None,None,SCHEDULED,None
+273736,2019-12-22,00:00:00,88,Levante UD,558,RC Celta de Vigo,2014,18,None,None,SCHEDULED,None
+273737,2019-12-22,00:00:00,79,CA Osasuna,92,Real Sociedad de Fútbol,2014,18,None,None,SCHEDULED,None
+273738,2019-12-22,00:00:00,89,RCD Mallorca,559,Sevilla FC,2014,18,None,None,SCHEDULED,None
+273739,2019-12-22,00:00:00,90,Real Betis Balompié,78,Club Atlético de Madrid,2014,18,None,None,SCHEDULED,None
+273740,2019-12-22,00:00:00,250,Real Valladolid CF,95,Valencia CF,2014,18,None,None,SCHEDULED,None
+273741,2019-12-22,00:00:00,94,Villarreal CF,82,Getafe CF,2014,18,None,None,SCHEDULED,None
+273742,2019-12-22,00:00:00,745,CD Leganés,80,RCD Espanyol de Barcelona,2014,18,None,None,SCHEDULED,None
+273743,2019-12-22,00:00:00,278,SD Eibar,83,Granada CF,2014,18,None,None,SCHEDULED,None
+273744,2020-01-05,00:00:00,95,Valencia CF,278,SD Eibar,2014,19,None,None,SCHEDULED,None
+273745,2020-01-05,00:00:00,78,Club Atlético de Madrid,88,Levante UD,2014,19,None,None,SCHEDULED,None
+273746,2020-01-05,00:00:00,559,Sevilla FC,77,Athletic Club,2014,19,None,None,SCHEDULED,None
+273747,2020-01-05,00:00:00,82,Getafe CF,86,Real Madrid CF,2014,19,None,None,SCHEDULED,None
+273748,2020-01-05,00:00:00,92,Real Sociedad de Fútbol,94,Villarreal CF,2014,19,None,None,SCHEDULED,None
+273749,2020-01-05,00:00:00,80,RCD Espanyol de Barcelona,81,FC Barcelona,2014,19,None,None,SCHEDULED,None
+273750,2020-01-05,00:00:00,83,Granada CF,89,RCD Mallorca,2014,19,None,None,SCHEDULED,None
+273751,2020-01-05,00:00:00,558,RC Celta de Vigo,79,CA Osasuna,2014,19,None,None,SCHEDULED,None
+273752,2020-01-05,00:00:00,250,Real Valladolid CF,745,CD Leganés,2014,19,None,None,SCHEDULED,None
+273753,2020-01-05,00:00:00,263,Deportivo Alavés,90,Real Betis Balompié,2014,19,None,None,SCHEDULED,None
+273754,2020-01-19,00:00:00,86,Real Madrid CF,559,Sevilla FC,2014,20,None,None,SCHEDULED,None
+273755,2020-01-19,00:00:00,81,FC Barcelona,83,Granada CF,2014,20,None,None,SCHEDULED,None
+273756,2020-01-19,00:00:00,88,Levante UD,263,Deportivo Alavés,2014,20,None,None,SCHEDULED,None
+273757,2020-01-19,00:00:00,79,CA Osasuna,250,Real Valladolid CF,2014,20,None,None,SCHEDULED,None
+273758,2020-01-19,00:00:00,89,RCD Mallorca,95,Valencia CF,2014,20,None,None,SCHEDULED,None
+273759,2020-01-19,00:00:00,77,Athletic Club,558,RC Celta de Vigo,2014,20,None,None,SCHEDULED,None
+273760,2020-01-19,00:00:00,90,Real Betis Balompié,92,Real Sociedad de Fútbol,2014,20,None,None,SCHEDULED,None
+273761,2020-01-19,00:00:00,94,Villarreal CF,80,RCD Espanyol de Barcelona,2014,20,None,None,SCHEDULED,None
+273762,2020-01-19,00:00:00,745,CD Leganés,82,Getafe CF,2014,20,None,None,SCHEDULED,None
+273763,2020-01-19,00:00:00,278,SD Eibar,78,Club Atlético de Madrid,2014,20,None,None,SCHEDULED,None
+273764,2020-01-26,00:00:00,95,Valencia CF,81,FC Barcelona,2014,21,None,None,SCHEDULED,None
+273765,2020-01-26,00:00:00,78,Club Atlético de Madrid,745,CD Leganés,2014,21,None,None,SCHEDULED,None
+273766,2020-01-26,00:00:00,79,CA Osasuna,88,Levante UD,2014,21,None,None,SCHEDULED,None
+273767,2020-01-26,00:00:00,559,Sevilla FC,83,Granada CF,2014,21,None,None,SCHEDULED,None
+273768,2020-01-26,00:00:00,82,Getafe CF,90,Real Betis Balompié,2014,21,None,None,SCHEDULED,None
+273769,2020-01-26,00:00:00,92,Real Sociedad de Fútbol,89,RCD Mallorca,2014,21,None,None,SCHEDULED,None
+273770,2020-01-26,00:00:00,80,RCD Espanyol de Barcelona,77,Athletic Club,2014,21,None,None,SCHEDULED,None
+273771,2020-01-26,00:00:00,558,RC Celta de Vigo,278,SD Eibar,2014,21,None,None,SCHEDULED,None
+273772,2020-01-26,00:00:00,250,Real Valladolid CF,86,Real Madrid CF,2014,21,None,None,SCHEDULED,None
+273773,2020-01-26,00:00:00,263,Deportivo Alavés,94,Villarreal CF,2014,21,None,None,SCHEDULED,None
+273774,2020-02-02,00:00:00,86,Real Madrid CF,78,Club Atlético de Madrid,2014,22,None,None,SCHEDULED,None
+273775,2020-02-02,00:00:00,81,FC Barcelona,88,Levante UD,2014,22,None,None,SCHEDULED,None
+273776,2020-02-02,00:00:00,95,Valencia CF,558,RC Celta de Vigo,2014,22,None,None,SCHEDULED,None
+273777,2020-02-02,00:00:00,89,RCD Mallorca,250,Real Valladolid CF,2014,22,None,None,SCHEDULED,None
+273778,2020-02-02,00:00:00,559,Sevilla FC,263,Deportivo Alavés,2014,22,None,None,SCHEDULED,None
+273779,2020-02-02,00:00:00,77,Athletic Club,82,Getafe CF,2014,22,None,None,SCHEDULED,None
+273780,2020-02-02,00:00:00,83,Granada CF,80,RCD Espanyol de Barcelona,2014,22,None,None,SCHEDULED,None
+273781,2020-02-02,00:00:00,94,Villarreal CF,79,CA Osasuna,2014,22,None,None,SCHEDULED,None
+273782,2020-02-02,00:00:00,745,CD Leganés,92,Real Sociedad de Fútbol,2014,22,None,None,SCHEDULED,None
+273783,2020-02-02,00:00:00,278,SD Eibar,90,Real Betis Balompié,2014,22,None,None,SCHEDULED,None
+273784,2020-02-09,00:00:00,78,Club Atlético de Madrid,83,Granada CF,2014,23,None,None,SCHEDULED,None
+273785,2020-02-09,00:00:00,88,Levante UD,745,CD Leganés,2014,23,None,None,SCHEDULED,None
+273786,2020-02-09,00:00:00,79,CA Osasuna,86,Real Madrid CF,2014,23,None,None,SCHEDULED,None
+273787,2020-02-09,00:00:00,82,Getafe CF,95,Valencia CF,2014,23,None,None,SCHEDULED,None
+273788,2020-02-09,00:00:00,92,Real Sociedad de Fútbol,77,Athletic Club,2014,23,None,None,SCHEDULED,None
+273789,2020-02-09,00:00:00,90,Real Betis Balompié,81,FC Barcelona,2014,23,None,None,SCHEDULED,None
+273790,2020-02-09,00:00:00,80,RCD Espanyol de Barcelona,89,RCD Mallorca,2014,23,None,None,SCHEDULED,None
+273791,2020-02-09,00:00:00,558,RC Celta de Vigo,559,Sevilla FC,2014,23,None,None,SCHEDULED,None
+273792,2020-02-09,00:00:00,250,Real Valladolid CF,94,Villarreal CF,2014,23,None,None,SCHEDULED,None
+273793,2020-02-09,00:00:00,263,Deportivo Alavés,278,SD Eibar,2014,23,None,None,SCHEDULED,None
+273794,2020-02-16,00:00:00,86,Real Madrid CF,558,RC Celta de Vigo,2014,24,None,None,SCHEDULED,None
+273795,2020-02-16,00:00:00,81,FC Barcelona,82,Getafe CF,2014,24,None,None,SCHEDULED,None
+273796,2020-02-16,00:00:00,95,Valencia CF,78,Club Atlético de Madrid,2014,24,None,None,SCHEDULED,None
+273797,2020-02-16,00:00:00,89,RCD Mallorca,263,Deportivo Alavés,2014,24,None,None,SCHEDULED,None
+273798,2020-02-16,00:00:00,559,Sevilla FC,80,RCD Espanyol de Barcelona,2014,24,None,None,SCHEDULED,None
+273799,2020-02-16,00:00:00,77,Athletic Club,79,CA Osasuna,2014,24,None,None,SCHEDULED,None
+273800,2020-02-16,00:00:00,83,Granada CF,250,Real Valladolid CF,2014,24,None,None,SCHEDULED,None
+273801,2020-02-16,00:00:00,94,Villarreal CF,88,Levante UD,2014,24,None,None,SCHEDULED,None
+273802,2020-02-16,00:00:00,745,CD Leganés,90,Real Betis Balompié,2014,24,None,None,SCHEDULED,None
+273803,2020-02-16,00:00:00,278,SD Eibar,92,Real Sociedad de Fútbol,2014,24,None,None,SCHEDULED,None
+273804,2020-03-01,00:00:00,86,Real Madrid CF,81,FC Barcelona,2014,26,None,None,SCHEDULED,None
+273805,2020-03-01,00:00:00,95,Valencia CF,90,Real Betis Balompié,2014,26,None,None,SCHEDULED,None
+273806,2020-03-01,00:00:00,89,RCD Mallorca,82,Getafe CF,2014,26,None,None,SCHEDULED,None
+273807,2020-03-01,00:00:00,559,Sevilla FC,79,CA Osasuna,2014,26,None,None,SCHEDULED,None
+273808,2020-03-01,00:00:00,77,Athletic Club,94,Villarreal CF,2014,26,None,None,SCHEDULED,None
+273809,2020-03-01,00:00:00,92,Real Sociedad de Fútbol,250,Real Valladolid CF,2014,26,None,None,SCHEDULED,None
+273810,2020-03-01,00:00:00,80,RCD Espanyol de Barcelona,78,Club Atlético de Madrid,2014,26,None,None,SCHEDULED,None
+273811,2020-03-01,00:00:00,83,Granada CF,558,RC Celta de Vigo,2014,26,None,None,SCHEDULED,None
+273812,2020-03-01,00:00:00,745,CD Leganés,263,Deportivo Alavés,2014,26,None,None,SCHEDULED,None
+273813,2020-03-01,00:00:00,278,SD Eibar,88,Levante UD,2014,26,None,None,SCHEDULED,None
+273814,2020-03-08,00:00:00,81,FC Barcelona,92,Real Sociedad de Fútbol,2014,27,None,None,SCHEDULED,None
+273815,2020-03-08,00:00:00,78,Club Atlético de Madrid,559,Sevilla FC,2014,27,None,None,SCHEDULED,None
+273816,2020-03-08,00:00:00,88,Levante UD,83,Granada CF,2014,27,None,None,SCHEDULED,None
+273817,2020-03-08,00:00:00,79,CA Osasuna,80,RCD Espanyol de Barcelona,2014,27,None,None,SCHEDULED,None
+273818,2020-03-08,00:00:00,82,Getafe CF,558,RC Celta de Vigo,2014,27,None,None,SCHEDULED,None
+273819,2020-03-08,00:00:00,90,Real Betis Balompié,86,Real Madrid CF,2014,27,None,None,SCHEDULED,None
+273820,2020-03-08,00:00:00,250,Real Valladolid CF,77,Athletic Club,2014,27,None,None,SCHEDULED,None
+273821,2020-03-08,00:00:00,94,Villarreal CF,745,CD Leganés,2014,27,None,None,SCHEDULED,None
+273822,2020-03-08,00:00:00,263,Deportivo Alavés,95,Valencia CF,2014,27,None,None,SCHEDULED,None
+273823,2020-03-08,00:00:00,278,SD Eibar,89,RCD Mallorca,2014,27,None,None,SCHEDULED,None
+273824,2020-03-15,00:00:00,86,Real Madrid CF,278,SD Eibar,2014,28,None,None,SCHEDULED,None
+273825,2020-03-15,00:00:00,95,Valencia CF,88,Levante UD,2014,28,None,None,SCHEDULED,None
+273826,2020-03-15,00:00:00,89,RCD Mallorca,81,FC Barcelona,2014,28,None,None,SCHEDULED,None
+273827,2020-03-15,00:00:00,559,Sevilla FC,90,Real Betis Balompié,2014,28,None,None,SCHEDULED,None
+273828,2020-03-15,00:00:00,77,Athletic Club,78,Club Atlético de Madrid,2014,28,None,None,SCHEDULED,None
+273829,2020-03-15,00:00:00,92,Real Sociedad de Fútbol,79,CA Osasuna,2014,28,None,None,SCHEDULED,None
+273830,2020-03-15,00:00:00,80,RCD Espanyol de Barcelona,263,Deportivo Alavés,2014,28,None,None,SCHEDULED,None
+273831,2020-03-15,00:00:00,83,Granada CF,82,Getafe CF,2014,28,None,None,SCHEDULED,None
+273832,2020-03-15,00:00:00,558,RC Celta de Vigo,94,Villarreal CF,2014,28,None,None,SCHEDULED,None
+273833,2020-03-15,00:00:00,745,CD Leganés,250,Real Valladolid CF,2014,28,None,None,SCHEDULED,None
+273834,2020-03-22,00:00:00,86,Real Madrid CF,95,Valencia CF,2014,29,None,None,SCHEDULED,None
+273835,2020-03-22,00:00:00,81,FC Barcelona,745,CD Leganés,2014,29,None,None,SCHEDULED,None
+273836,2020-03-22,00:00:00,88,Levante UD,559,Sevilla FC,2014,29,None,None,SCHEDULED,None
+273837,2020-03-22,00:00:00,79,CA Osasuna,78,Club Atlético de Madrid,2014,29,None,None,SCHEDULED,None
+273838,2020-03-22,00:00:00,82,Getafe CF,80,RCD Espanyol de Barcelona,2014,29,None,None,SCHEDULED,None
+273839,2020-03-22,00:00:00,90,Real Betis Balompié,83,Granada CF,2014,29,None,None,SCHEDULED,None
+273840,2020-03-22,00:00:00,250,Real Valladolid CF,558,RC Celta de Vigo,2014,29,None,None,SCHEDULED,None
+273841,2020-03-22,00:00:00,94,Villarreal CF,89,RCD Mallorca,2014,29,None,None,SCHEDULED,None
+273842,2020-03-22,00:00:00,263,Deportivo Alavés,92,Real Sociedad de Fútbol,2014,29,None,None,SCHEDULED,None
+273843,2020-03-22,00:00:00,278,SD Eibar,77,Athletic Club,2014,29,None,None,SCHEDULED,None
+273844,2020-03-23,00:00:00,81,FC Barcelona,278,SD Eibar,2014,25,None,None,SCHEDULED,None
+273845,2020-03-23,00:00:00,78,Club Atlético de Madrid,94,Villarreal CF,2014,25,None,None,SCHEDULED,None
+273846,2020-03-23,00:00:00,88,Levante UD,86,Real Madrid CF,2014,25,None,None,SCHEDULED,None
+273847,2020-03-23,00:00:00,79,CA Osasuna,83,Granada CF,2014,25,None,None,SCHEDULED,None
+273848,2020-03-23,00:00:00,82,Getafe CF,559,Sevilla FC,2014,25,None,None,SCHEDULED,None
+273849,2020-03-23,00:00:00,92,Real Sociedad de Fútbol,95,Valencia CF,2014,25,None,None,SCHEDULED,None
+273850,2020-03-23,00:00:00,90,Real Betis Balompié,89,RCD Mallorca,2014,25,None,None,SCHEDULED,None
+273851,2020-03-23,00:00:00,558,RC Celta de Vigo,745,CD Leganés,2014,25,None,None,SCHEDULED,None
+273852,2020-03-23,00:00:00,250,Real Valladolid CF,80,RCD Espanyol de Barcelona,2014,25,None,None,SCHEDULED,None
+273853,2020-03-23,00:00:00,263,Deportivo Alavés,77,Athletic Club,2014,25,None,None,SCHEDULED,None
+273854,2020-04-05,00:00:00,95,Valencia CF,79,CA Osasuna,2014,30,None,None,SCHEDULED,None
+273855,2020-04-05,00:00:00,78,Club Atlético de Madrid,250,Real Valladolid CF,2014,30,None,None,SCHEDULED,None
+273856,2020-04-05,00:00:00,89,RCD Mallorca,745,CD Leganés,2014,30,None,None,SCHEDULED,None
+273857,2020-04-05,00:00:00,559,Sevilla FC,81,FC Barcelona,2014,30,None,None,SCHEDULED,None
+273858,2020-04-05,00:00:00,77,Athletic Club,90,Real Betis Balompié,2014,30,None,None,SCHEDULED,None
+273859,2020-04-05,00:00:00,82,Getafe CF,278,SD Eibar,2014,30,None,None,SCHEDULED,None
+273860,2020-04-05,00:00:00,92,Real Sociedad de Fútbol,86,Real Madrid CF,2014,30,None,None,SCHEDULED,None
+273861,2020-04-05,00:00:00,80,RCD Espanyol de Barcelona,88,Levante UD,2014,30,None,None,SCHEDULED,None
+273862,2020-04-05,00:00:00,83,Granada CF,94,Villarreal CF,2014,30,None,None,SCHEDULED,None
+273863,2020-04-05,00:00:00,558,RC Celta de Vigo,263,Deportivo Alavés,2014,30,None,None,SCHEDULED,None
+273864,2020-04-12,00:00:00,86,Real Madrid CF,89,RCD Mallorca,2014,31,None,None,SCHEDULED,None
+273865,2020-04-12,00:00:00,81,FC Barcelona,77,Athletic Club,2014,31,None,None,SCHEDULED,None
+273866,2020-04-12,00:00:00,88,Levante UD,78,Club Atlético de Madrid,2014,31,None,None,SCHEDULED,None
+273867,2020-04-12,00:00:00,92,Real Sociedad de Fútbol,558,RC Celta de Vigo,2014,31,None,None,SCHEDULED,None
+273868,2020-04-12,00:00:00,90,Real Betis Balompié,80,RCD Espanyol de Barcelona,2014,31,None,None,SCHEDULED,None
+273869,2020-04-12,00:00:00,250,Real Valladolid CF,82,Getafe CF,2014,31,None,None,SCHEDULED,None
+273870,2020-04-12,00:00:00,94,Villarreal CF,559,Sevilla FC,2014,31,None,None,SCHEDULED,None
+273871,2020-04-12,00:00:00,263,Deportivo Alavés,79,CA Osasuna,2014,31,None,None,SCHEDULED,None
+273872,2020-04-12,00:00:00,745,CD Leganés,83,Granada CF,2014,31,None,None,SCHEDULED,None
+273873,2020-04-12,00:00:00,278,SD Eibar,95,Valencia CF,2014,31,None,None,SCHEDULED,None
+273874,2020-04-22,00:00:00,78,Club Atlético de Madrid,263,Deportivo Alavés,2014,32,None,None,SCHEDULED,None
+273875,2020-04-22,00:00:00,88,Levante UD,90,Real Betis Balompié,2014,32,None,None,SCHEDULED,None
+273876,2020-04-22,00:00:00,79,CA Osasuna,745,CD Leganés,2014,32,None,None,SCHEDULED,None
+273877,2020-04-22,00:00:00,559,Sevilla FC,250,Real Valladolid CF,2014,32,None,None,SCHEDULED,None
+273878,2020-04-22,00:00:00,77,Athletic Club,89,RCD Mallorca,2014,32,None,None,SCHEDULED,None
+273879,2020-04-22,00:00:00,82,Getafe CF,92,Real Sociedad de Fútbol,2014,32,None,None,SCHEDULED,None
+273880,2020-04-22,00:00:00,80,RCD Espanyol de Barcelona,86,Real Madrid CF,2014,32,None,None,SCHEDULED,None
+273881,2020-04-22,00:00:00,83,Granada CF,278,SD Eibar,2014,32,None,None,SCHEDULED,None
+273882,2020-04-22,00:00:00,558,RC Celta de Vigo,81,FC Barcelona,2014,32,None,None,SCHEDULED,None
+273883,2020-04-22,00:00:00,94,Villarreal CF,95,Valencia CF,2014,32,None,None,SCHEDULED,None
+273884,2020-04-26,00:00:00,86,Real Madrid CF,82,Getafe CF,2014,33,None,None,SCHEDULED,None
+273885,2020-04-26,00:00:00,81,FC Barcelona,78,Club Atlético de Madrid,2014,33,None,None,SCHEDULED,None
+273886,2020-04-26,00:00:00,95,Valencia CF,77,Athletic Club,2014,33,None,None,SCHEDULED,None
+273887,2020-04-26,00:00:00,89,RCD Mallorca,558,RC Celta de Vigo,2014,33,None,None,SCHEDULED,None
+273888,2020-04-26,00:00:00,92,Real Sociedad de Fútbol,80,RCD Espanyol de Barcelona,2014,33,None,None,SCHEDULED,None
+273889,2020-04-26,00:00:00,90,Real Betis Balompié,94,Villarreal CF,2014,33,None,None,SCHEDULED,None
+273890,2020-04-26,00:00:00,250,Real Valladolid CF,88,Levante UD,2014,33,None,None,SCHEDULED,None
+273891,2020-04-26,00:00:00,263,Deportivo Alavés,83,Granada CF,2014,33,None,None,SCHEDULED,None
+273892,2020-04-26,00:00:00,745,CD Leganés,559,Sevilla FC,2014,33,None,None,SCHEDULED,None
+273893,2020-04-26,00:00:00,278,SD Eibar,79,CA Osasuna,2014,33,None,None,SCHEDULED,None
+273894,2020-05-03,00:00:00,78,Club Atlético de Madrid,89,RCD Mallorca,2014,34,None,None,SCHEDULED,None
+273895,2020-05-03,00:00:00,88,Levante UD,92,Real Sociedad de Fútbol,2014,34,None,None,SCHEDULED,None
+273896,2020-05-03,00:00:00,79,CA Osasuna,82,Getafe CF,2014,34,None,None,SCHEDULED,None
+273897,2020-05-03,00:00:00,559,Sevilla FC,278,SD Eibar,2014,34,None,None,SCHEDULED,None
+273898,2020-05-03,00:00:00,77,Athletic Club,86,Real Madrid CF,2014,34,None,None,SCHEDULED,None
+273899,2020-05-03,00:00:00,80,RCD Espanyol de Barcelona,745,CD Leganés,2014,34,None,None,SCHEDULED,None
+273900,2020-05-03,00:00:00,83,Granada CF,95,Valencia CF,2014,34,None,None,SCHEDULED,None
+273901,2020-05-03,00:00:00,558,RC Celta de Vigo,90,Real Betis Balompié,2014,34,None,None,SCHEDULED,None
+273902,2020-05-03,00:00:00,250,Real Valladolid CF,263,Deportivo Alavés,2014,34,None,None,SCHEDULED,None
+273903,2020-05-03,00:00:00,94,Villarreal CF,81,FC Barcelona,2014,34,None,None,SCHEDULED,None
+273904,2020-05-10,00:00:00,86,Real Madrid CF,263,Deportivo Alavés,2014,35,None,None,SCHEDULED,None
+273905,2020-05-10,00:00:00,81,FC Barcelona,80,RCD Espanyol de Barcelona,2014,35,None,None,SCHEDULED,None
+273906,2020-05-10,00:00:00,95,Valencia CF,250,Real Valladolid CF,2014,35,None,None,SCHEDULED,None
+273907,2020-05-10,00:00:00,89,RCD Mallorca,88,Levante UD,2014,35,None,None,SCHEDULED,None
+273908,2020-05-10,00:00:00,77,Athletic Club,559,Sevilla FC,2014,35,None,None,SCHEDULED,None
+273909,2020-05-10,00:00:00,82,Getafe CF,94,Villarreal CF,2014,35,None,None,SCHEDULED,None
+273910,2020-05-10,00:00:00,92,Real Sociedad de Fútbol,83,Granada CF,2014,35,None,None,SCHEDULED,None
+273911,2020-05-10,00:00:00,90,Real Betis Balompié,79,CA Osasuna,2014,35,None,None,SCHEDULED,None
+273912,2020-05-10,00:00:00,558,RC Celta de Vigo,78,Club Atlético de Madrid,2014,35,None,None,SCHEDULED,None
+273913,2020-05-10,00:00:00,278,SD Eibar,745,CD Leganés,2014,35,None,None,SCHEDULED,None
+273920,2020-05-13,00:00:00,250,Real Valladolid CF,81,FC Barcelona,2014,36,None,None,SCHEDULED,None
+273921,2020-05-13,00:00:00,94,Villarreal CF,92,Real Sociedad de Fútbol,2014,36,None,None,SCHEDULED,None
+273922,2020-05-13,00:00:00,263,Deportivo Alavés,82,Getafe CF,2014,36,None,None,SCHEDULED,None
+273923,2020-05-13,00:00:00,745,CD Leganés,95,Valencia CF,2014,36,None,None,SCHEDULED,None
+273914,2020-05-13,00:00:00,78,Club Atlético de Madrid,90,Real Betis Balompié,2014,36,None,None,SCHEDULED,None
+273915,2020-05-13,00:00:00,88,Levante UD,77,Athletic Club,2014,36,None,None,SCHEDULED,None
+273916,2020-05-13,00:00:00,79,CA Osasuna,558,RC Celta de Vigo,2014,36,None,None,SCHEDULED,None
+273917,2020-05-13,00:00:00,559,Sevilla FC,89,RCD Mallorca,2014,36,None,None,SCHEDULED,None
+273918,2020-05-13,00:00:00,80,RCD Espanyol de Barcelona,278,SD Eibar,2014,36,None,None,SCHEDULED,None
+273919,2020-05-13,00:00:00,83,Granada CF,86,Real Madrid CF,2014,36,None,None,SCHEDULED,None
+273924,2020-05-17,00:00:00,86,Real Madrid CF,94,Villarreal CF,2014,37,None,None,SCHEDULED,None
+273925,2020-05-17,00:00:00,81,FC Barcelona,79,CA Osasuna,2014,37,None,None,SCHEDULED,None
+273926,2020-05-17,00:00:00,95,Valencia CF,80,RCD Espanyol de Barcelona,2014,37,None,None,SCHEDULED,None
+273927,2020-05-17,00:00:00,89,RCD Mallorca,83,Granada CF,2014,37,None,None,SCHEDULED,None
+273928,2020-05-17,00:00:00,77,Athletic Club,745,CD Leganés,2014,37,None,None,SCHEDULED,None
+273929,2020-05-17,00:00:00,82,Getafe CF,78,Club Atlético de Madrid,2014,37,None,None,SCHEDULED,None
+273930,2020-05-17,00:00:00,92,Real Sociedad de Fútbol,559,Sevilla FC,2014,37,None,None,SCHEDULED,None
+273931,2020-05-17,00:00:00,90,Real Betis Balompié,263,Deportivo Alavés,2014,37,None,None,SCHEDULED,None
+273932,2020-05-17,00:00:00,558,RC Celta de Vigo,88,Levante UD,2014,37,None,None,SCHEDULED,None
+273933,2020-05-17,00:00:00,278,SD Eibar,250,Real Valladolid CF,2014,37,None,None,SCHEDULED,None
+273934,2020-05-24,00:00:00,78,Club Atlético de Madrid,92,Real Sociedad de Fútbol,2014,38,None,None,SCHEDULED,None
+273935,2020-05-24,00:00:00,88,Levante UD,82,Getafe CF,2014,38,None,None,SCHEDULED,None
+273936,2020-05-24,00:00:00,79,CA Osasuna,89,RCD Mallorca,2014,38,None,None,SCHEDULED,None
+273937,2020-05-24,00:00:00,559,Sevilla FC,95,Valencia CF,2014,38,None,None,SCHEDULED,None
+273938,2020-05-24,00:00:00,80,RCD Espanyol de Barcelona,558,RC Celta de Vigo,2014,38,None,None,SCHEDULED,None
+273939,2020-05-24,00:00:00,83,Granada CF,77,Athletic Club,2014,38,None,None,SCHEDULED,None
+273940,2020-05-24,00:00:00,250,Real Valladolid CF,90,Real Betis Balompié,2014,38,None,None,SCHEDULED,None
+273941,2020-05-24,00:00:00,94,Villarreal CF,278,SD Eibar,2014,38,None,None,SCHEDULED,None
+273942,2020-05-24,00:00:00,263,Deportivo Alavés,81,FC Barcelona,2014,38,None,None,SCHEDULED,None
+273943,2020-05-24,00:00:00,745,CD Leganés,86,Real Madrid CF,2014,38,None,None,SCHEDULED,None

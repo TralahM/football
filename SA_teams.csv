@@ -1,0 +1,21 @@
+betradar_id,league_id,name,short_name,crest_url,team_abbreviation
+98,2019,AC Milan,Milan,http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg,MIL
+99,2019,ACF Fiorentina,Fiorentina,https://upload.wikimedia.org/wikipedia/commons/7/79/ACF_Fiorentina.svg,FIO
+100,2019,AS Roma,Roma,http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg,ROM
+102,2019,Atalanta BC,Atalanta,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg,ATA
+103,2019,Bologna FC 1909,Bologna,http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg,BOL
+104,2019,Cagliari Calcio,Cagliari,http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg,CAG
+107,2019,Genoa CFC,Genoa,http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg,GEN
+108,2019,FC Internazionale Milano,Inter,https://upload.wikimedia.org/wikipedia/de/4/48/Internazionale_Milano_2014.svg,INT
+109,2019,Juventus FC,Juve,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg,JUV
+110,2019,SS Lazio,Lazio,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png,LAZ
+112,2019,Parma Calcio 1913,Parma,http://upload.wikimedia.org/wikipedia/de/e/e2/FC_Parma.svg,PAR
+113,2019,SSC Napoli,Napoli,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg,NAP
+115,2019,Udinese Calcio,Udinese,http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg,UDI
+449,2019,Brescia Calcio,Brescia,http://upload.wikimedia.org/wikipedia/de/2/23/Brescia_Calcio.svg,BRE
+450,2019,Hellas Verona FC,Verona,http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg,VER
+471,2019,US Sassuolo Calcio,Sassuolo,http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg,SAS
+584,2019,UC Sampdoria,Sampdoria,https://upload.wikimedia.org/wikipedia/de/9/9f/Sampdoria_Logo.png,SAM
+586,2019,Torino FC,Torino,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg,TOR
+1107,2019,SPAL 2013,SPAL 2013,https://upload.wikimedia.org/wikipedia/de/e/e7/SPAL_Ferrara.svg,SPA
+5890,2019,US Lecce,Lecce,https://upload.wikimedia.org/wikipedia/de/c/c7/US_Lecce.svg,LEC

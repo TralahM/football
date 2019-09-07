@@ -14,27 +14,26 @@ it to a MySQL Database on a remote Server....
 Useful for obtaining football data for applications, research, analytics, data
 science or even machine learning!.....
 """
-import os
-try:
-    os.system('pip install pandas numpy sqlalchemy MySQLdb')
-except Exception as e:
-    print(e)
 
-import pandas as pd
-from pandas.io import sql
-from sqlalchemy import create_engine
+# from pandas.io import sql
+import argparse
 import http.client
 import json
-import argparse
+from sqlalchemy import create_engine
+from time import sleep
+import pandas as pd
 
 API = '278236859e9f4dff94372b4af8037d31'
 DB_USER = 'root'
 DB_PASS = 'password'
 DB_HOST = 'localhost'
-DB_NAME = 'betmeback'
+DB_NAME = 'betmeback_engine'
 try:
     ENGINE = create_engine(
-        'mysql://{0}:{1}@{2}/{3}'.format(DB_USER, DB_PASS, DB_HOST, DB_NAME)
+        'mysql+mysqldb://{0}:{1}@{2}/{3}?charset=utf8mb4'.format(
+            DB_USER, DB_PASS, DB_HOST, DB_NAME),
+        encoding='utf-8',
+        convert_unicode=True,
     )
 except Exception as e:
     print(e)
@@ -42,19 +41,20 @@ except Exception as e:
 
 def update_db_teams(dataframe):
     with ENGINE.connect() as conn, conn.begin():
-        dataframe.to_sql('teams', conn, if_exists='replace')
-        dataframe.to_sql('allteams', conn, if_exists='replace')
+        dataframe.to_sql('allteams', conn,
+                         if_exists='replace', index_label='id')
 
 
 def update_db_schedules(dataframe):
     with ENGINE.connect() as conn, conn.begin():
-        dataframe.to_sql('schedules', conn, if_exists='replace')
-        dataframe.to_sql('fixtures', conn, if_exists='replace')
+        dataframe.to_sql('schedules', conn,
+                         if_exists='replace', index_label='id')
 
 
 def update_db_leagues(dataframe):
     with ENGINE.connect() as conn, conn.begin():
-        dataframe.to_sql('leagues', conn, if_exists='replace')
+        dataframe.to_sql('leagues', conn, if_exists='replace',
+                         index_label='id')
 
 
 def get_team_number(code):
@@ -70,7 +70,8 @@ def get_match_number(code):
 def league_list(Response):
     columns = ['league_id', 'caption', 'league', 'start_date', 'end_date',
                'number_of_teams', 'number_of_matches', 'current_matchday']
-    league_id = Response[id]
+    league_id = Response['id']
+    competition_code = Response['code']
     caption = Response['area']['name']+" "+Response['name']
     league = Response['code']
     start_date = Response['currentSeason']['startDate']
@@ -97,7 +98,7 @@ def team_list(Response):
         for team in teams:
             ln = list()
             ln.append(team["id"])
-            ln.append(competion_code)
+            ln.append(league_id)
             ln.append(team["name"])
             ln.append(team["shortName"])
             ln.append(team["crestUrl"])
@@ -112,7 +113,7 @@ def match_list(Response):
                'away_team_name', 'league_id', 'match_day', 'home_team_score', 'away_team_score', 'status', 'Winner']
 
     matches = Response['matches']
-    nmatches = len(matches)
+    # nmatches = len(matches)
     competition_code = Response['competition']['code']
     league_id = Response['competition']['id'].__str__()
     with open(competition_code+".csv", 'w') as cf:
@@ -142,14 +143,16 @@ def unify_teams_csv():
     team_csv = ["PL_teams.csv", "BL1_teams.csv",
                 "SA_teams.csv", "PD_teams.csv", "CL_teams.csv"]
     dfs = [pd.read_csv(fl) for fl in team_csv]
-    master_teams = pd.concat(dfs, axis=0)
+    master_teams = pd.concat(dfs, axis=0).reset_index(drop=True)
+    master_teams.to_csv("All_Teams.csv", index=False)
     return master_teams
 
 
 def unify_matches_csv():
     match_csv = ["PL.csv", "BL1.csv", "SA.csv", "PD.csv", "CL.csv"]
     dfs = [pd.read_csv(fl) for fl in match_csv]
-    master_fixtures = pd.concat(dfs, axis=0)
+    master_fixtures = pd.concat(dfs, axis=0).reset_index(drop=True)
+    master_fixtures.to_csv("All_Fixtures.csv", index=False)
     return master_fixtures
 
 
@@ -157,15 +160,18 @@ def unify_leagues_csv():
     match_csv = ["PL_leagues.csv", "BL1_leagues.csv",
                  "SA_leagues.csv", "PD_leagues.csv", "CL_leagues.csv"]
     dfs = [pd.read_csv(fl) for fl in match_csv]
-    master_fixtures = pd.concat(dfs, axis=0)
-    return master_fixtures
+    master_leagues = pd.concat(dfs, axis=0).reset_index(drop=True)
+    master_leagues.to_csv("All_Leagues.csv", index=False)
+    return master_leagues
 
 
 def generate_csvs():
     league_ids = ['PL', '2002', '2019', '2014', 'CL']
     for lid in league_ids:
         match_list(fixtures(lid))
+        sleep(30)
         team_list(teams(lid))
+        sleep(60)
         league_list(leagues(lid))
     print("done getting csv data")
 
@@ -202,7 +208,7 @@ if __name__ == '__main__':
     # Get the csvs first
     generate_csvs()
     # update database with master csv
-    update_db_schedules(unify_matches_csv())
-    update_db_teams(unify_teams_csv())
     update_db_leagues(unify_leagues_csv())
+    update_db_teams(unify_teams_csv())
+    update_db_schedules(unify_matches_csv())
     print("Done with Database Update...")

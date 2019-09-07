@@ -1,307 +1,307 @@
-Date,match_time,home_team_id,home_team_name,away_team_id,away_team_name,league_id,match_day,FTHG,FTAG,status,Winner
-2019-08-16,18:30:00,5,FC Bayern München,9,Hertha BSC,2002,1,2,2,FINISHED,DRAW
-2019-08-17,13:30:00,4,BV Borussia 09 Dortmund,16,FC Augsburg,2002,1,5,1,FINISHED,HOME_TEAM
-2019-08-17,13:30:00,12,SV Werder Bremen,24,TSV Fortuna 95 Düsseldorf,2002,1,1,3,FINISHED,AWAY_TEAM
-2019-08-17,13:30:00,3,Bayer 04 Leverkusen,29,SC Paderborn 07,2002,1,3,2,FINISHED,HOME_TEAM
-2019-08-17,13:30:00,17,SC Freiburg,15,1. FSV Mainz 05,2002,1,3,0,FINISHED,HOME_TEAM
-2019-08-17,13:30:00,11,VfL Wolfsburg,1,1. FC Köln,2002,1,2,1,FINISHED,HOME_TEAM
-2019-08-17,16:30:00,18,Borussia Mönchengladbach,6,FC Schalke 04,2002,1,0,0,FINISHED,DRAW
-2019-08-18,13:30:00,19,Eintracht Frankfurt,2,TSG 1899 Hoffenheim,2002,1,1,0,FINISHED,HOME_TEAM
-2019-08-18,16:00:00,28,1. FC Union Berlin,721,RB Leipzig,2002,1,0,4,FINISHED,AWAY_TEAM
-2019-08-23,18:30:00,1,1. FC Köln,4,BV Borussia 09 Dortmund,2002,2,1,3,FINISHED,AWAY_TEAM
-2019-08-24,13:30:00,24,TSV Fortuna 95 Düsseldorf,3,Bayer 04 Leverkusen,2002,2,1,3,FINISHED,AWAY_TEAM
-2019-08-24,13:30:00,15,1. FSV Mainz 05,18,Borussia Mönchengladbach,2002,2,1,3,FINISHED,AWAY_TEAM
-2019-08-24,13:30:00,2,TSG 1899 Hoffenheim,12,SV Werder Bremen,2002,2,3,2,FINISHED,HOME_TEAM
-2019-08-24,13:30:00,16,FC Augsburg,28,1. FC Union Berlin,2002,2,1,1,FINISHED,DRAW
-2019-08-24,13:30:00,29,SC Paderborn 07,17,SC Freiburg,2002,2,1,3,FINISHED,AWAY_TEAM
-2019-08-24,16:30:00,6,FC Schalke 04,5,FC Bayern München,2002,2,0,3,FINISHED,AWAY_TEAM
-2019-08-25,13:30:00,721,RB Leipzig,19,Eintracht Frankfurt,2002,2,2,1,FINISHED,HOME_TEAM
-2019-08-25,16:00:00,9,Hertha BSC,11,VfL Wolfsburg,2002,2,0,3,FINISHED,AWAY_TEAM
-2019-08-30,18:30:00,18,Borussia Mönchengladbach,721,RB Leipzig,2002,3,1,3,FINISHED,AWAY_TEAM
-2019-08-31,13:30:00,6,FC Schalke 04,9,Hertha BSC,2002,3,3,0,FINISHED,HOME_TEAM
-2019-08-31,13:30:00,5,FC Bayern München,15,1. FSV Mainz 05,2002,3,6,1,FINISHED,HOME_TEAM
-2019-08-31,13:30:00,3,Bayer 04 Leverkusen,2,TSG 1899 Hoffenheim,2002,3,0,0,FINISHED,DRAW
-2019-08-31,13:30:00,17,SC Freiburg,1,1. FC Köln,2002,3,1,2,FINISHED,AWAY_TEAM
-2019-08-31,13:30:00,11,VfL Wolfsburg,29,SC Paderborn 07,2002,3,1,1,FINISHED,DRAW
-2019-08-31,16:30:00,28,1. FC Union Berlin,4,BV Borussia 09 Dortmund,2002,3,3,1,FINISHED,HOME_TEAM
-2019-09-01,13:30:00,12,SV Werder Bremen,16,FC Augsburg,2002,3,3,2,FINISHED,HOME_TEAM
-2019-09-01,16:00:00,19,Eintracht Frankfurt,24,TSV Fortuna 95 Düsseldorf,2002,3,2,1,FINISHED,HOME_TEAM
-2019-09-13,18:30:00,24,TSV Fortuna 95 Düsseldorf,11,VfL Wolfsburg,2002,4,None,None,SCHEDULED,None
-2019-09-14,13:30:00,1,1. FC Köln,18,Borussia Mönchengladbach,2002,4,None,None,SCHEDULED,None
-2019-09-14,13:30:00,4,BV Borussia 09 Dortmund,3,Bayer 04 Leverkusen,2002,4,None,None,SCHEDULED,None
-2019-09-14,13:30:00,15,1. FSV Mainz 05,9,Hertha BSC,2002,4,None,None,SCHEDULED,None
-2019-09-14,13:30:00,16,FC Augsburg,19,Eintracht Frankfurt,2002,4,None,None,SCHEDULED,None
-2019-09-14,13:30:00,28,1. FC Union Berlin,12,SV Werder Bremen,2002,4,None,None,SCHEDULED,None
-2019-09-14,16:30:00,721,RB Leipzig,5,FC Bayern München,2002,4,None,None,SCHEDULED,None
-2019-09-15,13:30:00,2,TSG 1899 Hoffenheim,17,SC Freiburg,2002,4,None,None,SCHEDULED,None
-2019-09-15,16:00:00,29,SC Paderborn 07,6,FC Schalke 04,2002,4,None,None,SCHEDULED,None
-2019-09-20,18:30:00,6,FC Schalke 04,15,1. FSV Mainz 05,2002,5,None,None,SCHEDULED,None
-2019-09-21,13:30:00,9,Hertha BSC,29,SC Paderborn 07,2002,5,None,None,SCHEDULED,None
-2019-09-21,13:30:00,5,FC Bayern München,1,1. FC Köln,2002,5,None,None,SCHEDULED,None
-2019-09-21,13:30:00,3,Bayer 04 Leverkusen,28,1. FC Union Berlin,2002,5,None,None,SCHEDULED,None
-2019-09-21,13:30:00,17,SC Freiburg,16,FC Augsburg,2002,5,None,None,SCHEDULED,None
-2019-09-21,16:30:00,12,SV Werder Bremen,721,RB Leipzig,2002,5,None,None,SCHEDULED,None
-2019-09-22,13:30:00,18,Borussia Mönchengladbach,24,TSV Fortuna 95 Düsseldorf,2002,5,None,None,SCHEDULED,None
-2019-09-22,16:00:00,19,Eintracht Frankfurt,4,BV Borussia 09 Dortmund,2002,5,None,None,SCHEDULED,None
-2019-09-23,18:30:00,11,VfL Wolfsburg,2,TSG 1899 Hoffenheim,2002,5,None,None,SCHEDULED,None
-2019-09-27,18:30:00,28,1. FC Union Berlin,19,Eintracht Frankfurt,2002,6,None,None,SCHEDULED,None
-2019-09-28,13:30:00,15,1. FSV Mainz 05,11,VfL Wolfsburg,2002,6,None,None,SCHEDULED,None
-2019-09-28,13:30:00,2,TSG 1899 Hoffenheim,18,Borussia Mönchengladbach,2002,6,None,None,SCHEDULED,None
-2019-09-28,13:30:00,16,FC Augsburg,3,Bayer 04 Leverkusen,2002,6,None,None,SCHEDULED,None
-2019-09-28,13:30:00,29,SC Paderborn 07,5,FC Bayern München,2002,6,None,None,SCHEDULED,None
-2019-09-28,13:30:00,721,RB Leipzig,6,FC Schalke 04,2002,6,None,None,SCHEDULED,None
-2019-09-28,16:30:00,4,BV Borussia 09 Dortmund,12,SV Werder Bremen,2002,6,None,None,SCHEDULED,None
-2019-09-29,13:30:00,24,TSV Fortuna 95 Düsseldorf,17,SC Freiburg,2002,6,None,None,SCHEDULED,None
-2019-09-29,16:00:00,1,1. FC Köln,9,Hertha BSC,2002,6,None,None,SCHEDULED,None
-2019-10-04,18:30:00,9,Hertha BSC,24,TSV Fortuna 95 Düsseldorf,2002,7,None,None,SCHEDULED,None
-2019-10-05,13:30:00,5,FC Bayern München,2,TSG 1899 Hoffenheim,2002,7,None,None,SCHEDULED,None
-2019-10-05,13:30:00,3,Bayer 04 Leverkusen,721,RB Leipzig,2002,7,None,None,SCHEDULED,None
-2019-10-05,13:30:00,17,SC Freiburg,4,BV Borussia 09 Dortmund,2002,7,None,None,SCHEDULED,None
-2019-10-05,13:30:00,29,SC Paderborn 07,15,1. FSV Mainz 05,2002,7,None,None,SCHEDULED,None
-2019-10-05,16:30:00,6,FC Schalke 04,1,1. FC Köln,2002,7,None,None,SCHEDULED,None
-2019-10-06,11:30:00,18,Borussia Mönchengladbach,16,FC Augsburg,2002,7,None,None,SCHEDULED,None
-2019-10-06,13:30:00,11,VfL Wolfsburg,28,1. FC Union Berlin,2002,7,None,None,SCHEDULED,None
-2019-10-06,16:00:00,19,Eintracht Frankfurt,12,SV Werder Bremen,2002,7,None,None,SCHEDULED,None
-2019-10-18,18:30:00,19,Eintracht Frankfurt,3,Bayer 04 Leverkusen,2002,8,None,None,SCHEDULED,None
-2019-10-19,13:30:00,12,SV Werder Bremen,9,Hertha BSC,2002,8,None,None,SCHEDULED,None
-2019-10-19,13:30:00,24,TSV Fortuna 95 Düsseldorf,15,1. FSV Mainz 05,2002,8,None,None,SCHEDULED,None
-2019-10-19,13:30:00,16,FC Augsburg,5,FC Bayern München,2002,8,None,None,SCHEDULED,None
-2019-10-19,13:30:00,28,1. FC Union Berlin,17,SC Freiburg,2002,8,None,None,SCHEDULED,None
-2019-10-19,13:30:00,721,RB Leipzig,11,VfL Wolfsburg,2002,8,None,None,SCHEDULED,None
-2019-10-19,16:30:00,4,BV Borussia 09 Dortmund,18,Borussia Mönchengladbach,2002,8,None,None,SCHEDULED,None
-2019-10-20,13:30:00,1,1. FC Köln,29,SC Paderborn 07,2002,8,None,None,SCHEDULED,None
-2019-10-20,16:00:00,2,TSG 1899 Hoffenheim,6,FC Schalke 04,2002,8,None,None,SCHEDULED,None
-2019-10-25,18:30:00,15,1. FSV Mainz 05,1,1. FC Köln,2002,9,None,None,SCHEDULED,None
-2019-10-26,13:30:00,6,FC Schalke 04,4,BV Borussia 09 Dortmund,2002,9,None,None,SCHEDULED,None
-2019-10-26,13:30:00,9,Hertha BSC,2,TSG 1899 Hoffenheim,2002,9,None,None,SCHEDULED,None
-2019-10-26,13:30:00,5,FC Bayern München,28,1. FC Union Berlin,2002,9,None,None,SCHEDULED,None
-2019-10-26,13:30:00,17,SC Freiburg,721,RB Leipzig,2002,9,None,None,SCHEDULED,None
-2019-10-26,13:30:00,29,SC Paderborn 07,24,TSV Fortuna 95 Düsseldorf,2002,9,None,None,SCHEDULED,None
-2019-10-26,16:30:00,3,Bayer 04 Leverkusen,12,SV Werder Bremen,2002,9,None,None,SCHEDULED,None
-2019-10-27,14:30:00,11,VfL Wolfsburg,16,FC Augsburg,2002,9,None,None,SCHEDULED,None
-2019-10-27,17:00:00,18,Borussia Mönchengladbach,19,Eintracht Frankfurt,2002,9,None,None,SCHEDULED,None
-2019-11-01,19:30:00,2,TSG 1899 Hoffenheim,29,SC Paderborn 07,2002,10,None,None,SCHEDULED,None
-2019-11-02,14:30:00,19,Eintracht Frankfurt,5,FC Bayern München,2002,10,None,None,SCHEDULED,None
-2019-11-02,14:30:00,4,BV Borussia 09 Dortmund,11,VfL Wolfsburg,2002,10,None,None,SCHEDULED,None
-2019-11-02,14:30:00,12,SV Werder Bremen,17,SC Freiburg,2002,10,None,None,SCHEDULED,None
-2019-11-02,14:30:00,3,Bayer 04 Leverkusen,18,Borussia Mönchengladbach,2002,10,None,None,SCHEDULED,None
-2019-11-02,14:30:00,721,RB Leipzig,15,1. FSV Mainz 05,2002,10,None,None,SCHEDULED,None
-2019-11-02,17:30:00,28,1. FC Union Berlin,9,Hertha BSC,2002,10,None,None,SCHEDULED,None
-2019-11-03,14:30:00,24,TSV Fortuna 95 Düsseldorf,1,1. FC Köln,2002,10,None,None,SCHEDULED,None
-2019-11-03,17:00:00,16,FC Augsburg,6,FC Schalke 04,2002,10,None,None,SCHEDULED,None
-2019-11-08,19:30:00,1,1. FC Köln,2,TSG 1899 Hoffenheim,2002,11,None,None,SCHEDULED,None
-2019-11-09,14:30:00,6,FC Schalke 04,24,TSV Fortuna 95 Düsseldorf,2002,11,None,None,SCHEDULED,None
-2019-11-09,14:30:00,9,Hertha BSC,721,RB Leipzig,2002,11,None,None,SCHEDULED,None
-2019-11-09,14:30:00,15,1. FSV Mainz 05,28,1. FC Union Berlin,2002,11,None,None,SCHEDULED,None
-2019-11-09,14:30:00,29,SC Paderborn 07,16,FC Augsburg,2002,11,None,None,SCHEDULED,None
-2019-11-09,17:30:00,5,FC Bayern München,4,BV Borussia 09 Dortmund,2002,11,None,None,SCHEDULED,None
-2019-11-10,12:30:00,18,Borussia Mönchengladbach,12,SV Werder Bremen,2002,11,None,None,SCHEDULED,None
-2019-11-10,14:30:00,11,VfL Wolfsburg,3,Bayer 04 Leverkusen,2002,11,None,None,SCHEDULED,None
-2019-11-10,17:00:00,17,SC Freiburg,19,Eintracht Frankfurt,2002,11,None,None,SCHEDULED,None
-2019-11-22,19:30:00,4,BV Borussia 09 Dortmund,29,SC Paderborn 07,2002,12,None,None,SCHEDULED,None
-2019-11-23,14:30:00,19,Eintracht Frankfurt,11,VfL Wolfsburg,2002,12,None,None,SCHEDULED,None
-2019-11-23,14:30:00,12,SV Werder Bremen,6,FC Schalke 04,2002,12,None,None,SCHEDULED,None
-2019-11-23,14:30:00,24,TSV Fortuna 95 Düsseldorf,5,FC Bayern München,2002,12,None,None,SCHEDULED,None
-2019-11-23,14:30:00,3,Bayer 04 Leverkusen,17,SC Freiburg,2002,12,None,None,SCHEDULED,None
-2019-11-23,14:30:00,28,1. FC Union Berlin,18,Borussia Mönchengladbach,2002,12,None,None,SCHEDULED,None
-2019-11-23,17:30:00,721,RB Leipzig,1,1. FC Köln,2002,12,None,None,SCHEDULED,None
-2019-11-24,14:30:00,16,FC Augsburg,9,Hertha BSC,2002,12,None,None,SCHEDULED,None
-2019-11-24,17:00:00,2,TSG 1899 Hoffenheim,15,1. FSV Mainz 05,2002,12,None,None,SCHEDULED,None
-2019-11-29,19:30:00,6,FC Schalke 04,28,1. FC Union Berlin,2002,13,None,None,SCHEDULED,None
-2019-11-30,14:30:00,1,1. FC Köln,16,FC Augsburg,2002,13,None,None,SCHEDULED,None
-2019-11-30,14:30:00,9,Hertha BSC,4,BV Borussia 09 Dortmund,2002,13,None,None,SCHEDULED,None
-2019-11-30,14:30:00,2,TSG 1899 Hoffenheim,24,TSV Fortuna 95 Düsseldorf,2002,13,None,None,SCHEDULED,None
-2019-11-30,14:30:00,29,SC Paderborn 07,721,RB Leipzig,2002,13,None,None,SCHEDULED,None
-2019-11-30,17:30:00,5,FC Bayern München,3,Bayer 04 Leverkusen,2002,13,None,None,SCHEDULED,None
-2019-12-01,14:30:00,18,Borussia Mönchengladbach,17,SC Freiburg,2002,13,None,None,SCHEDULED,None
-2019-12-01,17:00:00,11,VfL Wolfsburg,12,SV Werder Bremen,2002,13,None,None,SCHEDULED,None
-2019-12-02,19:30:00,15,1. FSV Mainz 05,19,Eintracht Frankfurt,2002,13,None,None,SCHEDULED,None
-2019-12-07,00:00:00,19,Eintracht Frankfurt,9,Hertha BSC,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,4,BV Borussia 09 Dortmund,24,TSV Fortuna 95 Düsseldorf,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,12,SV Werder Bremen,29,SC Paderborn 07,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,18,Borussia Mönchengladbach,5,FC Bayern München,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,3,Bayer 04 Leverkusen,6,FC Schalke 04,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,17,SC Freiburg,11,VfL Wolfsburg,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,16,FC Augsburg,15,1. FSV Mainz 05,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,28,1. FC Union Berlin,1,1. FC Köln,2002,14,None,None,SCHEDULED,None
-2019-12-07,00:00:00,721,RB Leipzig,2,TSG 1899 Hoffenheim,2002,14,None,None,SCHEDULED,None
-2019-12-14,00:00:00,1,1. FC Köln,3,Bayer 04 Leverkusen,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,6,FC Schalke 04,19,Eintracht Frankfurt,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,9,Hertha BSC,17,SC Freiburg,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,5,FC Bayern München,12,SV Werder Bremen,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,24,TSV Fortuna 95 Düsseldorf,721,RB Leipzig,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,11,VfL Wolfsburg,18,Borussia Mönchengladbach,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,15,1. FSV Mainz 05,4,BV Borussia 09 Dortmund,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,2,TSG 1899 Hoffenheim,16,FC Augsburg,2002,15,None,None,SCHEDULED,None
-2019-12-14,00:00:00,29,SC Paderborn 07,28,1. FC Union Berlin,2002,15,None,None,SCHEDULED,None
-2019-12-18,00:00:00,19,Eintracht Frankfurt,1,1. FC Köln,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,4,BV Borussia 09 Dortmund,721,RB Leipzig,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,12,SV Werder Bremen,15,1. FSV Mainz 05,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,18,Borussia Mönchengladbach,29,SC Paderborn 07,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,3,Bayer 04 Leverkusen,9,Hertha BSC,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,17,SC Freiburg,5,FC Bayern München,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,11,VfL Wolfsburg,6,FC Schalke 04,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,16,FC Augsburg,24,TSV Fortuna 95 Düsseldorf,2002,16,None,None,SCHEDULED,None
-2019-12-18,00:00:00,28,1. FC Union Berlin,2,TSG 1899 Hoffenheim,2002,16,None,None,SCHEDULED,None
-2019-12-21,00:00:00,1,1. FC Köln,12,SV Werder Bremen,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,6,FC Schalke 04,17,SC Freiburg,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,9,Hertha BSC,18,Borussia Mönchengladbach,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,5,FC Bayern München,11,VfL Wolfsburg,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,24,TSV Fortuna 95 Düsseldorf,28,1. FC Union Berlin,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,15,1. FSV Mainz 05,3,Bayer 04 Leverkusen,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,2,TSG 1899 Hoffenheim,4,BV Borussia 09 Dortmund,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,29,SC Paderborn 07,19,Eintracht Frankfurt,2002,17,None,None,SCHEDULED,None
-2019-12-21,00:00:00,721,RB Leipzig,16,FC Augsburg,2002,17,None,None,SCHEDULED,None
-2020-01-18,00:00:00,1,1. FC Köln,11,VfL Wolfsburg,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,6,FC Schalke 04,18,Borussia Mönchengladbach,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,9,Hertha BSC,5,FC Bayern München,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,24,TSV Fortuna 95 Düsseldorf,12,SV Werder Bremen,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,15,1. FSV Mainz 05,17,SC Freiburg,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,2,TSG 1899 Hoffenheim,19,Eintracht Frankfurt,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,16,FC Augsburg,4,BV Borussia 09 Dortmund,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,29,SC Paderborn 07,3,Bayer 04 Leverkusen,2002,18,None,None,SCHEDULED,None
-2020-01-18,00:00:00,721,RB Leipzig,28,1. FC Union Berlin,2002,18,None,None,SCHEDULED,None
-2020-01-25,00:00:00,19,Eintracht Frankfurt,721,RB Leipzig,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,4,BV Borussia 09 Dortmund,1,1. FC Köln,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,12,SV Werder Bremen,2,TSG 1899 Hoffenheim,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,18,Borussia Mönchengladbach,15,1. FSV Mainz 05,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,5,FC Bayern München,6,FC Schalke 04,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,3,Bayer 04 Leverkusen,24,TSV Fortuna 95 Düsseldorf,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,17,SC Freiburg,29,SC Paderborn 07,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,11,VfL Wolfsburg,9,Hertha BSC,2002,19,None,None,SCHEDULED,None
-2020-01-25,00:00:00,28,1. FC Union Berlin,16,FC Augsburg,2002,19,None,None,SCHEDULED,None
-2020-02-01,00:00:00,1,1. FC Köln,17,SC Freiburg,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,4,BV Borussia 09 Dortmund,28,1. FC Union Berlin,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,9,Hertha BSC,6,FC Schalke 04,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,24,TSV Fortuna 95 Düsseldorf,19,Eintracht Frankfurt,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,15,1. FSV Mainz 05,5,FC Bayern München,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,2,TSG 1899 Hoffenheim,3,Bayer 04 Leverkusen,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,16,FC Augsburg,12,SV Werder Bremen,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,29,SC Paderborn 07,11,VfL Wolfsburg,2002,20,None,None,SCHEDULED,None
-2020-02-01,00:00:00,721,RB Leipzig,18,Borussia Mönchengladbach,2002,20,None,None,SCHEDULED,None
-2020-02-08,00:00:00,19,Eintracht Frankfurt,16,FC Augsburg,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,6,FC Schalke 04,29,SC Paderborn 07,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,12,SV Werder Bremen,28,1. FC Union Berlin,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,9,Hertha BSC,15,1. FSV Mainz 05,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,18,Borussia Mönchengladbach,1,1. FC Köln,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,5,FC Bayern München,721,RB Leipzig,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,3,Bayer 04 Leverkusen,4,BV Borussia 09 Dortmund,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,17,SC Freiburg,2,TSG 1899 Hoffenheim,2002,21,None,None,SCHEDULED,None
-2020-02-08,00:00:00,11,VfL Wolfsburg,24,TSV Fortuna 95 Düsseldorf,2002,21,None,None,SCHEDULED,None
-2020-02-15,00:00:00,1,1. FC Köln,5,FC Bayern München,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,4,BV Borussia 09 Dortmund,19,Eintracht Frankfurt,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,24,TSV Fortuna 95 Düsseldorf,18,Borussia Mönchengladbach,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,15,1. FSV Mainz 05,6,FC Schalke 04,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,2,TSG 1899 Hoffenheim,11,VfL Wolfsburg,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,16,FC Augsburg,17,SC Freiburg,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,28,1. FC Union Berlin,3,Bayer 04 Leverkusen,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,29,SC Paderborn 07,9,Hertha BSC,2002,22,None,None,SCHEDULED,None
-2020-02-15,00:00:00,721,RB Leipzig,12,SV Werder Bremen,2002,22,None,None,SCHEDULED,None
-2020-02-22,00:00:00,3,Bayer 04 Leverkusen,16,FC Augsburg,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,17,SC Freiburg,24,TSV Fortuna 95 Düsseldorf,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,11,VfL Wolfsburg,15,1. FSV Mainz 05,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,19,Eintracht Frankfurt,28,1. FC Union Berlin,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,6,FC Schalke 04,721,RB Leipzig,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,12,SV Werder Bremen,4,BV Borussia 09 Dortmund,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,9,Hertha BSC,1,1. FC Köln,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,18,Borussia Mönchengladbach,2,TSG 1899 Hoffenheim,2002,23,None,None,SCHEDULED,None
-2020-02-22,00:00:00,5,FC Bayern München,29,SC Paderborn 07,2002,23,None,None,SCHEDULED,None
-2020-02-29,00:00:00,1,1. FC Köln,6,FC Schalke 04,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,4,BV Borussia 09 Dortmund,17,SC Freiburg,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,12,SV Werder Bremen,19,Eintracht Frankfurt,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,24,TSV Fortuna 95 Düsseldorf,9,Hertha BSC,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,15,1. FSV Mainz 05,29,SC Paderborn 07,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,2,TSG 1899 Hoffenheim,5,FC Bayern München,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,16,FC Augsburg,18,Borussia Mönchengladbach,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,28,1. FC Union Berlin,11,VfL Wolfsburg,2002,24,None,None,SCHEDULED,None
-2020-02-29,00:00:00,721,RB Leipzig,3,Bayer 04 Leverkusen,2002,24,None,None,SCHEDULED,None
-2020-03-07,00:00:00,6,FC Schalke 04,2,TSG 1899 Hoffenheim,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,9,Hertha BSC,12,SV Werder Bremen,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,18,Borussia Mönchengladbach,4,BV Borussia 09 Dortmund,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,5,FC Bayern München,16,FC Augsburg,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,3,Bayer 04 Leverkusen,19,Eintracht Frankfurt,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,17,SC Freiburg,28,1. FC Union Berlin,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,11,VfL Wolfsburg,721,RB Leipzig,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,15,1. FSV Mainz 05,24,TSV Fortuna 95 Düsseldorf,2002,25,None,None,SCHEDULED,None
-2020-03-07,00:00:00,29,SC Paderborn 07,1,1. FC Köln,2002,25,None,None,SCHEDULED,None
-2020-03-14,00:00:00,1,1. FC Köln,15,1. FSV Mainz 05,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,19,Eintracht Frankfurt,18,Borussia Mönchengladbach,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,4,BV Borussia 09 Dortmund,6,FC Schalke 04,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,12,SV Werder Bremen,3,Bayer 04 Leverkusen,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,24,TSV Fortuna 95 Düsseldorf,29,SC Paderborn 07,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,2,TSG 1899 Hoffenheim,9,Hertha BSC,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,16,FC Augsburg,11,VfL Wolfsburg,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,28,1. FC Union Berlin,5,FC Bayern München,2002,26,None,None,SCHEDULED,None
-2020-03-14,00:00:00,721,RB Leipzig,17,SC Freiburg,2002,26,None,None,SCHEDULED,None
-2020-03-21,00:00:00,1,1. FC Köln,24,TSV Fortuna 95 Düsseldorf,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,6,FC Schalke 04,16,FC Augsburg,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,9,Hertha BSC,28,1. FC Union Berlin,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,18,Borussia Mönchengladbach,3,Bayer 04 Leverkusen,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,5,FC Bayern München,19,Eintracht Frankfurt,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,17,SC Freiburg,12,SV Werder Bremen,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,11,VfL Wolfsburg,4,BV Borussia 09 Dortmund,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,15,1. FSV Mainz 05,721,RB Leipzig,2002,27,None,None,SCHEDULED,None
-2020-03-21,00:00:00,29,SC Paderborn 07,2,TSG 1899 Hoffenheim,2002,27,None,None,SCHEDULED,None
-2020-04-04,00:00:00,19,Eintracht Frankfurt,17,SC Freiburg,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,4,BV Borussia 09 Dortmund,5,FC Bayern München,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,12,SV Werder Bremen,18,Borussia Mönchengladbach,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,24,TSV Fortuna 95 Düsseldorf,6,FC Schalke 04,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,3,Bayer 04 Leverkusen,11,VfL Wolfsburg,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,2,TSG 1899 Hoffenheim,1,1. FC Köln,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,16,FC Augsburg,29,SC Paderborn 07,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,28,1. FC Union Berlin,15,1. FSV Mainz 05,2002,28,None,None,SCHEDULED,None
-2020-04-04,00:00:00,721,RB Leipzig,9,Hertha BSC,2002,28,None,None,SCHEDULED,None
-2020-04-11,00:00:00,1,1. FC Köln,721,RB Leipzig,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,6,FC Schalke 04,12,SV Werder Bremen,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,9,Hertha BSC,16,FC Augsburg,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,18,Borussia Mönchengladbach,28,1. FC Union Berlin,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,5,FC Bayern München,24,TSV Fortuna 95 Düsseldorf,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,17,SC Freiburg,3,Bayer 04 Leverkusen,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,11,VfL Wolfsburg,19,Eintracht Frankfurt,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,15,1. FSV Mainz 05,2,TSG 1899 Hoffenheim,2002,29,None,None,SCHEDULED,None
-2020-04-11,00:00:00,29,SC Paderborn 07,4,BV Borussia 09 Dortmund,2002,29,None,None,SCHEDULED,None
-2020-04-18,00:00:00,19,Eintracht Frankfurt,15,1. FSV Mainz 05,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,4,BV Borussia 09 Dortmund,9,Hertha BSC,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,12,SV Werder Bremen,11,VfL Wolfsburg,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,24,TSV Fortuna 95 Düsseldorf,2,TSG 1899 Hoffenheim,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,3,Bayer 04 Leverkusen,5,FC Bayern München,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,17,SC Freiburg,18,Borussia Mönchengladbach,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,16,FC Augsburg,1,1. FC Köln,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,28,1. FC Union Berlin,6,FC Schalke 04,2002,30,None,None,SCHEDULED,None
-2020-04-18,00:00:00,721,RB Leipzig,29,SC Paderborn 07,2002,30,None,None,SCHEDULED,None
-2020-04-25,00:00:00,1,1. FC Köln,28,1. FC Union Berlin,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,6,FC Schalke 04,3,Bayer 04 Leverkusen,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,9,Hertha BSC,19,Eintracht Frankfurt,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,5,FC Bayern München,18,Borussia Mönchengladbach,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,24,TSV Fortuna 95 Düsseldorf,4,BV Borussia 09 Dortmund,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,11,VfL Wolfsburg,17,SC Freiburg,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,15,1. FSV Mainz 05,16,FC Augsburg,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,2,TSG 1899 Hoffenheim,721,RB Leipzig,2002,31,None,None,SCHEDULED,None
-2020-04-25,00:00:00,29,SC Paderborn 07,12,SV Werder Bremen,2002,31,None,None,SCHEDULED,None
-2020-05-02,00:00:00,19,Eintracht Frankfurt,6,FC Schalke 04,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,4,BV Borussia 09 Dortmund,15,1. FSV Mainz 05,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,12,SV Werder Bremen,5,FC Bayern München,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,18,Borussia Mönchengladbach,11,VfL Wolfsburg,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,3,Bayer 04 Leverkusen,1,1. FC Köln,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,17,SC Freiburg,9,Hertha BSC,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,16,FC Augsburg,2,TSG 1899 Hoffenheim,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,28,1. FC Union Berlin,29,SC Paderborn 07,2002,32,None,None,SCHEDULED,None
-2020-05-02,00:00:00,721,RB Leipzig,24,TSV Fortuna 95 Düsseldorf,2002,32,None,None,SCHEDULED,None
-2020-05-09,00:00:00,1,1. FC Köln,19,Eintracht Frankfurt,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,6,FC Schalke 04,11,VfL Wolfsburg,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,9,Hertha BSC,3,Bayer 04 Leverkusen,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,5,FC Bayern München,17,SC Freiburg,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,24,TSV Fortuna 95 Düsseldorf,16,FC Augsburg,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,15,1. FSV Mainz 05,12,SV Werder Bremen,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,2,TSG 1899 Hoffenheim,28,1. FC Union Berlin,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,29,SC Paderborn 07,18,Borussia Mönchengladbach,2002,33,None,None,SCHEDULED,None
-2020-05-09,00:00:00,721,RB Leipzig,4,BV Borussia 09 Dortmund,2002,33,None,None,SCHEDULED,None
-2020-05-16,00:00:00,19,Eintracht Frankfurt,29,SC Paderborn 07,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,4,BV Borussia 09 Dortmund,2,TSG 1899 Hoffenheim,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,12,SV Werder Bremen,1,1. FC Köln,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,18,Borussia Mönchengladbach,9,Hertha BSC,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,3,Bayer 04 Leverkusen,15,1. FSV Mainz 05,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,17,SC Freiburg,6,FC Schalke 04,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,11,VfL Wolfsburg,5,FC Bayern München,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,16,FC Augsburg,721,RB Leipzig,2002,34,None,None,SCHEDULED,None
-2020-05-16,00:00:00,28,1. FC Union Berlin,24,TSV Fortuna 95 Düsseldorf,2002,34,None,None,SCHEDULED,None
+match_id,match_date,match_time,home_team_id,home_team_name,away_team_id,away_team_name,league_id,match_day,home_team_score,away_team_score,status,Winner
+271412,2019-08-16,18:30:00,5,FC Bayern München,9,Hertha BSC,2002,1,2,2,FINISHED,DRAW
+271414,2019-08-17,13:30:00,4,BV Borussia 09 Dortmund,16,FC Augsburg,2002,1,5,1,FINISHED,HOME_TEAM
+271415,2019-08-17,13:30:00,12,SV Werder Bremen,24,TSV Fortuna 95 Düsseldorf,2002,1,1,3,FINISHED,AWAY_TEAM
+271417,2019-08-17,13:30:00,3,Bayer 04 Leverkusen,29,SC Paderborn 07,2002,1,3,2,FINISHED,HOME_TEAM
+271418,2019-08-17,13:30:00,17,SC Freiburg,15,1. FSV Mainz 05,2002,1,3,0,FINISHED,HOME_TEAM
+271419,2019-08-17,13:30:00,11,VfL Wolfsburg,1,1. FC Köln,2002,1,2,1,FINISHED,HOME_TEAM
+271416,2019-08-17,16:30:00,18,Borussia Mönchengladbach,6,FC Schalke 04,2002,1,0,0,FINISHED,DRAW
+271413,2019-08-18,13:30:00,19,Eintracht Frankfurt,2,TSG 1899 Hoffenheim,2002,1,1,0,FINISHED,HOME_TEAM
+271420,2019-08-18,16:00:00,28,1. FC Union Berlin,721,RB Leipzig,2002,1,0,4,FINISHED,AWAY_TEAM
+271421,2019-08-23,18:30:00,1,1. FC Köln,4,BV Borussia 09 Dortmund,2002,2,1,3,FINISHED,AWAY_TEAM
+271424,2019-08-24,13:30:00,24,TSV Fortuna 95 Düsseldorf,3,Bayer 04 Leverkusen,2002,2,1,3,FINISHED,AWAY_TEAM
+271425,2019-08-24,13:30:00,15,1. FSV Mainz 05,18,Borussia Mönchengladbach,2002,2,1,3,FINISHED,AWAY_TEAM
+271426,2019-08-24,13:30:00,2,TSG 1899 Hoffenheim,12,SV Werder Bremen,2002,2,3,2,FINISHED,HOME_TEAM
+271427,2019-08-24,13:30:00,16,FC Augsburg,28,1. FC Union Berlin,2002,2,1,1,FINISHED,DRAW
+271428,2019-08-24,13:30:00,29,SC Paderborn 07,17,SC Freiburg,2002,2,1,3,FINISHED,AWAY_TEAM
+271422,2019-08-24,16:30:00,6,FC Schalke 04,5,FC Bayern München,2002,2,0,3,FINISHED,AWAY_TEAM
+271429,2019-08-25,13:30:00,721,RB Leipzig,19,Eintracht Frankfurt,2002,2,2,1,FINISHED,HOME_TEAM
+271423,2019-08-25,16:00:00,9,Hertha BSC,11,VfL Wolfsburg,2002,2,0,3,FINISHED,AWAY_TEAM
+271433,2019-08-30,18:30:00,18,Borussia Mönchengladbach,721,RB Leipzig,2002,3,1,3,FINISHED,AWAY_TEAM
+271431,2019-08-31,13:30:00,6,FC Schalke 04,9,Hertha BSC,2002,3,3,0,FINISHED,HOME_TEAM
+271434,2019-08-31,13:30:00,5,FC Bayern München,15,1. FSV Mainz 05,2002,3,6,1,FINISHED,HOME_TEAM
+271435,2019-08-31,13:30:00,3,Bayer 04 Leverkusen,2,TSG 1899 Hoffenheim,2002,3,0,0,FINISHED,DRAW
+271436,2019-08-31,13:30:00,17,SC Freiburg,1,1. FC Köln,2002,3,1,2,FINISHED,AWAY_TEAM
+271437,2019-08-31,13:30:00,11,VfL Wolfsburg,29,SC Paderborn 07,2002,3,1,1,FINISHED,DRAW
+271438,2019-08-31,16:30:00,28,1. FC Union Berlin,4,BV Borussia 09 Dortmund,2002,3,3,1,FINISHED,HOME_TEAM
+271432,2019-09-01,13:30:00,12,SV Werder Bremen,16,FC Augsburg,2002,3,3,2,FINISHED,HOME_TEAM
+271430,2019-09-01,16:00:00,19,Eintracht Frankfurt,24,TSV Fortuna 95 Düsseldorf,2002,3,2,1,FINISHED,HOME_TEAM
+271441,2019-09-13,18:30:00,24,TSV Fortuna 95 Düsseldorf,11,VfL Wolfsburg,2002,4,None,None,SCHEDULED,None
+271439,2019-09-14,13:30:00,1,1. FC Köln,18,Borussia Mönchengladbach,2002,4,None,None,SCHEDULED,None
+271440,2019-09-14,13:30:00,4,BV Borussia 09 Dortmund,3,Bayer 04 Leverkusen,2002,4,None,None,SCHEDULED,None
+271442,2019-09-14,13:30:00,15,1. FSV Mainz 05,9,Hertha BSC,2002,4,None,None,SCHEDULED,None
+271444,2019-09-14,13:30:00,16,FC Augsburg,19,Eintracht Frankfurt,2002,4,None,None,SCHEDULED,None
+271445,2019-09-14,13:30:00,28,1. FC Union Berlin,12,SV Werder Bremen,2002,4,None,None,SCHEDULED,None
+271447,2019-09-14,16:30:00,721,RB Leipzig,5,FC Bayern München,2002,4,None,None,SCHEDULED,None
+271443,2019-09-15,13:30:00,2,TSG 1899 Hoffenheim,17,SC Freiburg,2002,4,None,None,SCHEDULED,None
+271446,2019-09-15,16:00:00,29,SC Paderborn 07,6,FC Schalke 04,2002,4,None,None,SCHEDULED,None
+271449,2019-09-20,18:30:00,6,FC Schalke 04,15,1. FSV Mainz 05,2002,5,None,None,SCHEDULED,None
+271451,2019-09-21,13:30:00,9,Hertha BSC,29,SC Paderborn 07,2002,5,None,None,SCHEDULED,None
+271453,2019-09-21,13:30:00,5,FC Bayern München,1,1. FC Köln,2002,5,None,None,SCHEDULED,None
+271454,2019-09-21,13:30:00,3,Bayer 04 Leverkusen,28,1. FC Union Berlin,2002,5,None,None,SCHEDULED,None
+271455,2019-09-21,13:30:00,17,SC Freiburg,16,FC Augsburg,2002,5,None,None,SCHEDULED,None
+271450,2019-09-21,16:30:00,12,SV Werder Bremen,721,RB Leipzig,2002,5,None,None,SCHEDULED,None
+271452,2019-09-22,13:30:00,18,Borussia Mönchengladbach,24,TSV Fortuna 95 Düsseldorf,2002,5,None,None,SCHEDULED,None
+271448,2019-09-22,16:00:00,19,Eintracht Frankfurt,4,BV Borussia 09 Dortmund,2002,5,None,None,SCHEDULED,None
+271456,2019-09-23,18:30:00,11,VfL Wolfsburg,2,TSG 1899 Hoffenheim,2002,5,None,None,SCHEDULED,None
+271463,2019-09-27,18:30:00,28,1. FC Union Berlin,19,Eintracht Frankfurt,2002,6,None,None,SCHEDULED,None
+271460,2019-09-28,13:30:00,15,1. FSV Mainz 05,11,VfL Wolfsburg,2002,6,None,None,SCHEDULED,None
+271461,2019-09-28,13:30:00,2,TSG 1899 Hoffenheim,18,Borussia Mönchengladbach,2002,6,None,None,SCHEDULED,None
+271462,2019-09-28,13:30:00,16,FC Augsburg,3,Bayer 04 Leverkusen,2002,6,None,None,SCHEDULED,None
+271464,2019-09-28,13:30:00,29,SC Paderborn 07,5,FC Bayern München,2002,6,None,None,SCHEDULED,None
+271465,2019-09-28,13:30:00,721,RB Leipzig,6,FC Schalke 04,2002,6,None,None,SCHEDULED,None
+271458,2019-09-28,16:30:00,4,BV Borussia 09 Dortmund,12,SV Werder Bremen,2002,6,None,None,SCHEDULED,None
+271459,2019-09-29,13:30:00,24,TSV Fortuna 95 Düsseldorf,17,SC Freiburg,2002,6,None,None,SCHEDULED,None
+271457,2019-09-29,16:00:00,1,1. FC Köln,9,Hertha BSC,2002,6,None,None,SCHEDULED,None
+271468,2019-10-04,18:30:00,9,Hertha BSC,24,TSV Fortuna 95 Düsseldorf,2002,7,None,None,SCHEDULED,None
+271470,2019-10-05,13:30:00,5,FC Bayern München,2,TSG 1899 Hoffenheim,2002,7,None,None,SCHEDULED,None
+271471,2019-10-05,13:30:00,3,Bayer 04 Leverkusen,721,RB Leipzig,2002,7,None,None,SCHEDULED,None
+271472,2019-10-05,13:30:00,17,SC Freiburg,4,BV Borussia 09 Dortmund,2002,7,None,None,SCHEDULED,None
+271474,2019-10-05,13:30:00,29,SC Paderborn 07,15,1. FSV Mainz 05,2002,7,None,None,SCHEDULED,None
+271467,2019-10-05,16:30:00,6,FC Schalke 04,1,1. FC Köln,2002,7,None,None,SCHEDULED,None
+271469,2019-10-06,11:30:00,18,Borussia Mönchengladbach,16,FC Augsburg,2002,7,None,None,SCHEDULED,None
+271473,2019-10-06,13:30:00,11,VfL Wolfsburg,28,1. FC Union Berlin,2002,7,None,None,SCHEDULED,None
+271466,2019-10-06,16:00:00,19,Eintracht Frankfurt,12,SV Werder Bremen,2002,7,None,None,SCHEDULED,None
+271476,2019-10-18,18:30:00,19,Eintracht Frankfurt,3,Bayer 04 Leverkusen,2002,8,None,None,SCHEDULED,None
+271478,2019-10-19,13:30:00,12,SV Werder Bremen,9,Hertha BSC,2002,8,None,None,SCHEDULED,None
+271479,2019-10-19,13:30:00,24,TSV Fortuna 95 Düsseldorf,15,1. FSV Mainz 05,2002,8,None,None,SCHEDULED,None
+271481,2019-10-19,13:30:00,16,FC Augsburg,5,FC Bayern München,2002,8,None,None,SCHEDULED,None
+271482,2019-10-19,13:30:00,28,1. FC Union Berlin,17,SC Freiburg,2002,8,None,None,SCHEDULED,None
+271483,2019-10-19,13:30:00,721,RB Leipzig,11,VfL Wolfsburg,2002,8,None,None,SCHEDULED,None
+271477,2019-10-19,16:30:00,4,BV Borussia 09 Dortmund,18,Borussia Mönchengladbach,2002,8,None,None,SCHEDULED,None
+271475,2019-10-20,13:30:00,1,1. FC Köln,29,SC Paderborn 07,2002,8,None,None,SCHEDULED,None
+271480,2019-10-20,16:00:00,2,TSG 1899 Hoffenheim,6,FC Schalke 04,2002,8,None,None,SCHEDULED,None
+271491,2019-10-25,18:30:00,15,1. FSV Mainz 05,1,1. FC Köln,2002,9,None,None,SCHEDULED,None
+271484,2019-10-26,13:30:00,6,FC Schalke 04,4,BV Borussia 09 Dortmund,2002,9,None,None,SCHEDULED,None
+271485,2019-10-26,13:30:00,9,Hertha BSC,2,TSG 1899 Hoffenheim,2002,9,None,None,SCHEDULED,None
+271487,2019-10-26,13:30:00,5,FC Bayern München,28,1. FC Union Berlin,2002,9,None,None,SCHEDULED,None
+271489,2019-10-26,13:30:00,17,SC Freiburg,721,RB Leipzig,2002,9,None,None,SCHEDULED,None
+271492,2019-10-26,13:30:00,29,SC Paderborn 07,24,TSV Fortuna 95 Düsseldorf,2002,9,None,None,SCHEDULED,None
+271488,2019-10-26,16:30:00,3,Bayer 04 Leverkusen,12,SV Werder Bremen,2002,9,None,None,SCHEDULED,None
+271490,2019-10-27,14:30:00,11,VfL Wolfsburg,16,FC Augsburg,2002,9,None,None,SCHEDULED,None
+271486,2019-10-27,17:00:00,18,Borussia Mönchengladbach,19,Eintracht Frankfurt,2002,9,None,None,SCHEDULED,None
+271498,2019-11-01,19:30:00,2,TSG 1899 Hoffenheim,29,SC Paderborn 07,2002,10,None,None,SCHEDULED,None
+271493,2019-11-02,14:30:00,19,Eintracht Frankfurt,5,FC Bayern München,2002,10,None,None,SCHEDULED,None
+271494,2019-11-02,14:30:00,4,BV Borussia 09 Dortmund,11,VfL Wolfsburg,2002,10,None,None,SCHEDULED,None
+271495,2019-11-02,14:30:00,12,SV Werder Bremen,17,SC Freiburg,2002,10,None,None,SCHEDULED,None
+271497,2019-11-02,14:30:00,3,Bayer 04 Leverkusen,18,Borussia Mönchengladbach,2002,10,None,None,SCHEDULED,None
+271501,2019-11-02,14:30:00,721,RB Leipzig,15,1. FSV Mainz 05,2002,10,None,None,SCHEDULED,None
+271500,2019-11-02,17:30:00,28,1. FC Union Berlin,9,Hertha BSC,2002,10,None,None,SCHEDULED,None
+271496,2019-11-03,14:30:00,24,TSV Fortuna 95 Düsseldorf,1,1. FC Köln,2002,10,None,None,SCHEDULED,None
+271499,2019-11-03,17:00:00,16,FC Augsburg,6,FC Schalke 04,2002,10,None,None,SCHEDULED,None
+271502,2019-11-08,19:30:00,1,1. FC Köln,2,TSG 1899 Hoffenheim,2002,11,None,None,SCHEDULED,None
+271503,2019-11-09,14:30:00,6,FC Schalke 04,24,TSV Fortuna 95 Düsseldorf,2002,11,None,None,SCHEDULED,None
+271504,2019-11-09,14:30:00,9,Hertha BSC,721,RB Leipzig,2002,11,None,None,SCHEDULED,None
+271509,2019-11-09,14:30:00,15,1. FSV Mainz 05,28,1. FC Union Berlin,2002,11,None,None,SCHEDULED,None
+271510,2019-11-09,14:30:00,29,SC Paderborn 07,16,FC Augsburg,2002,11,None,None,SCHEDULED,None
+271506,2019-11-09,17:30:00,5,FC Bayern München,4,BV Borussia 09 Dortmund,2002,11,None,None,SCHEDULED,None
+271505,2019-11-10,12:30:00,18,Borussia Mönchengladbach,12,SV Werder Bremen,2002,11,None,None,SCHEDULED,None
+271508,2019-11-10,14:30:00,11,VfL Wolfsburg,3,Bayer 04 Leverkusen,2002,11,None,None,SCHEDULED,None
+271507,2019-11-10,17:00:00,17,SC Freiburg,19,Eintracht Frankfurt,2002,11,None,None,SCHEDULED,None
+271512,2019-11-22,19:30:00,4,BV Borussia 09 Dortmund,29,SC Paderborn 07,2002,12,None,None,SCHEDULED,None
+271511,2019-11-23,14:30:00,19,Eintracht Frankfurt,11,VfL Wolfsburg,2002,12,None,None,SCHEDULED,None
+271513,2019-11-23,14:30:00,12,SV Werder Bremen,6,FC Schalke 04,2002,12,None,None,SCHEDULED,None
+271514,2019-11-23,14:30:00,24,TSV Fortuna 95 Düsseldorf,5,FC Bayern München,2002,12,None,None,SCHEDULED,None
+271515,2019-11-23,14:30:00,3,Bayer 04 Leverkusen,17,SC Freiburg,2002,12,None,None,SCHEDULED,None
+271518,2019-11-23,14:30:00,28,1. FC Union Berlin,18,Borussia Mönchengladbach,2002,12,None,None,SCHEDULED,None
+271519,2019-11-23,17:30:00,721,RB Leipzig,1,1. FC Köln,2002,12,None,None,SCHEDULED,None
+271517,2019-11-24,14:30:00,16,FC Augsburg,9,Hertha BSC,2002,12,None,None,SCHEDULED,None
+271516,2019-11-24,17:00:00,2,TSG 1899 Hoffenheim,15,1. FSV Mainz 05,2002,12,None,None,SCHEDULED,None
+271521,2019-11-29,19:30:00,6,FC Schalke 04,28,1. FC Union Berlin,2002,13,None,None,SCHEDULED,None
+271520,2019-11-30,14:30:00,1,1. FC Köln,16,FC Augsburg,2002,13,None,None,SCHEDULED,None
+271522,2019-11-30,14:30:00,9,Hertha BSC,4,BV Borussia 09 Dortmund,2002,13,None,None,SCHEDULED,None
+271527,2019-11-30,14:30:00,2,TSG 1899 Hoffenheim,24,TSV Fortuna 95 Düsseldorf,2002,13,None,None,SCHEDULED,None
+271528,2019-11-30,14:30:00,29,SC Paderborn 07,721,RB Leipzig,2002,13,None,None,SCHEDULED,None
+271524,2019-11-30,17:30:00,5,FC Bayern München,3,Bayer 04 Leverkusen,2002,13,None,None,SCHEDULED,None
+271523,2019-12-01,14:30:00,18,Borussia Mönchengladbach,17,SC Freiburg,2002,13,None,None,SCHEDULED,None
+271525,2019-12-01,17:00:00,11,VfL Wolfsburg,12,SV Werder Bremen,2002,13,None,None,SCHEDULED,None
+271526,2019-12-02,19:30:00,15,1. FSV Mainz 05,19,Eintracht Frankfurt,2002,13,None,None,SCHEDULED,None
+271529,2019-12-07,00:00:00,19,Eintracht Frankfurt,9,Hertha BSC,2002,14,None,None,SCHEDULED,None
+271530,2019-12-07,00:00:00,4,BV Borussia 09 Dortmund,24,TSV Fortuna 95 Düsseldorf,2002,14,None,None,SCHEDULED,None
+271531,2019-12-07,00:00:00,12,SV Werder Bremen,29,SC Paderborn 07,2002,14,None,None,SCHEDULED,None
+271532,2019-12-07,00:00:00,18,Borussia Mönchengladbach,5,FC Bayern München,2002,14,None,None,SCHEDULED,None
+271533,2019-12-07,00:00:00,3,Bayer 04 Leverkusen,6,FC Schalke 04,2002,14,None,None,SCHEDULED,None
+271534,2019-12-07,00:00:00,17,SC Freiburg,11,VfL Wolfsburg,2002,14,None,None,SCHEDULED,None
+271535,2019-12-07,00:00:00,16,FC Augsburg,15,1. FSV Mainz 05,2002,14,None,None,SCHEDULED,None
+271536,2019-12-07,00:00:00,28,1. FC Union Berlin,1,1. FC Köln,2002,14,None,None,SCHEDULED,None
+271537,2019-12-07,00:00:00,721,RB Leipzig,2,TSG 1899 Hoffenheim,2002,14,None,None,SCHEDULED,None
+271538,2019-12-14,00:00:00,1,1. FC Köln,3,Bayer 04 Leverkusen,2002,15,None,None,SCHEDULED,None
+271539,2019-12-14,00:00:00,6,FC Schalke 04,19,Eintracht Frankfurt,2002,15,None,None,SCHEDULED,None
+271540,2019-12-14,00:00:00,9,Hertha BSC,17,SC Freiburg,2002,15,None,None,SCHEDULED,None
+271541,2019-12-14,00:00:00,5,FC Bayern München,12,SV Werder Bremen,2002,15,None,None,SCHEDULED,None
+271542,2019-12-14,00:00:00,24,TSV Fortuna 95 Düsseldorf,721,RB Leipzig,2002,15,None,None,SCHEDULED,None
+271543,2019-12-14,00:00:00,11,VfL Wolfsburg,18,Borussia Mönchengladbach,2002,15,None,None,SCHEDULED,None
+271544,2019-12-14,00:00:00,15,1. FSV Mainz 05,4,BV Borussia 09 Dortmund,2002,15,None,None,SCHEDULED,None
+271545,2019-12-14,00:00:00,2,TSG 1899 Hoffenheim,16,FC Augsburg,2002,15,None,None,SCHEDULED,None
+271546,2019-12-14,00:00:00,29,SC Paderborn 07,28,1. FC Union Berlin,2002,15,None,None,SCHEDULED,None
+271547,2019-12-18,00:00:00,19,Eintracht Frankfurt,1,1. FC Köln,2002,16,None,None,SCHEDULED,None
+271548,2019-12-18,00:00:00,4,BV Borussia 09 Dortmund,721,RB Leipzig,2002,16,None,None,SCHEDULED,None
+271549,2019-12-18,00:00:00,12,SV Werder Bremen,15,1. FSV Mainz 05,2002,16,None,None,SCHEDULED,None
+271550,2019-12-18,00:00:00,18,Borussia Mönchengladbach,29,SC Paderborn 07,2002,16,None,None,SCHEDULED,None
+271551,2019-12-18,00:00:00,3,Bayer 04 Leverkusen,9,Hertha BSC,2002,16,None,None,SCHEDULED,None
+271552,2019-12-18,00:00:00,17,SC Freiburg,5,FC Bayern München,2002,16,None,None,SCHEDULED,None
+271553,2019-12-18,00:00:00,11,VfL Wolfsburg,6,FC Schalke 04,2002,16,None,None,SCHEDULED,None
+271554,2019-12-18,00:00:00,16,FC Augsburg,24,TSV Fortuna 95 Düsseldorf,2002,16,None,None,SCHEDULED,None
+271555,2019-12-18,00:00:00,28,1. FC Union Berlin,2,TSG 1899 Hoffenheim,2002,16,None,None,SCHEDULED,None
+271556,2019-12-21,00:00:00,1,1. FC Köln,12,SV Werder Bremen,2002,17,None,None,SCHEDULED,None
+271557,2019-12-21,00:00:00,6,FC Schalke 04,17,SC Freiburg,2002,17,None,None,SCHEDULED,None
+271558,2019-12-21,00:00:00,9,Hertha BSC,18,Borussia Mönchengladbach,2002,17,None,None,SCHEDULED,None
+271559,2019-12-21,00:00:00,5,FC Bayern München,11,VfL Wolfsburg,2002,17,None,None,SCHEDULED,None
+271560,2019-12-21,00:00:00,24,TSV Fortuna 95 Düsseldorf,28,1. FC Union Berlin,2002,17,None,None,SCHEDULED,None
+271561,2019-12-21,00:00:00,15,1. FSV Mainz 05,3,Bayer 04 Leverkusen,2002,17,None,None,SCHEDULED,None
+271562,2019-12-21,00:00:00,2,TSG 1899 Hoffenheim,4,BV Borussia 09 Dortmund,2002,17,None,None,SCHEDULED,None
+271563,2019-12-21,00:00:00,29,SC Paderborn 07,19,Eintracht Frankfurt,2002,17,None,None,SCHEDULED,None
+271564,2019-12-21,00:00:00,721,RB Leipzig,16,FC Augsburg,2002,17,None,None,SCHEDULED,None
+271565,2020-01-18,00:00:00,1,1. FC Köln,11,VfL Wolfsburg,2002,18,None,None,SCHEDULED,None
+271566,2020-01-18,00:00:00,6,FC Schalke 04,18,Borussia Mönchengladbach,2002,18,None,None,SCHEDULED,None
+271567,2020-01-18,00:00:00,9,Hertha BSC,5,FC Bayern München,2002,18,None,None,SCHEDULED,None
+271568,2020-01-18,00:00:00,24,TSV Fortuna 95 Düsseldorf,12,SV Werder Bremen,2002,18,None,None,SCHEDULED,None
+271569,2020-01-18,00:00:00,15,1. FSV Mainz 05,17,SC Freiburg,2002,18,None,None,SCHEDULED,None
+271570,2020-01-18,00:00:00,2,TSG 1899 Hoffenheim,19,Eintracht Frankfurt,2002,18,None,None,SCHEDULED,None
+271571,2020-01-18,00:00:00,16,FC Augsburg,4,BV Borussia 09 Dortmund,2002,18,None,None,SCHEDULED,None
+271572,2020-01-18,00:00:00,29,SC Paderborn 07,3,Bayer 04 Leverkusen,2002,18,None,None,SCHEDULED,None
+271573,2020-01-18,00:00:00,721,RB Leipzig,28,1. FC Union Berlin,2002,18,None,None,SCHEDULED,None
+271574,2020-01-25,00:00:00,19,Eintracht Frankfurt,721,RB Leipzig,2002,19,None,None,SCHEDULED,None
+271575,2020-01-25,00:00:00,4,BV Borussia 09 Dortmund,1,1. FC Köln,2002,19,None,None,SCHEDULED,None
+271576,2020-01-25,00:00:00,12,SV Werder Bremen,2,TSG 1899 Hoffenheim,2002,19,None,None,SCHEDULED,None
+271577,2020-01-25,00:00:00,18,Borussia Mönchengladbach,15,1. FSV Mainz 05,2002,19,None,None,SCHEDULED,None
+271578,2020-01-25,00:00:00,5,FC Bayern München,6,FC Schalke 04,2002,19,None,None,SCHEDULED,None
+271579,2020-01-25,00:00:00,3,Bayer 04 Leverkusen,24,TSV Fortuna 95 Düsseldorf,2002,19,None,None,SCHEDULED,None
+271580,2020-01-25,00:00:00,17,SC Freiburg,29,SC Paderborn 07,2002,19,None,None,SCHEDULED,None
+271581,2020-01-25,00:00:00,11,VfL Wolfsburg,9,Hertha BSC,2002,19,None,None,SCHEDULED,None
+271582,2020-01-25,00:00:00,28,1. FC Union Berlin,16,FC Augsburg,2002,19,None,None,SCHEDULED,None
+271583,2020-02-01,00:00:00,1,1. FC Köln,17,SC Freiburg,2002,20,None,None,SCHEDULED,None
+271584,2020-02-01,00:00:00,4,BV Borussia 09 Dortmund,28,1. FC Union Berlin,2002,20,None,None,SCHEDULED,None
+271585,2020-02-01,00:00:00,9,Hertha BSC,6,FC Schalke 04,2002,20,None,None,SCHEDULED,None
+271586,2020-02-01,00:00:00,24,TSV Fortuna 95 Düsseldorf,19,Eintracht Frankfurt,2002,20,None,None,SCHEDULED,None
+271587,2020-02-01,00:00:00,15,1. FSV Mainz 05,5,FC Bayern München,2002,20,None,None,SCHEDULED,None
+271588,2020-02-01,00:00:00,2,TSG 1899 Hoffenheim,3,Bayer 04 Leverkusen,2002,20,None,None,SCHEDULED,None
+271589,2020-02-01,00:00:00,16,FC Augsburg,12,SV Werder Bremen,2002,20,None,None,SCHEDULED,None
+271590,2020-02-01,00:00:00,29,SC Paderborn 07,11,VfL Wolfsburg,2002,20,None,None,SCHEDULED,None
+271591,2020-02-01,00:00:00,721,RB Leipzig,18,Borussia Mönchengladbach,2002,20,None,None,SCHEDULED,None
+271592,2020-02-08,00:00:00,19,Eintracht Frankfurt,16,FC Augsburg,2002,21,None,None,SCHEDULED,None
+271593,2020-02-08,00:00:00,6,FC Schalke 04,29,SC Paderborn 07,2002,21,None,None,SCHEDULED,None
+271594,2020-02-08,00:00:00,12,SV Werder Bremen,28,1. FC Union Berlin,2002,21,None,None,SCHEDULED,None
+271595,2020-02-08,00:00:00,9,Hertha BSC,15,1. FSV Mainz 05,2002,21,None,None,SCHEDULED,None
+271596,2020-02-08,00:00:00,18,Borussia Mönchengladbach,1,1. FC Köln,2002,21,None,None,SCHEDULED,None
+271597,2020-02-08,00:00:00,5,FC Bayern München,721,RB Leipzig,2002,21,None,None,SCHEDULED,None
+271598,2020-02-08,00:00:00,3,Bayer 04 Leverkusen,4,BV Borussia 09 Dortmund,2002,21,None,None,SCHEDULED,None
+271599,2020-02-08,00:00:00,17,SC Freiburg,2,TSG 1899 Hoffenheim,2002,21,None,None,SCHEDULED,None
+271600,2020-02-08,00:00:00,11,VfL Wolfsburg,24,TSV Fortuna 95 Düsseldorf,2002,21,None,None,SCHEDULED,None
+271601,2020-02-15,00:00:00,1,1. FC Köln,5,FC Bayern München,2002,22,None,None,SCHEDULED,None
+271602,2020-02-15,00:00:00,4,BV Borussia 09 Dortmund,19,Eintracht Frankfurt,2002,22,None,None,SCHEDULED,None
+271603,2020-02-15,00:00:00,24,TSV Fortuna 95 Düsseldorf,18,Borussia Mönchengladbach,2002,22,None,None,SCHEDULED,None
+271604,2020-02-15,00:00:00,15,1. FSV Mainz 05,6,FC Schalke 04,2002,22,None,None,SCHEDULED,None
+271605,2020-02-15,00:00:00,2,TSG 1899 Hoffenheim,11,VfL Wolfsburg,2002,22,None,None,SCHEDULED,None
+271606,2020-02-15,00:00:00,16,FC Augsburg,17,SC Freiburg,2002,22,None,None,SCHEDULED,None
+271607,2020-02-15,00:00:00,28,1. FC Union Berlin,3,Bayer 04 Leverkusen,2002,22,None,None,SCHEDULED,None
+271608,2020-02-15,00:00:00,29,SC Paderborn 07,9,Hertha BSC,2002,22,None,None,SCHEDULED,None
+271609,2020-02-15,00:00:00,721,RB Leipzig,12,SV Werder Bremen,2002,22,None,None,SCHEDULED,None
+271616,2020-02-22,00:00:00,3,Bayer 04 Leverkusen,16,FC Augsburg,2002,23,None,None,SCHEDULED,None
+271617,2020-02-22,00:00:00,17,SC Freiburg,24,TSV Fortuna 95 Düsseldorf,2002,23,None,None,SCHEDULED,None
+271618,2020-02-22,00:00:00,11,VfL Wolfsburg,15,1. FSV Mainz 05,2002,23,None,None,SCHEDULED,None
+271610,2020-02-22,00:00:00,19,Eintracht Frankfurt,28,1. FC Union Berlin,2002,23,None,None,SCHEDULED,None
+271611,2020-02-22,00:00:00,6,FC Schalke 04,721,RB Leipzig,2002,23,None,None,SCHEDULED,None
+271612,2020-02-22,00:00:00,12,SV Werder Bremen,4,BV Borussia 09 Dortmund,2002,23,None,None,SCHEDULED,None
+271613,2020-02-22,00:00:00,9,Hertha BSC,1,1. FC Köln,2002,23,None,None,SCHEDULED,None
+271614,2020-02-22,00:00:00,18,Borussia Mönchengladbach,2,TSG 1899 Hoffenheim,2002,23,None,None,SCHEDULED,None
+271615,2020-02-22,00:00:00,5,FC Bayern München,29,SC Paderborn 07,2002,23,None,None,SCHEDULED,None
+271619,2020-02-29,00:00:00,1,1. FC Köln,6,FC Schalke 04,2002,24,None,None,SCHEDULED,None
+271620,2020-02-29,00:00:00,4,BV Borussia 09 Dortmund,17,SC Freiburg,2002,24,None,None,SCHEDULED,None
+271621,2020-02-29,00:00:00,12,SV Werder Bremen,19,Eintracht Frankfurt,2002,24,None,None,SCHEDULED,None
+271622,2020-02-29,00:00:00,24,TSV Fortuna 95 Düsseldorf,9,Hertha BSC,2002,24,None,None,SCHEDULED,None
+271623,2020-02-29,00:00:00,15,1. FSV Mainz 05,29,SC Paderborn 07,2002,24,None,None,SCHEDULED,None
+271624,2020-02-29,00:00:00,2,TSG 1899 Hoffenheim,5,FC Bayern München,2002,24,None,None,SCHEDULED,None
+271625,2020-02-29,00:00:00,16,FC Augsburg,18,Borussia Mönchengladbach,2002,24,None,None,SCHEDULED,None
+271626,2020-02-29,00:00:00,28,1. FC Union Berlin,11,VfL Wolfsburg,2002,24,None,None,SCHEDULED,None
+271627,2020-02-29,00:00:00,721,RB Leipzig,3,Bayer 04 Leverkusen,2002,24,None,None,SCHEDULED,None
+271628,2020-03-07,00:00:00,6,FC Schalke 04,2,TSG 1899 Hoffenheim,2002,25,None,None,SCHEDULED,None
+271629,2020-03-07,00:00:00,9,Hertha BSC,12,SV Werder Bremen,2002,25,None,None,SCHEDULED,None
+271630,2020-03-07,00:00:00,18,Borussia Mönchengladbach,4,BV Borussia 09 Dortmund,2002,25,None,None,SCHEDULED,None
+271631,2020-03-07,00:00:00,5,FC Bayern München,16,FC Augsburg,2002,25,None,None,SCHEDULED,None
+271632,2020-03-07,00:00:00,3,Bayer 04 Leverkusen,19,Eintracht Frankfurt,2002,25,None,None,SCHEDULED,None
+271633,2020-03-07,00:00:00,17,SC Freiburg,28,1. FC Union Berlin,2002,25,None,None,SCHEDULED,None
+271634,2020-03-07,00:00:00,11,VfL Wolfsburg,721,RB Leipzig,2002,25,None,None,SCHEDULED,None
+271635,2020-03-07,00:00:00,15,1. FSV Mainz 05,24,TSV Fortuna 95 Düsseldorf,2002,25,None,None,SCHEDULED,None
+271636,2020-03-07,00:00:00,29,SC Paderborn 07,1,1. FC Köln,2002,25,None,None,SCHEDULED,None
+271637,2020-03-14,00:00:00,1,1. FC Köln,15,1. FSV Mainz 05,2002,26,None,None,SCHEDULED,None
+271638,2020-03-14,00:00:00,19,Eintracht Frankfurt,18,Borussia Mönchengladbach,2002,26,None,None,SCHEDULED,None
+271639,2020-03-14,00:00:00,4,BV Borussia 09 Dortmund,6,FC Schalke 04,2002,26,None,None,SCHEDULED,None
+271640,2020-03-14,00:00:00,12,SV Werder Bremen,3,Bayer 04 Leverkusen,2002,26,None,None,SCHEDULED,None
+271641,2020-03-14,00:00:00,24,TSV Fortuna 95 Düsseldorf,29,SC Paderborn 07,2002,26,None,None,SCHEDULED,None
+271642,2020-03-14,00:00:00,2,TSG 1899 Hoffenheim,9,Hertha BSC,2002,26,None,None,SCHEDULED,None
+271643,2020-03-14,00:00:00,16,FC Augsburg,11,VfL Wolfsburg,2002,26,None,None,SCHEDULED,None
+271644,2020-03-14,00:00:00,28,1. FC Union Berlin,5,FC Bayern München,2002,26,None,None,SCHEDULED,None
+271645,2020-03-14,00:00:00,721,RB Leipzig,17,SC Freiburg,2002,26,None,None,SCHEDULED,None
+271646,2020-03-21,00:00:00,1,1. FC Köln,24,TSV Fortuna 95 Düsseldorf,2002,27,None,None,SCHEDULED,None
+271647,2020-03-21,00:00:00,6,FC Schalke 04,16,FC Augsburg,2002,27,None,None,SCHEDULED,None
+271648,2020-03-21,00:00:00,9,Hertha BSC,28,1. FC Union Berlin,2002,27,None,None,SCHEDULED,None
+271649,2020-03-21,00:00:00,18,Borussia Mönchengladbach,3,Bayer 04 Leverkusen,2002,27,None,None,SCHEDULED,None
+271650,2020-03-21,00:00:00,5,FC Bayern München,19,Eintracht Frankfurt,2002,27,None,None,SCHEDULED,None
+271651,2020-03-21,00:00:00,17,SC Freiburg,12,SV Werder Bremen,2002,27,None,None,SCHEDULED,None
+271652,2020-03-21,00:00:00,11,VfL Wolfsburg,4,BV Borussia 09 Dortmund,2002,27,None,None,SCHEDULED,None
+271653,2020-03-21,00:00:00,15,1. FSV Mainz 05,721,RB Leipzig,2002,27,None,None,SCHEDULED,None
+271654,2020-03-21,00:00:00,29,SC Paderborn 07,2,TSG 1899 Hoffenheim,2002,27,None,None,SCHEDULED,None
+271655,2020-04-04,00:00:00,19,Eintracht Frankfurt,17,SC Freiburg,2002,28,None,None,SCHEDULED,None
+271656,2020-04-04,00:00:00,4,BV Borussia 09 Dortmund,5,FC Bayern München,2002,28,None,None,SCHEDULED,None
+271657,2020-04-04,00:00:00,12,SV Werder Bremen,18,Borussia Mönchengladbach,2002,28,None,None,SCHEDULED,None
+271658,2020-04-04,00:00:00,24,TSV Fortuna 95 Düsseldorf,6,FC Schalke 04,2002,28,None,None,SCHEDULED,None
+271659,2020-04-04,00:00:00,3,Bayer 04 Leverkusen,11,VfL Wolfsburg,2002,28,None,None,SCHEDULED,None
+271660,2020-04-04,00:00:00,2,TSG 1899 Hoffenheim,1,1. FC Köln,2002,28,None,None,SCHEDULED,None
+271661,2020-04-04,00:00:00,16,FC Augsburg,29,SC Paderborn 07,2002,28,None,None,SCHEDULED,None
+271662,2020-04-04,00:00:00,28,1. FC Union Berlin,15,1. FSV Mainz 05,2002,28,None,None,SCHEDULED,None
+271663,2020-04-04,00:00:00,721,RB Leipzig,9,Hertha BSC,2002,28,None,None,SCHEDULED,None
+271664,2020-04-11,00:00:00,1,1. FC Köln,721,RB Leipzig,2002,29,None,None,SCHEDULED,None
+271665,2020-04-11,00:00:00,6,FC Schalke 04,12,SV Werder Bremen,2002,29,None,None,SCHEDULED,None
+271666,2020-04-11,00:00:00,9,Hertha BSC,16,FC Augsburg,2002,29,None,None,SCHEDULED,None
+271667,2020-04-11,00:00:00,18,Borussia Mönchengladbach,28,1. FC Union Berlin,2002,29,None,None,SCHEDULED,None
+271668,2020-04-11,00:00:00,5,FC Bayern München,24,TSV Fortuna 95 Düsseldorf,2002,29,None,None,SCHEDULED,None
+271669,2020-04-11,00:00:00,17,SC Freiburg,3,Bayer 04 Leverkusen,2002,29,None,None,SCHEDULED,None
+271670,2020-04-11,00:00:00,11,VfL Wolfsburg,19,Eintracht Frankfurt,2002,29,None,None,SCHEDULED,None
+271671,2020-04-11,00:00:00,15,1. FSV Mainz 05,2,TSG 1899 Hoffenheim,2002,29,None,None,SCHEDULED,None
+271672,2020-04-11,00:00:00,29,SC Paderborn 07,4,BV Borussia 09 Dortmund,2002,29,None,None,SCHEDULED,None
+271673,2020-04-18,00:00:00,19,Eintracht Frankfurt,15,1. FSV Mainz 05,2002,30,None,None,SCHEDULED,None
+271674,2020-04-18,00:00:00,4,BV Borussia 09 Dortmund,9,Hertha BSC,2002,30,None,None,SCHEDULED,None
+271675,2020-04-18,00:00:00,12,SV Werder Bremen,11,VfL Wolfsburg,2002,30,None,None,SCHEDULED,None
+271676,2020-04-18,00:00:00,24,TSV Fortuna 95 Düsseldorf,2,TSG 1899 Hoffenheim,2002,30,None,None,SCHEDULED,None
+271677,2020-04-18,00:00:00,3,Bayer 04 Leverkusen,5,FC Bayern München,2002,30,None,None,SCHEDULED,None
+271678,2020-04-18,00:00:00,17,SC Freiburg,18,Borussia Mönchengladbach,2002,30,None,None,SCHEDULED,None
+271679,2020-04-18,00:00:00,16,FC Augsburg,1,1. FC Köln,2002,30,None,None,SCHEDULED,None
+271680,2020-04-18,00:00:00,28,1. FC Union Berlin,6,FC Schalke 04,2002,30,None,None,SCHEDULED,None
+271681,2020-04-18,00:00:00,721,RB Leipzig,29,SC Paderborn 07,2002,30,None,None,SCHEDULED,None
+271682,2020-04-25,00:00:00,1,1. FC Köln,28,1. FC Union Berlin,2002,31,None,None,SCHEDULED,None
+271683,2020-04-25,00:00:00,6,FC Schalke 04,3,Bayer 04 Leverkusen,2002,31,None,None,SCHEDULED,None
+271684,2020-04-25,00:00:00,9,Hertha BSC,19,Eintracht Frankfurt,2002,31,None,None,SCHEDULED,None
+271685,2020-04-25,00:00:00,5,FC Bayern München,18,Borussia Mönchengladbach,2002,31,None,None,SCHEDULED,None
+271686,2020-04-25,00:00:00,24,TSV Fortuna 95 Düsseldorf,4,BV Borussia 09 Dortmund,2002,31,None,None,SCHEDULED,None
+271687,2020-04-25,00:00:00,11,VfL Wolfsburg,17,SC Freiburg,2002,31,None,None,SCHEDULED,None
+271688,2020-04-25,00:00:00,15,1. FSV Mainz 05,16,FC Augsburg,2002,31,None,None,SCHEDULED,None
+271689,2020-04-25,00:00:00,2,TSG 1899 Hoffenheim,721,RB Leipzig,2002,31,None,None,SCHEDULED,None
+271690,2020-04-25,00:00:00,29,SC Paderborn 07,12,SV Werder Bremen,2002,31,None,None,SCHEDULED,None
+271691,2020-05-02,00:00:00,19,Eintracht Frankfurt,6,FC Schalke 04,2002,32,None,None,SCHEDULED,None
+271692,2020-05-02,00:00:00,4,BV Borussia 09 Dortmund,15,1. FSV Mainz 05,2002,32,None,None,SCHEDULED,None
+271693,2020-05-02,00:00:00,12,SV Werder Bremen,5,FC Bayern München,2002,32,None,None,SCHEDULED,None
+271694,2020-05-02,00:00:00,18,Borussia Mönchengladbach,11,VfL Wolfsburg,2002,32,None,None,SCHEDULED,None
+271695,2020-05-02,00:00:00,3,Bayer 04 Leverkusen,1,1. FC Köln,2002,32,None,None,SCHEDULED,None
+271696,2020-05-02,00:00:00,17,SC Freiburg,9,Hertha BSC,2002,32,None,None,SCHEDULED,None
+271697,2020-05-02,00:00:00,16,FC Augsburg,2,TSG 1899 Hoffenheim,2002,32,None,None,SCHEDULED,None
+271698,2020-05-02,00:00:00,28,1. FC Union Berlin,29,SC Paderborn 07,2002,32,None,None,SCHEDULED,None
+271699,2020-05-02,00:00:00,721,RB Leipzig,24,TSV Fortuna 95 Düsseldorf,2002,32,None,None,SCHEDULED,None
+271700,2020-05-09,00:00:00,1,1. FC Köln,19,Eintracht Frankfurt,2002,33,None,None,SCHEDULED,None
+271701,2020-05-09,00:00:00,6,FC Schalke 04,11,VfL Wolfsburg,2002,33,None,None,SCHEDULED,None
+271702,2020-05-09,00:00:00,9,Hertha BSC,3,Bayer 04 Leverkusen,2002,33,None,None,SCHEDULED,None
+271703,2020-05-09,00:00:00,5,FC Bayern München,17,SC Freiburg,2002,33,None,None,SCHEDULED,None
+271704,2020-05-09,00:00:00,24,TSV Fortuna 95 Düsseldorf,16,FC Augsburg,2002,33,None,None,SCHEDULED,None
+271705,2020-05-09,00:00:00,15,1. FSV Mainz 05,12,SV Werder Bremen,2002,33,None,None,SCHEDULED,None
+271706,2020-05-09,00:00:00,2,TSG 1899 Hoffenheim,28,1. FC Union Berlin,2002,33,None,None,SCHEDULED,None
+271707,2020-05-09,00:00:00,29,SC Paderborn 07,18,Borussia Mönchengladbach,2002,33,None,None,SCHEDULED,None
+271708,2020-05-09,00:00:00,721,RB Leipzig,4,BV Borussia 09 Dortmund,2002,33,None,None,SCHEDULED,None
+271709,2020-05-16,00:00:00,19,Eintracht Frankfurt,29,SC Paderborn 07,2002,34,None,None,SCHEDULED,None
+271710,2020-05-16,00:00:00,4,BV Borussia 09 Dortmund,2,TSG 1899 Hoffenheim,2002,34,None,None,SCHEDULED,None
+271711,2020-05-16,00:00:00,12,SV Werder Bremen,1,1. FC Köln,2002,34,None,None,SCHEDULED,None
+271712,2020-05-16,00:00:00,18,Borussia Mönchengladbach,9,Hertha BSC,2002,34,None,None,SCHEDULED,None
+271713,2020-05-16,00:00:00,3,Bayer 04 Leverkusen,15,1. FSV Mainz 05,2002,34,None,None,SCHEDULED,None
+271714,2020-05-16,00:00:00,17,SC Freiburg,6,FC Schalke 04,2002,34,None,None,SCHEDULED,None
+271715,2020-05-16,00:00:00,11,VfL Wolfsburg,5,FC Bayern München,2002,34,None,None,SCHEDULED,None
+271716,2020-05-16,00:00:00,16,FC Augsburg,721,RB Leipzig,2002,34,None,None,SCHEDULED,None
+271717,2020-05-16,00:00:00,28,1. FC Union Berlin,24,TSV Fortuna 95 Düsseldorf,2002,34,None,None,SCHEDULED,None

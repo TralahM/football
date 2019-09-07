@@ -1,5 +1,5 @@
-MySQLdb
 sqlalchemy
+mysqlclient
 pandas
 numpy
 

@@ -1,0 +1,19 @@
+betradar_id,league_id,name,short_name,crest_url,team_abbreviation
+1,2002,1. FC Köln,1. FC Köln,https://upload.wikimedia.org/wikipedia/commons/0/0a/1.FC_K%C3%B6ln_escudo.png,KOE
+2,2002,TSG 1899 Hoffenheim,Hoffenheim,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg,TSG
+3,2002,Bayer 04 Leverkusen,Leverkusen,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,B04
+4,2002,BV Borussia 09 Dortmund,Dortmund,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,BVB
+5,2002,FC Bayern München,Bayern M,https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg,FCB
+6,2002,FC Schalke 04,Schalke,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg,S04
+9,2002,Hertha BSC,Hertha BSC,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg,BSC
+11,2002,VfL Wolfsburg,Wolfsburg,https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg,WOB
+12,2002,SV Werder Bremen,Bremen,http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg,SVW
+15,2002,1. FSV Mainz 05,Mainz,https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg,M05
+16,2002,FC Augsburg,Augsburg,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg,FCA
+17,2002,SC Freiburg,Freiburg,http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg,SCF
+18,2002,Borussia Mönchengladbach,M'gladbach,https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg,BMG
+19,2002,Eintracht Frankfurt,Frankfurt,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg,SGE
+24,2002,TSV Fortuna 95 Düsseldorf,Düsseldorf,http://upload.wikimedia.org/wikipedia/commons/9/94/Fortuna_D%C3%BCsseldorf.svg,F95
+28,2002,1. FC Union Berlin,Union Berlin,https://upload.wikimedia.org/wikipedia/commons/6/68/1._FC_Union_Berlin_1966_-_1990.gif,UNB
+29,2002,SC Paderborn 07,SC Paderborn,https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg,SCP
+721,2002,RB Leipzig,RB Leipzig,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,RBL
