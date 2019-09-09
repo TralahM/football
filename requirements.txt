@@ -2,4 +2,5 @@ sqlalchemy
 mysqlclient
 pandas
 numpy
+celery
 
