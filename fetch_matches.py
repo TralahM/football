@@ -18,6 +18,7 @@ science or even machine learning!.....
 # from pandas.io import sql
 import argparse
 import http.client
+from datetime import datetime
 import json
 from sqlalchemy import create_engine
 from time import sleep
@@ -27,7 +28,7 @@ API = '278236859e9f4dff94372b4af8037d31'
 DB_USER = 'root'
 DB_PASS = 'password'
 DB_HOST = 'localhost'
-DB_NAME = 'betmeback_engine'
+DB_NAME = 'betmeback'
 try:
     ENGINE = create_engine(
         'mysql+mysqldb://{0}:{1}@{2}/{3}?charset=utf8mb4'.format(
@@ -37,6 +38,14 @@ try:
     )
 except Exception as e:
     print(e)
+
+
+def str2time(strng):
+    return datetime.strptime(strng, '%H:%M:%S').time()
+
+
+def str2date(strng):
+    return datetime.strptime(strng, '%Y-%m-%d').date()
 
 
 def update_db_teams(dataframe):
@@ -121,8 +130,8 @@ def match_list(Response):
         for match in matches:
             ln = list()
             ln.append(match['id'])
-            ln.append(match['utcDate'].split('T')[0])
-            ln.append(match['utcDate'].split('T')[1].split('Z')[0])
+            ln.append(str2date(match['utcDate'].split('T')[0]))
+            ln.append(str2time(match['utcDate'].split('T')[1].split('Z')[0]))
             ln.append(match['homeTeam']['id'].__str__())
             ln.append(match['homeTeam']['name'])
             ln.append(match['awayTeam']['id'].__str__())
