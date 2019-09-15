@@ -16,6 +16,7 @@ science or even machine learning!.....
 """
 
 # from pandas.io import sql
+import sys
 import argparse
 import http.client
 from datetime import datetime
@@ -220,6 +221,16 @@ def teams(Code):
     return Response
 
 
+def run_hourly_update():
+    while True:
+        league_ids = ['PL', '2002', '2019', '2014', 'CL']
+        for lid in league_ids:
+            match_list(fixtures(lid))
+        update_db_schedules(unify_matches_csv())
+        print("Done with update at\t {}".format(datetime.now()))
+        sleep(3000)
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(epilog=__doc__.split('\n')[0])
     parser.add_argument('--update_all', action='store_true',
@@ -232,10 +243,7 @@ if __name__ == '__main__':
         update_db_leagues(unify_leagues_csv())
         update_db_teams(unify_teams_csv())
         update_db_schedules(unify_matches_csv())
+        print("Full Data Update")
+        sys.exit(0)
     else:
-        league_ids = ['PL', '2002', '2019', '2014', 'CL']
-        for lid in league_ids:
-            match_list(fixtures(lid))
-        update_db_schedules(unify_matches_csv())
-
-    print("Done with Database Update...")
+        run_hourly_update()
