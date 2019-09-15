@@ -58,6 +58,8 @@ def update_db_schedules(dataframe):
     new_df = dataframe
     new_df["home_team_label"] = ""
     new_df["home_team_badge"] = ""
+    new_df["away_team_label"] = ""
+    new_df["away_team_badge"] = ""
     with ENGINE.connect() as conn, conn.begin():
         new_df.to_sql('schedules', conn,
                       if_exists='replace', index_label='id')
