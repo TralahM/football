@@ -26,7 +26,7 @@ import pandas as pd
 
 API = '278236859e9f4dff94372b4af8037d31'
 DB_USER = 'root'
-DB_PASS = 'password'
+DB_PASS = 'syntax2019.'
 DB_HOST = 'localhost'
 DB_NAME = 'betmeback'
 try:
