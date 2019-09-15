@@ -1,0 +1,6 @@
+league_id,caption,league,start_date,end_date,number_of_teams,number_of_matches,current_matchday
+2021,England Premier League,PL,2019-08-09,2020-05-17,20,380,5
+2002,Germany Bundesliga,BL1,2019-08-16,2020-05-16,18,306,4
+2019,Italy Serie A,SA,2019-08-24,2020-05-24,20,380,3
+2014,Spain Primera Division,PD,2019-08-16,2020-05-24,20,380,4
+2001,Europe UEFA Champions League,CL,2019-06-25,2020-05-30,79,187,1

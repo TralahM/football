@@ -1,43 +1,8 @@
-#!/usr/bin/env python
-"""
------------------------------------------------
-File:fetch_matches.py
-Author: Tralah M Brian
-Email: <musyoki.tralah@students.jkuat.ac.ke>
-Github: <https://github.com/TralahM/>
-LICENSE: MIT, CREATIVE-COMMONS
-COPYRIGHT: (2019) All Rights Reserved
------------------------------------------------
-
-Description: A script to obtain data from football-data.org and load/update
-it to a MySQL Database on a remote Server....
-Useful for obtaining football data for applications, research, analytics, data
-science or even machine learning!.....
-"""
-
-# from pandas.io import sql
-import argparse
 import http.client
 from datetime import datetime
 import json
-from sqlalchemy import create_engine
-from time import sleep
 import pandas as pd
-
 API = '278236859e9f4dff94372b4af8037d31'
-DB_USER = 'root'
-DB_PASS = 'password'
-DB_HOST = 'localhost'
-DB_NAME = 'betmeback'
-try:
-    ENGINE = create_engine(
-        'mysql+mysqldb://{0}:{1}@{2}/{3}?charset=utf8mb4'.format(
-            DB_USER, DB_PASS, DB_HOST, DB_NAME),
-        encoding='utf-8',
-        convert_unicode=True,
-    )
-except Exception as e:
-    print(e)
 
 
 def str2time(strng):
@@ -48,38 +13,25 @@ def str2date(strng):
     return datetime.strptime(strng, '%Y-%m-%d').date()
 
 
-def update_db_teams(dataframe):
-    with ENGINE.connect() as conn, conn.begin():
-        dataframe.to_sql('allteams', conn,
-                         if_exists='replace', index_label='id')
+def create_db_connection():
+    DB_USER = 'root'
+    DB_PASS = 'password'
+    DB_HOST = 'localhost'
+    DB_NAME = 'betmeback'
+    try:
+        from sqlalchemy import create_engine
+        ENGINE = create_engine(
+            'mysql+mysqldb://{0}:{1}@{2}/{3}?charset=utf8mb4'.format(
+                DB_USER, DB_PASS, DB_HOST, DB_NAME),
+            encoding='utf-8',
+            convert_unicode=True,
+        )
+    except Exception as e:
+        print(e)
+    return ENGINE
 
 
-def update_db_schedules(dataframe):
-    new_df = dataframe
-    new_df["home_team_label"] = ""
-    new_df["home_team_badge"] = ""
-    with ENGINE.connect() as conn, conn.begin():
-        new_df.to_sql('schedules', conn,
-                      if_exists='replace', index_label='id')
-
-
-def update_db_leagues(dataframe):
-    with ENGINE.connect() as conn, conn.begin():
-        dataframe.to_sql('leagues', conn, if_exists='replace',
-                         index_label='id')
-
-
-def get_team_number(code):
-    res = teams(code)
-    return res['count']
-
-
-def get_match_number(code):
-    res = fixtures(code)
-    return res['count']
-
-
-def league_list(Response):
+def league_json2csv(Response):
     columns = ['league_id', 'caption', 'league', 'start_date', 'end_date',
                'number_of_teams', 'number_of_matches', 'current_matchday']
     league_id = Response['id']
@@ -99,7 +51,7 @@ def league_list(Response):
                                         end_date, number_of_teams, number_of_matches, current_matchday])+'\n')
 
 
-def team_list(Response):
+def team_json2csv(Response):
     columns = ['betradar_id', 'league_id', 'name',
                'short_name', 'crest_url', 'team_abbreviation']
     league_id = Response['competition']['id']
@@ -120,7 +72,7 @@ def team_list(Response):
         print("\t\tDone!")
 
 
-def match_list(Response):
+def match_json2csv(Response):
     columns = ['match_id', 'match_date', 'match_time', 'home_team_id', 'home_team_name', 'away_team_id',
                'away_team_name', 'league_id', 'match_day', 'home_team_score', 'away_team_score', 'status', 'Winner']
 
@@ -177,17 +129,6 @@ def unify_leagues_csv():
     return master_leagues
 
 
-def generate_csvs():
-    league_ids = ['PL', '2002', '2019', '2014', 'CL']
-    for lid in league_ids:
-        match_list(fixtures(lid))
-        sleep(30)
-        team_list(teams(lid))
-        sleep(60)
-        league_list(leagues(lid))
-    print("done getting csv data")
-
-
 def fixtures(Code):
     connection = http.client.HTTPConnection('api.football-data.org')
     headers = {'X-Auth-Token': API}
@@ -213,24 +154,3 @@ def teams(Code):
                        Code, None, headers)
     Response = json.loads(connection.getresponse().read().decode())
     return Response
-
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(epilog=__doc__.split('\n')[0])
-    parser.add_argument('--update_all', action='store_true',
-                        dest='update_all', default=False)
-    args = parser.parse_args()
-    if args.update_all:
-        # Get the csvs first
-        generate_csvs()
-        # update database with master csv
-        update_db_leagues(unify_leagues_csv())
-        update_db_teams(unify_teams_csv())
-        update_db_schedules(unify_matches_csv())
-    else:
-        league_ids = ['PL', '2002', '2019', '2014', 'CL']
-        for lid in league_ids:
-            match_list(fixtures(lid))
-        update_db_schedules(unify_matches_csv())
-
-    print("Done with Database Update...")

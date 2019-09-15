@@ -1,0 +1,21 @@
+betradar_id,league_id,name,short_name,crest_url,team_abbreviation
+77,2014,Athletic Club,Athletic,https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg,ATH
+78,2014,Club Atlético de Madrid,Atleti,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg,ATM
+79,2014,CA Osasuna,Osasuna,http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg,OSA
+80,2014,RCD Espanyol de Barcelona,Espanyol,http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg,ESP
+81,2014,FC Barcelona,Barça,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg,FCB
+82,2014,Getafe CF,Getafe,https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_logo.png,GET
+83,2014,Granada CF,Granada,http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg,GRA
+86,2014,Real Madrid CF,Real Madrid,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg,RMA
+88,2014,Levante UD,Levante,http://upload.wikimedia.org/wikipedia/de/1/1f/Levante_ud.svg,LEV
+89,2014,RCD Mallorca,Mallorca,http://upload.wikimedia.org/wikipedia/de/e/e0/Rcd_mallorca.svg,MAL
+90,2014,Real Betis Balompié,Real Betis,http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg,BET
+92,2014,Real Sociedad de Fútbol,Real Sociedad,http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebasti%C3%A1n.svg,RSO
+94,2014,Villarreal CF,Villarreal,http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg,VIL
+95,2014,Valencia CF,Valencia,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg,VAL
+250,2014,Real Valladolid CF,Valladolid,http://upload.wikimedia.org/wikipedia/de/6/6e/Real_Valladolid_Logo.svg,VLD
+263,2014,Deportivo Alavés,Alavés,http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg,ALA
+278,2014,SD Eibar,Eibar,http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg,EIB
+558,2014,RC Celta de Vigo,Celta,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg,CEL
+559,2014,Sevilla FC,Sevilla FC,https://upload.wikimedia.org/wikipedia/de/c/c0/FC_Sevilla.svg,SEV
+745,2014,CD Leganés,Leganés,http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Legan%C3%A9s.png/180px-Club_Deportivo_Legan%C3%A9s.png,LEG

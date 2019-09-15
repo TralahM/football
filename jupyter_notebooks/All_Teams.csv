@@ -1,0 +1,158 @@
+betradar_id,league_id,name,short_name,crest_url,team_abbreviation
+57,2021,Arsenal FC,Arsenal,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,ARS
+58,2021,Aston Villa FC,Aston Villa,http://upload.wikimedia.org/wikipedia/de/9/9f/Aston_Villa_logo.svg,AST
+61,2021,Chelsea FC,Chelsea,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,CHE
+62,2021,Everton FC,Everton,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,EVE
+64,2021,Liverpool FC,Liverpool,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,LIV
+65,2021,Manchester City FC,Man City,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,MCI
+66,2021,Manchester United FC,Man United,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,MUN
+67,2021,Newcastle United FC,Newcastle,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,NEW
+68,2021,Norwich City FC,Norwich,http://upload.wikimedia.org/wikipedia/de/8/8c/Norwich_City.svg,NOR
+73,2021,Tottenham Hotspur FC,Tottenham,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,TOT
+76,2021,Wolverhampton Wanderers FC,Wolverhampton,https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg,WOL
+328,2021,Burnley FC,Burnley,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,BUR
+338,2021,Leicester City FC,Leicester City,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,LEI
+340,2021,Southampton FC,Southampton,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,SOU
+346,2021,Watford FC,Watford,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,WAT
+354,2021,Crystal Palace FC,Crystal Palace,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_%282013%29.png,CRY
+356,2021,Sheffield United FC,Sheffield Utd,https://upload.wikimedia.org/wikipedia/en/9/9c/Sheffield_United_FC_logo.svg,SHE
+397,2021,Brighton & Hove Albion FC,Brighton Hove,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg,BHA
+563,2021,West Ham United FC,West Ham,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,WHU
+1044,2021,AFC Bournemouth,Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,BOU
+1,2002,1. FC Köln,1. FC Köln,https://upload.wikimedia.org/wikipedia/commons/0/0a/1.FC_K%C3%B6ln_escudo.png,KOE
+2,2002,TSG 1899 Hoffenheim,Hoffenheim,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg,TSG
+3,2002,Bayer 04 Leverkusen,Leverkusen,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,B04
+4,2002,BV Borussia 09 Dortmund,Dortmund,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,BVB
+5,2002,FC Bayern München,Bayern M,https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg,FCB
+6,2002,FC Schalke 04,Schalke,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg,S04
+9,2002,Hertha BSC,Hertha BSC,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg,BSC
+11,2002,VfL Wolfsburg,Wolfsburg,https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg,WOB
+12,2002,SV Werder Bremen,Bremen,http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg,SVW
+15,2002,1. FSV Mainz 05,Mainz,https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Mainz_05.svg,M05
+16,2002,FC Augsburg,Augsburg,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg,FCA
+17,2002,SC Freiburg,Freiburg,http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg,SCF
+18,2002,Borussia Mönchengladbach,M'gladbach,https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg,BMG
+19,2002,Eintracht Frankfurt,Frankfurt,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg,SGE
+24,2002,TSV Fortuna 95 Düsseldorf,Düsseldorf,http://upload.wikimedia.org/wikipedia/commons/9/94/Fortuna_D%C3%BCsseldorf.svg,F95
+28,2002,1. FC Union Berlin,Union Berlin,https://upload.wikimedia.org/wikipedia/commons/6/68/1._FC_Union_Berlin_1966_-_1990.gif,UNB
+29,2002,SC Paderborn 07,SC Paderborn,https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg,SCP
+721,2002,RB Leipzig,RB Leipzig,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,RBL
+98,2019,AC Milan,Milan,http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg,MIL
+99,2019,ACF Fiorentina,Fiorentina,https://upload.wikimedia.org/wikipedia/commons/7/79/ACF_Fiorentina.svg,FIO
+100,2019,AS Roma,Roma,http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg,ROM
+102,2019,Atalanta BC,Atalanta,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg,ATA
+103,2019,Bologna FC 1909,Bologna,http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg,BOL
+104,2019,Cagliari Calcio,Cagliari,http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg,CAG
+107,2019,Genoa CFC,Genoa,http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg,GEN
+108,2019,FC Internazionale Milano,Inter,https://upload.wikimedia.org/wikipedia/de/4/48/Internazionale_Milano_2014.svg,INT
+109,2019,Juventus FC,Juve,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg,JUV
+110,2019,SS Lazio,Lazio,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png,LAZ
+112,2019,Parma Calcio 1913,Parma,http://upload.wikimedia.org/wikipedia/de/e/e2/FC_Parma.svg,PAR
+113,2019,SSC Napoli,Napoli,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg,NAP
+115,2019,Udinese Calcio,Udinese,http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg,UDI
+449,2019,Brescia Calcio,Brescia,http://upload.wikimedia.org/wikipedia/de/2/23/Brescia_Calcio.svg,BRE
+450,2019,Hellas Verona FC,Verona,http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg,VER
+471,2019,US Sassuolo Calcio,Sassuolo,http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg,SAS
+584,2019,UC Sampdoria,Sampdoria,https://upload.wikimedia.org/wikipedia/de/9/9f/Sampdoria_Logo.png,SAM
+586,2019,Torino FC,Torino,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg,TOR
+1107,2019,SPAL 2013,SPAL 2013,https://upload.wikimedia.org/wikipedia/de/e/e7/SPAL_Ferrara.svg,SPA
+5890,2019,US Lecce,Lecce,https://upload.wikimedia.org/wikipedia/de/c/c7/US_Lecce.svg,LEC
+77,2014,Athletic Club,Athletic,https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg,ATH
+78,2014,Club Atlético de Madrid,Atleti,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg,ATM
+79,2014,CA Osasuna,Osasuna,http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg,OSA
+80,2014,RCD Espanyol de Barcelona,Espanyol,http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg,ESP
+81,2014,FC Barcelona,Barça,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg,FCB
+82,2014,Getafe CF,Getafe,https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_logo.png,GET
+83,2014,Granada CF,Granada,http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg,GRA
+86,2014,Real Madrid CF,Real Madrid,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg,RMA
+88,2014,Levante UD,Levante,http://upload.wikimedia.org/wikipedia/de/1/1f/Levante_ud.svg,LEV
+89,2014,RCD Mallorca,Mallorca,http://upload.wikimedia.org/wikipedia/de/e/e0/Rcd_mallorca.svg,MAL
+90,2014,Real Betis Balompié,Real Betis,http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg,BET
+92,2014,Real Sociedad de Fútbol,Real Sociedad,http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebasti%C3%A1n.svg,RSO
+94,2014,Villarreal CF,Villarreal,http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg,VIL
+95,2014,Valencia CF,Valencia,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg,VAL
+250,2014,Real Valladolid CF,Valladolid,http://upload.wikimedia.org/wikipedia/de/6/6e/Real_Valladolid_Logo.svg,VLD
+263,2014,Deportivo Alavés,Alavés,http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg,ALA
+278,2014,SD Eibar,Eibar,http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg,EIB
+558,2014,RC Celta de Vigo,Celta,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg,CEL
+559,2014,Sevilla FC,Sevilla FC,https://upload.wikimedia.org/wikipedia/de/c/c0/FC_Sevilla.svg,SEV
+745,2014,CD Leganés,Leganés,http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Legan%C3%A9s.png/180px-Club_Deportivo_Legan%C3%A9s.png,LEG
+3,2001,Bayer 04 Leverkusen,Leverkusen,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,B04
+4,2001,BV Borussia 09 Dortmund,Dortmund,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,BVB
+5,2001,FC Bayern München,Bayern M,https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg,FCB
+61,2001,Chelsea FC,Chelsea,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,CHE
+64,2001,Liverpool FC,Liverpool,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,LIV
+65,2001,Manchester City FC,Man City,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,MCI
+73,2001,Tottenham Hotspur FC,Tottenham,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,TOT
+78,2001,Club Atlético de Madrid,Atleti,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg,ATM
+81,2001,FC Barcelona,Barça,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg,FCB
+86,2001,Real Madrid CF,Real Madrid,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg,RMA
+95,2001,Valencia CF,Valencia,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg,VAL
+102,2001,Atalanta BC,Atalanta,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg,ATA
+108,2001,FC Internazionale Milano,Inter,https://upload.wikimedia.org/wikipedia/de/4/48/Internazionale_Milano_2014.svg,INT
+109,2001,Juventus FC,Juve,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg,JUV
+113,2001,SSC Napoli,Napoli,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg,NAP
+503,2001,FC Porto,Porto,http://upload.wikimedia.org/wikipedia/de/e/ed/FC_Porto_1922-2005.svg,FCP
+521,2001,Lille OSC,Lille,https://upload.wikimedia.org/wikipedia/en/6/6f/Lille_OSC_2018_logo.png,LIL
+523,2001,Olympique Lyonnais,Olympique Lyon,https://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg,LYO
+524,2001,Paris Saint-Germain FC,PSG,https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg,PSG
+610,2001,Galatasaray SK,Galatasaray,https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png,GAL
+611,2001,Qarabağ Ağdam FK,Qarabağ Ağdam,,QAR
+654,2001,PAE Olympiakos SFP,Olympiakos,http://upload.wikimedia.org/wikipedia/de/9/96/Logo_Olympiakos_Pir%C3%A4us.svg,OLY
+674,2001,PSV,PSV,http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg,PSV
+678,2001,AFC Ajax,Ajax,http://upload.wikimedia.org/wikipedia/de/7/79/Ajax_Amsterdam.svg,AJA
+721,2001,RB Leipzig,RB Leipzig,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,RBL
+729,2001,FC Basel 1893,Basel,http://upload.wikimedia.org/wikipedia/commons/c/c5/FC_Basel.png,BAS
+731,2001,FK Zenit Sankt-Petersburg,Zenit,https://upload.wikimedia.org/wikipedia/commons/2/25/FC_Zenit_1_star_2015_logo.png,ZEN
+732,2001,Celtic FC,Celtic,https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg,CEL
+734,2001,NK Maribor,Maribor,https://upload.wikimedia.org/wikipedia/en/7/78/Nkmaribor_2013.png,MAR
+748,2001,FK BATE Borisov,BATE,http://upload.wikimedia.org/wikipedia/de/thumb/0/0a/Logo_BATE_Baryssau.svg/150px-Logo_BATE_Baryssau.svg.png,BAT
+752,2001,APOEL FC,APOEL,https://upload.wikimedia.org/wikipedia/en/0/06/APOELnew.png,APO
+755,2001,GNK Dinamo Zagreb,Dinamo Zagreb,http://www.gnkdinamo.hr/Content/Images/main-logo.png,DIN
+842,2001,FK Dynamo Kyiv,Dynamo Kyiv,https://upload.wikimedia.org/wikipedia/commons/5/5b/FC_Dynamo_Kyiv_logo.png,DYN
+851,2001,Club Brugge KV,Club Brugge,None,CLU
+889,2001,Rosenborg BK,Rosenborg,,RBK
+930,2001,SK Slavia Praha,Slavia Praha,,SLP
+1858,2001,KRC Genk,KRC Genk,None,GNK
+1871,2001,BSC Young Boys,Young Boys,None,YOB
+1873,2001,Dundalk FC,Dundalk,None,DUN
+1875,2001,F91 Diddeleng,F91 Dudelange,None,F91
+1876,2001,FC København,København,None,KOB
+1877,2001,FC Red Bull Salzburg,RB Salzburg,None,RBS
+1879,2001,FC Santa Coloma,Santa Coloma,None,FSC
+1880,2001,FC Sheriff Tiraspol,Sheriff,None,SHE
+1881,2001,FC Viktoria Plzeň,Viktoria Plzeň,None,PLZ
+1884,2001,Astana FK,Astana FK,None,AST
+1887,2001,FK Shakhtar Donetsk,Shaktar,None,SHD
+1896,2001,Linfield FC,Linfield,None,LIN
+1897,2001,Medipol Başakşehir FK,Başakşehir,None,BAS
+1901,2001,PFK Ludogorets 1945 Razgrad,Ludogorets,None,LUD
+1903,2001,Sport Lisboa e Benfica,SL Benfica,None,BEN
+1904,2001,The New Saints FC,The New Saints,None,TNS
+2016,2001,LASK Linz,LASK,None,LIN
+4275,2001,FK Sarajevo,Sarajevo,None,SAR
+5106,2001,Nõmme Kalju FC,Nõmme Kalju,None,NOM
+5123,2001,Helsingin JK,HJK,None,HJK
+5277,2001,AIK Fotboll,AIK Fotboll,None,AIK
+5452,2001,FK Krasnodar,Krasnodar,None,KRA
+5455,2001,FK Lokomotiv Moskva,Lok Moskva,None,LOK
+5515,2001,FC CFR 1907 Cluj,CFR Cluj,None,CLU
+5628,2001,GKS Piast Gliwice,Piast Gliwice,None,PIA
+5813,2001,Valletta FC,Valletta,None,VAL
+5819,2001,FK Sūduva Marijampolė,FK Sūduva,None,SUD
+5826,2001,Rīga FC,Rīga FC,None,RFC
+5929,2001,Maccabi Tel Aviv FC,Maccabi TA,None,MTA
+5945,2001,KF Valur,Valur,None,VAL
+5954,2001,Ferencvárosi TC,Ferencváros,None,FTC
+6146,2001,PAOK FC,PAOK FC,None,PAO
+7281,2001,Lincoln Red Imps FC,Lincoln,None,LIN
+7283,2001,FK Crvena Zvezda,Crvena Zvedza,None,CRV
+7284,2001,FK Sutjeska Nikšić,Sutjeska Nik,None,SUT
+7285,2001,KF Shkëndija 79,Shkëndija 79,None,SHK
+7492,2001,FK Partizani,Partizani,None,PAR
+7509,2001,ŠK Slovan Bratislava,Sl. Bratislava,None,SBA
+8101,2001,KF Feronikeli,Feronikeli,None,FER
+8102,2001,SP Tre Penne,Tre Penne,None,TPE
+8164,2001,FC Ararat-Armenia,Ararat-Armenia,None,A-A
+8165,2001,FC Saburtalo,Saburtalo,None,SAB
+8166,2001,HB,HB,None,HB

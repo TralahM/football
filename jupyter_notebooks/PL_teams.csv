@@ -1,0 +1,21 @@
+betradar_id,league_id,name,short_name,crest_url,team_abbreviation
+57,2021,Arsenal FC,Arsenal,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,ARS
+58,2021,Aston Villa FC,Aston Villa,http://upload.wikimedia.org/wikipedia/de/9/9f/Aston_Villa_logo.svg,AST
+61,2021,Chelsea FC,Chelsea,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,CHE
+62,2021,Everton FC,Everton,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,EVE
+64,2021,Liverpool FC,Liverpool,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,LIV
+65,2021,Manchester City FC,Man City,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,MCI
+66,2021,Manchester United FC,Man United,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,MUN
+67,2021,Newcastle United FC,Newcastle,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,NEW
+68,2021,Norwich City FC,Norwich,http://upload.wikimedia.org/wikipedia/de/8/8c/Norwich_City.svg,NOR
+73,2021,Tottenham Hotspur FC,Tottenham,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,TOT
+76,2021,Wolverhampton Wanderers FC,Wolverhampton,https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg,WOL
+328,2021,Burnley FC,Burnley,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,BUR
+338,2021,Leicester City FC,Leicester City,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,LEI
+340,2021,Southampton FC,Southampton,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,SOU
+346,2021,Watford FC,Watford,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,WAT
+354,2021,Crystal Palace FC,Crystal Palace,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_%282013%29.png,CRY
+356,2021,Sheffield United FC,Sheffield Utd,https://upload.wikimedia.org/wikipedia/en/9/9c/Sheffield_United_FC_logo.svg,SHE
+397,2021,Brighton & Hove Albion FC,Brighton Hove,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg,BHA
+563,2021,West Ham United FC,West Ham,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,WHU
+1044,2021,AFC Bournemouth,Bournemouth,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,BOU
