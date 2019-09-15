@@ -23,6 +23,9 @@ import json
 from sqlalchemy import create_engine
 from time import sleep
 import pandas as pd
+import os
+
+os.system("env - `cat /root/football/env_conf.sh` /bin/sh")
 
 API = '278236859e9f4dff94372b4af8037d31'
 DB_USER = 'root'
