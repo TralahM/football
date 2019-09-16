@@ -65,7 +65,7 @@ def update_db_schedules(dataframe):
     new_df["away_team_label"] = ""
     new_df["away_team_badge"] = ""
     new_df["created_at"] = datetime.now()
-    new_df["modified_at"] = datetime.now()
+    new_df["updated_at"] = datetime.now()
     with ENGINE.connect() as conn, conn.begin():
         new_df.to_sql('schedules', conn,
                       if_exists='replace', index_label='id')
