@@ -230,7 +230,7 @@ def run_hourly_update():
             match_list(fixtures(lid))
         update_db_schedules(unify_matches_csv())
         print("Done with update at\t {}".format(datetime.now()))
-        sleep(3000)
+        sleep(3600)
 
 
 if __name__ == '__main__':
