@@ -64,6 +64,8 @@ def update_db_schedules(dataframe):
     new_df["home_team_badge"] = ""
     new_df["away_team_label"] = ""
     new_df["away_team_badge"] = ""
+    new_df["created_at"] = datetime.now()
+    new_df["modified_at"] = datetime.now()
     with ENGINE.connect() as conn, conn.begin():
         new_df.to_sql('schedules', conn,
                       if_exists='replace', index_label='id')
@@ -127,8 +129,8 @@ def team_list(Response):
 
 
 def match_list(Response):
-    columns = ['match_id', 'match_date', 'match_time', 'home_team_id', 'home_team_name', 'away_team_id',
-               'away_team_name', 'league_id', 'match_day', 'home_team_score', 'away_team_score', 'status', 'Winner']
+    columns = ['match_id', 'match_date', 'home_team_id', 'home_team_name', 'away_team_id',
+               'away_team_name', 'league_id', 'match_day', 'home_team_score', 'away_team_score', 'status', 'winner']
 
     matches = Response['matches']
     # nmatches = len(matches)
@@ -139,8 +141,8 @@ def match_list(Response):
         for match in matches:
             ln = list()
             ln.append(match['id'])
-            ln.append(str2date(match['utcDate'].split('T')[0]))
-            ln.append(str2time(match['utcDate'].split('T')[1].split('Z')[0]))
+            ln.append(datetime.strptime(
+                match['utcDate'].replace('T', '').replace('Z', '')))
             ln.append(match['homeTeam']['id'].__str__())
             ln.append(match['homeTeam']['name'])
             ln.append(match['awayTeam']['id'].__str__())
