@@ -142,7 +142,7 @@ def match_list(Response):
             ln = list()
             ln.append(match['id'])
             ln.append(datetime.strptime(
-                match['utcDate'].replace('T', '').replace('Z', '')))
+                match['utcDate'].replace('T', ' ').replace('Z', ''), '%Y-%m-%d %H:%M:%S'))
             ln.append(match['homeTeam']['id'].__str__())
             ln.append(match['homeTeam']['name'])
             ln.append(match['awayTeam']['id'].__str__())
